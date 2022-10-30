@@ -1,5 +1,4 @@
-# Constructing Knowledge Graph for Metal-Organic Frameworks (MOFs) through 
-Probing Large Pre-Trained Language Models
+# Constructing Knowledge Graph for Metal-Organic Frameworks (MOFs) through Probing Large Pre-Trained Language Models
 Data and experiment notebooks of the paper: Constructing Knowledge Graph for Metal-Organic Frameworks (MOFs) through 
 Probing Large Pre-Trained Language Models
 
