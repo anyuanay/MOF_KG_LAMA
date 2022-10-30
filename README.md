@@ -1,6 +1,6 @@
-# Constructing Knowledge Graph for Metal-Organic Frameworks (MOFs) through Probing Large Pre-Trained Language Models
-Data and Jupyter notebooks of the paper: Constructing Knowledge Graph for Metal-Organic Frameworks (MOFs) through 
-Probing Large Pre-Trained Language Models
+# Exploring Pre-Trained Language Models to Build Knowledge Graph for Metal-Organic Frameworks (MOFs)
+Data and Jupyter notebooks of the paper: Exploring Pre-Trained Language Models to Build
+Knowledge Graph for Metal-Organic Frameworks (MOFs)
 
 ## Introduction
 Prompt-Design on Pre-trained large Language Models (prompt-design\&PLM) has become an emerging paradigm for a range of NLP tasks.
