@@ -1,0 +1,1801 @@
+SubjectEntity,Relation,ObjectEntity
+MROF-1,hasCrystalSystem,hexagonal
+MOF-CJ3,hasCrystalSystem,tetragonal
+"catena-(octakis(μ6-4,4',4''-s-Triazine-2,4,6-triyltribenzoato)-dodeca-aqua-dodeca-copper dimethylsulfoxide solvate hydrate)|PCN-6|Teaching Subset: MOFs",hasCrystalSystem,rhombohedral
+Spirof-MOF,hasCrystalSystem,orthorhombic
+NJU-Bai9,hasCrystalSystem,cubic
+MOF-1,hasCrystalSystem,cubic
+MOF-2,hasCrystalSystem,cubic
+TCM-9-Ho,hasCrystalSystem,orthorhombic
+"catena-[bis(μ4-(2RS,3RS)-2,3-Dihydroxybutanedioato-O,O',O'',O''',O'''',O''''')-(μ2-oxalato-O,O',O'',O''')-diaqua-di-lanthanum(iii) tetrahydrate]",hasCrystalSystem,monoclinic
+"catena-[(μ8-4,4'-(Hexafluoroisopropylidene)diphthalato)-aqua-di-cadmium(ii) hemihydrate]",hasCrystalSystem,rhombohedral
+"catena-[bis(μ4-Hydrogen zoledronato)-bis(μ2-1,2-bis(4-pyridyl)ethene)-tri-nickel unknown solvate tetrahydrate]",hasCrystalSystem,triclinic
+SNU-50,hasCrystalSystem,rhombohedral
+URMOF-4,hasCrystalSystem,trigonal
+URMOF-1,hasCrystalSystem,tetragonal
+URMOF-2,hasCrystalSystem,tetragonal
+UMCM-151,hasCrystalSystem,orthorhombic
+UMCM-152,hasCrystalSystem,rhombohedral
+UMCM-153,hasCrystalSystem,orthorhombic
+UMCM-154,hasCrystalSystem,monoclinic
+NTU-5,hasCrystalSystem,monoclinic
+NTU-6,hasCrystalSystem,monoclinic
+NTU-7,hasCrystalSystem,monoclinic
+NTU-8,hasCrystalSystem,monoclinic
+NTU-9,hasCrystalSystem,monoclinic
+NTU-10,hasCrystalSystem,monoclinic
+BIF-80,hasCrystalSystem,triclinic
+BUT-21,hasCrystalSystem,orthorhombic
+DUT-63,hasCrystalSystem,cubic
+DUT-64,hasCrystalSystem,cubic
+DUT-77,hasCrystalSystem,cubic
+JUC-199,hasCrystalSystem,monoclinic
+MOF-76(Ho),hasCrystalSystem,tetragonal
+MOF-76(Tm),hasCrystalSystem,tetragonal
+FJI-H12,hasCrystalSystem,tetragonal
+TMU-22,hasCrystalSystem,monoclinic
+TMU-23,hasCrystalSystem,monoclinic
+CALF-33-Et2H,hasCrystalSystem,triclinic
+DUT-28(LT),hasCrystalSystem,monoclinic
+ZJU-199,hasCrystalSystem,rhombohedral
+"catena-((μ3-Pyridine-4-carboxylato-O,O',N)-(μ2-pyridine-4-carboxylato-O,N)-copper(ii) dihydrate clathrate)",hasCrystalSystem,monoclinic
+"catena-[bis((μ-hydroxo)-(μ-4,4'-[1,3-phenylenebis(methylene)]bis(4H-1,2,4-triazole))-(μ-2,2'-(1,4-phenylene)diacetato)-di-copper) dichromate hexahydrate]",hasCrystalSystem,monoclinic
+SZ-2,hasCrystalSystem,tetragonal
+SZ-3,hasCrystalSystem,monoclinic
+UTSA-222,hasCrystalSystem,rhombohedral
+SNNU-61,hasCrystalSystem,cubic
+NNU-36,hasCrystalSystem,monoclinic
+"catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diazanidediyl]dipropanoato)--(μ-aqua)-bis(μ-hydroxy)-calcium(ii)-hexa-copper(ii) hydrate]",hasCrystalSystem,hexagonal
+FJU-40-H,hasCrystalSystem,orthorhombic
+UCY-11,hasCrystalSystem,monoclinic
+UCY-10,hasCrystalSystem,monoclinic
+UCY-8,hasCrystalSystem,monoclinic
+UCY-6,hasCrystalSystem,monoclinic
+UCY-5,hasCrystalSystem,monoclinic
+UCY-4,hasCrystalSystem,monoclinic
+FJI-H17,hasCrystalSystem,monoclinic
+FJI-H18,hasCrystalSystem,triclinic
+bio-MOF-12,hasCrystalSystem,tetragonal
+UTSA-62,hasCrystalSystem,hexagonal
+FJI-H15,hasCrystalSystem,cubic
+MOZIF-1,hasCrystalSystem,tetragonal
+UPC-35,hasCrystalSystem,tetragonal
+UTSA-28-Cu,hasCrystalSystem,cubic
+UTSA-28-Zn,hasCrystalSystem,cubic
+Cu-PCN-224,hasCrystalSystem,cubic
+MMPF-9,hasCrystalSystem,hexagonal
+HV-MOF-1,hasCrystalSystem,triclinic
+"catena-(tris(μ2-Quinato-O,O',O')-triaqua-aluminium(iii)-potassium hydroxide monohydrate)",hasCrystalSystem,cubic
+FIR-54,hasCrystalSystem,orthorhombic
+"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecakis(methanol)-dodeca-cadmium(ii) hexahydrate)",hasCrystalSystem,cubic
+"catena-(Lead(ii) tetrakis(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecaaqua-dodeca-lead(ii) hexahydrate)",hasCrystalSystem,cubic
+"catena-(Sesqui-lead(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodeca-lead(ii) hexahydrate)",hasCrystalSystem,cubic
+"catena-(octakis(μ6-5,5,10,10,15,15-Hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-hydroxo)-dodecakis(methanol)-dodeca-dysprosium(iii) nonanitrate methanol solvate monohydrate)",hasCrystalSystem,cubic
+"catena-(Di-cadmium(ii) bis(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecakis(methanol)-dodeca-cadmium(ii) tetrahydrate)",hasCrystalSystem,cubic
+"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecaaqua-dodeca-cadmium(ii) hexahydrate)",hasCrystalSystem,cubic
+"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodeca-cadmium(ii) hexahydrate)",hasCrystalSystem,cubic
+"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodeca-cadmium(ii) hexahydrate)",hasCrystalSystem,cubic
+"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodeca-cadmium(ii) hexahydrate)",hasCrystalSystem,cubic
+"catena-(Sesqui-lead(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecaaqua-dodeca-lead(ii) hexahydrate)",hasCrystalSystem,cubic
+UiO-66(Ce)-Fumarate,hasCrystalSystem,cubic
+MIL-120,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPO-54-Mn,hasCrystalSystem,rhombohedral
+CPO-54-Mn,hasCrystalSystem,rhombohedral
+UTSA-38,hasCrystalSystem,triclinic
+IMP-14,hasCrystalSystem,monoclinic
+SION-1@H2O,hasCrystalSystem,monoclinic
+FIR-1,hasCrystalSystem,orthorhombic
+CAU-3-BDC,hasCrystalSystem,rhombohedral
+DUT-42,hasCrystalSystem,hexagonal
+MET-5,hasCrystalSystem,cubic
+CPM-132,hasCrystalSystem,tetragonal
+CPM-133,hasCrystalSystem,rhombohedral
+she-MOF-1,hasCrystalSystem,cubic
+she-MOF-2,hasCrystalSystem,cubic
+she-MOF-3,hasCrystalSystem,cubic
+AITCS-2,hasCrystalSystem,trigonal
+FIR-5,hasCrystalSystem,triclinic
+FIR-4,hasCrystalSystem,orthorhombic
+"catena-((μ4-Pentaerythritol tetrakis(4-pyridinecarboxylate)-N,N',N'',N''')-bis(isothiocyanato)-cobalt)",hasCrystalSystem,tetragonal
+NTOU-2,hasCrystalSystem,orthorhombic
+NTOU-3,hasCrystalSystem,orthorhombic
+FIR-47,hasCrystalSystem,monoclinic
+"catena-[hexakis(diethylammonium)  nile blue A octakis(μ-1,3,5-benzenetribenzoato)-hexa-indium(iii) unknown solvate]",hasCrystalSystem,rhombohedral
+NOF-1,hasCrystalSystem,cubic
+"catena-[tris(μ-5-(4-pyridin-3-yl-benzoylamino)-isophthalato)-tris(aqua)-di-lanthanum(iii) N,N-dimethylformamide solvate trihydrate]",hasCrystalSystem,triclinic
+"catena-[tris(μ-5-(4-pyridin-3-yl-benzoylamino)-isophthalato)-tris(aqua)-di-neodymium(iii) N,N-dimethylformamide solvate trihydrate]",hasCrystalSystem,triclinic
+"catena-[tris(μ-5-(4-pyridin-3-yl-benzoylamino)-isophthalato)-tris(aqua)-di-samarium(iii) N,N-dimethylformamide solvate trihydrate]",hasCrystalSystem,triclinic
+PCM-4,hasCrystalSystem,cubic
+HENU-1,hasCrystalSystem,triclinic
+LMOF-202,hasCrystalSystem,monoclinic
+LMOF-202,hasCrystalSystem,monoclinic
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Mn,hasCrystalSystem,rhombohedral
+CPO-27-Mn,hasCrystalSystem,rhombohedral
+CPO-27-Mn,hasCrystalSystem,rhombohedral
+MMPF-7,hasCrystalSystem,monoclinic
+MMPF-8,hasCrystalSystem,monoclinic
+JLU-Liu10,hasCrystalSystem,cubic
+JLU-Liu8,hasCrystalSystem,rhombohedral
+"catena-(bis(μ3-4,4'-Biphenyldicarboxylato-O,O',O'')-(μ2-1,2-bipyridylethene)-di-zinc(ii) bis(dimethylformamide) clathrate)|catena-(bis(μ3-Biphenyl-4,4'-dicarboxylato)-(μ2-1,2-bis(4-pyridyl)ethene)-di-zinc dimethylformamide clathrate)",hasCrystalSystem,monoclinic
+MAF-42,hasCrystalSystem,monoclinic
+Medi-MOF-1,hasCrystalSystem,trigonal
+ZJNU-17,hasCrystalSystem,hexagonal
+"catena-[dodecakis(μ-cyano)-tris(μ-tris(isonicotinoyl)cyclotriguaiacyclene)-octa-copper(i)-tri-copper(ii) bis(cyanide) N,N-dimethylformamide solvate]",hasCrystalSystem,rhombohedral
+FJU-6,hasCrystalSystem,tetragonal
+FJU-6-PTB,hasCrystalSystem,tetragonal
+FJU-6-Me-INA,hasCrystalSystem,tetragonal
+FJU-6-TATB,hasCrystalSystem,tetragonal
+FJU-6-Ni,hasCrystalSystem,tetragonal
+CTH-6,hasCrystalSystem,monoclinic
+TMU-10,hasCrystalSystem,monoclinic
+TMU-12,hasCrystalSystem,monoclinic
+Teaching Subset: MOFs,hasCrystalSystem,orthorhombic
+"catena-[bis(Oxonium) (μ-3,3 ,5,5 -azobenzentetracarboxylato)-bis(1,3-dimethylimidazolidin-2-one)-magnesium]",hasCrystalSystem,monoclinic
+FIR-35,hasCrystalSystem,triclinic
+CPM-143,hasCrystalSystem,hexagonal
+CPM-153,hasCrystalSystem,hexagonal
+FJI-8,hasCrystalSystem,rhombohedral
+CAU-8-ODB,hasCrystalSystem,tetragonal
+CAU-21-BPDC,hasCrystalSystem,tetragonal
+BIF-22,hasCrystalSystem,orthorhombic
+BIF-23,hasCrystalSystem,monoclinic
+ZJU-136-Tb,hasCrystalSystem,triclinic
+NBU-18,hasCrystalSystem,monoclinic
+AuCl-PCM-101,hasCrystalSystem,orthorhombic
+JCM-1,hasCrystalSystem,tetragonal
+MOF-818,hasCrystalSystem,cubic
+SNU-151,hasCrystalSystem,triclinic
+SNU-150',hasCrystalSystem,cubic
+"catena-[bis(μ-2,4,6-tri(pyridin-4-yl)-1,3,5-triazine)-hexachloro-tri-zinc tetrakis(piperonyl methyl ketone)]",hasCrystalSystem,monoclinic
+MFM-305-CH3.0.71CO2,hasCrystalSystem,tetragonal
+FJI-H21,hasCrystalSystem,orthorhombic
+"catena-[(μ4-Oxalato-O,O,O',O'',O'',O''')-tetrakis(μ3-3-pyridinecarboxylato-N,O,O')-(μ2-oxalato-O,O',O'',O''')-di-copper(i)-di-europium(iii) tetrahydrate]",hasCrystalSystem,monoclinic
+"catena-[(μ-2,8,14,20-tetramethyl-4,6,10,12,16,18,22,24-octakis(carboxylatomethoxy)calix(4)arene)-octaaqua-bis(N,N-dimethylformamide)-tetra-cobalt pentahydrate]",hasCrystalSystem,trigonal
+"catena-[(μ-2,8,14,20-tetramethyl-4,6,10,12,16,18,22,24-octakis(carboxylatomethoxy)calix(4)arene)-octaaqua-bis(N,N-dimethylformamide)-tetra-nickel hexahydrate]",hasCrystalSystem,trigonal
+"catena-[dimethylammonium (μ-2,8,14,20-tetramethyl-4,6,10,12,16,18,22-heptakis(carboxylatomethoxy)-24-(carboxymethoxy)calix(4)arene)-hexaaqua-(N,N-dimethylformamide)-tri-manganese octahydrate]",hasCrystalSystem,triclinic
+CPM-107as,hasCrystalSystem,orthorhombic
+ZJU-70,hasCrystalSystem,orthorhombic
+HKUST-1,hasCrystalSystem,cubic
+MIL-53(Al)-FA|BasoliteA520,hasCrystalSystem,monoclinic
+AUBM-3(La),hasCrystalSystem,triclinic
+FJU-12,hasCrystalSystem,orthorhombic
+JUC-135,hasCrystalSystem,rhombohedral
+LCU-107,hasCrystalSystem,monoclinic
+FJI-H26,hasCrystalSystem,hexagonal
+the activated NJU-Bai62,hasCrystalSystem,monoclinic
+NJU-Bai62,hasCrystalSystem,triclinic
+NJU-Bai63,hasCrystalSystem,monoclinic
+SU-101,hasCrystalSystem,tetragonal
+UWDM-1(22),hasCrystalSystem,rhombohedral
+"catena-(diaqua-bis(μ6-s-heptazine-2,5,8-tris(4-benzoato))-tri-zinc N,N-dimethylformamide solvate pentahydrate)",hasCrystalSystem,cubic
+Teaching Subset: MOFs,hasCrystalSystem,cubic
+"catena-(octakis(μ4-Benzene-1,4-dicarboxylato)-dodecakis(μ2-hydroxo)-octa-iron ibuprofen)",hasCrystalSystem,triclinic
+SNU-200,hasCrystalSystem,tetragonal
+MIL-53as p-xylene,hasCrystalSystem,orthorhombic
+NKU-521,hasCrystalSystem,hexagonal
+catena-[hexakis(dimethylammonium) tris(μ-meso-tetra(4-carboxylatophenyl)porphyrinato)-bis(aqua)-bis(μ-adenine)-bis(μ-oxido)-nona-zinc(ii) unknown solvate],hasCrystalSystem,triclinic
+"catena-[tetrakis(dimethylammonium) tris(μ-meso-tetra(4-carboxylatophenyl)porphyrinato)-dodecakis(μ-2H-1,2,3-triazolyl)-dodecakis(aqua)-trideca-zinc(ii) unknown solvate]",hasCrystalSystem,triclinic
+DUT-13,hasCrystalSystem,rhombohedral
+ZJU-68,hasCrystalSystem,trigonal
+SLUG-23,hasCrystalSystem,triclinic
+NJU-Bai20,hasCrystalSystem,cubic
+SIFSIX-1-Cu-C2D2,hasCrystalSystem,tetragonal
+SCIF-9,hasCrystalSystem,orthorhombic
+GaMOF-1,hasCrystalSystem,cubic
+BUT-20,hasCrystalSystem,rhombohedral
+TMOF-2a,hasCrystalSystem,monoclinic
+PCM-11,hasCrystalSystem,monoclinic
+MAF-X27-Cl,hasCrystalSystem,rhombohedral
+ROD-1,hasCrystalSystem,tetragonal
+np-CFA-9,hasCrystalSystem,orthorhombic
+NOTT-400,hasCrystalSystem,tetragonal
+TMOF-1,hasCrystalSystem,monoclinic
+WUF-1,hasCrystalSystem,monoclinic
+"catena-[(μ5-5-(Pyridin-3-ylethynyl)benzene-1,3-dicarboxylato-N,O,O',O'',O''')-copper(ii) dimethylformamide solvate hydrate]",hasCrystalSystem,rhombohedral
+"catena-[(μ5-5-(Pyridin-3-ylethynyl)benzene-1,3-dicarboxylato-N,O,O',O'',O''')-copper(ii)]",hasCrystalSystem,rhombohedral
+catena-[(μ-tetrakis(4-cyanophenyl)adamantane)-silver tetrafluoroborate nitromethane solvate],hasCrystalSystem,hexagonal
+catena-[(μ-tetrakis(4-cyanophenyl)adamantane)-silver trifluoroacetate nitromethane solvate],hasCrystalSystem,hexagonal
+catena-[(μ-tetrakis(4-cyanophenyl)adamantane)-silver tetrafluoroborate nitromethane solvate],hasCrystalSystem,monoclinic
+MFM-188a desolvated,hasCrystalSystem,tetragonal
+MFM-188,hasCrystalSystem,tetragonal
+MFM-188,hasCrystalSystem,tetragonal
+MFM-188,hasCrystalSystem,tetragonal
+"catena-[(μ5-5-Aminoisophthalato)-(μ2-5-aminoisophthalato)-(2,2'-bipyridine)-di-cobalt(ii) dihydrate]",hasCrystalSystem,monoclinic
+MFM-300V(iii),hasCrystalSystem,tetragonal
+MFM-300V(iii),hasCrystalSystem,tetragonal
+MFM-300V(iv),hasCrystalSystem,tetragonal
+FJI-C4,hasCrystalSystem,orthorhombic
+"catena-[bis(μ4-5-Hydroxyisophthalato-O,O,O',O'',O'',O''')-(μ4-5-hydroxyisophthalato-O,O',O'',O''')-diaqua-di-praseodymium(iii)]",hasCrystalSystem,tetragonal
+MIL-88,hasCrystalSystem,hexagonal
+DMOF-1,hasCrystalSystem,monoclinic
+DMOF-2,hasCrystalSystem,monoclinic
+DMOF-3,hasCrystalSystem,triclinic
+DMOF-4,hasCrystalSystem,monoclinic
+DMOF-5,hasCrystalSystem,monoclinic
+DMOF-6,hasCrystalSystem,monoclinic
+DMOF-9,hasCrystalSystem,monoclinic
+DMOF-11,hasCrystalSystem,monoclinic
+CMOF-2,hasCrystalSystem,tetragonal
+Mn-ZIF-8,hasCrystalSystem,cubic
+catena-[tetrakis(μ-isonicotinato)-di-manganese(ii) methanol solvate],hasCrystalSystem,monoclinic
+catena-[(μ-hydrogen gallato)-iron(ii) hydrate],hasCrystalSystem,trigonal
+catena-[tris(μ-gallato)-tri-iron(iii) hydrate],hasCrystalSystem,trigonal
+catena-[(μ-gallato)-bis(μ-hydrogen gallato)-tri-iron hydrate],hasCrystalSystem,trigonal
+GWMOF-3,hasCrystalSystem,triclinic
+CPM-4,hasCrystalSystem,hexagonal
+CPM-30,hasCrystalSystem,trigonal
+CPM-31,hasCrystalSystem,trigonal
+"catena-[(μ4-Carnosinato)-zinc(ii) N,N-dimethylformamide solvate]",hasCrystalSystem,monoclinic
+catena-[(μ4-Carnosinato)-zinc(ii)],hasCrystalSystem,monoclinic
+catena-[(μ4-Carnosinato)-zinc(ii) methanol solvate],hasCrystalSystem,monoclinic
+catena-[bis(μ4-Carnosinato)-di-zinc(ii) hexahydrate],hasCrystalSystem,monoclinic
+HKUST-1|Teaching Subset: MOFs,hasCrystalSystem,cubic
+PCP-2,hasCrystalSystem,trigonal
+Hf-CAU-39,hasCrystalSystem,cubic
+TMU-42,hasCrystalSystem,triclinic
+MIL-53(In)_(OH)2_lp_DMF,hasCrystalSystem,orthorhombic
+PCN-777,hasCrystalSystem,cubic
+BUT-173,hasCrystalSystem,monoclinic
+HKUST-1 (as synthesised),hasCrystalSystem,cubic
+MFM-300(V(iii)).(NO2)1.67,hasCrystalSystem,tetragonal
+Co6-MOF-1,hasCrystalSystem,hexagonal
+Ce-MIL-140-BDC,hasCrystalSystem,triclinic
+In-MOF 1,hasCrystalSystem,orthorhombic
+FJU-66.S,hasCrystalSystem,tetragonal
+FJU-66.[EVIm]OH,hasCrystalSystem,tetragonal
+MMPF-1,hasCrystalSystem,tetragonal
+493-MOF-BA,hasCrystalSystem,tetragonal
+"catena-[bis(μ6-4,4'-(Hexafluoroisopropylidene)diphthalato)-(μ5-4,4'-(hexafluoroisopropylidene)diphthalato)-nona-aqua-tetra-terbium(iii) heptahydrate]",hasCrystalSystem,triclinic
+catena-[(μ4-Mucicato)-bis(μ2-mucicato)-diaqua-di-terbium(iii) tetrahydrate],hasCrystalSystem,triclinic
+NENU-519,hasCrystalSystem,tetragonal
+BUT-14,hasCrystalSystem,tetragonal
+BUT-15,hasCrystalSystem,tetragonal
+DUT-98 close pore,hasCrystalSystem,triclinic
+NUM-3,hasCrystalSystem,rhombohedral
+catena-((μ4-Gallato)-manganese(ii) dihydrate),hasCrystalSystem,trigonal
+catena-[bis(μ4-Gallato)-di-manganese(ii) tetrahydrate],hasCrystalSystem,trigonal
+catena-[(μ4-Gallato)-manganese(ii) dihydrate],hasCrystalSystem,trigonal
+catena-((μ4-Gallato)-nickel(ii) dihydrate),hasCrystalSystem,trigonal
+catena-[bis(μ4-Gallato)-di-nickel(ii) tetrahydrate],hasCrystalSystem,trigonal
+PCM-16,hasCrystalSystem,monoclinic
+PCN-605-H,hasCrystalSystem,orthorhombic
+SEC-1,hasCrystalSystem,monoclinic
+UPC-22,hasCrystalSystem,monoclinic
+HPU-13,hasCrystalSystem,trigonal
+YZ-7,hasCrystalSystem,monoclinic
+YZ-8,hasCrystalSystem,monoclinic
+FJU-36,hasCrystalSystem,orthorhombic
+MCOF-89,hasCrystalSystem,cubic
+UTSA-32,hasCrystalSystem,monoclinic
+BUT-62Y,hasCrystalSystem,orthorhombic
+BUT-62Y-H2O,hasCrystalSystem,orthorhombic
+BUT-63W,hasCrystalSystem,orthorhombic
+Toluene@BUT-62,hasCrystalSystem,orthorhombic
+Ni-IRMOF-74-II,hasCrystalSystem,rhombohedral
+Ni-IRMOF-74-III,hasCrystalSystem,rhombohedral
+Ni-IRMOF-74-IV,hasCrystalSystem,rhombohedral
+Ni-IRMOF-74-V,hasCrystalSystem,rhombohedral
+BUT-62,hasCrystalSystem,orthorhombic
+BIT-101,hasCrystalSystem,cubic
+BIT-103,hasCrystalSystem,cubic
+ZIF-65-SOD,hasCrystalSystem,cubic
+ZIF-71-RHO,hasCrystalSystem,cubic
+ZIF-74-GIS,hasCrystalSystem,tetragonal
+catena-(tris(μ2-5-(4-pyridyl)dipyrrin)-gallium(iii)-silver(i) hexafluorophosphate acetonitrile benzene unknown solvate),hasCrystalSystem,orthorhombic
+catena-(tris(μ2-5-(4-pyridyl)dipyrrin)-gallium(iii)-silver(i) hexafluorophosphate acetonitrile benzene solvate),hasCrystalSystem,monoclinic
+PCN-136,hasCrystalSystem,cubic
+"catena-[bis(μ4-3,4-Dioxocyclobut-1-ene-1,2-dithiolato-S,S,S,S',S')-bis(μ4-3,4-dioxocyclobut-1-ene-1,2-dithiolato-O,S,S,S')-tetrakis(N-methylethylenediamine-N,N')-tetra-copper(i)-di-copper(ii) dihydrate]",hasCrystalSystem,triclinic
+RPF-4,hasCrystalSystem,orthorhombic
+NJU-Bai49,hasCrystalSystem,rhombohedral
+CPM-74,hasCrystalSystem,hexagonal
+CPM-75,hasCrystalSystem,orthorhombic
+Ce-HHU-1,hasCrystalSystem,cubic
+SCNU-1,hasCrystalSystem,cubic
+catena-[(μ-benzenehexacarboxylato)-decaaqua-tri-barium tetrahydrate],hasCrystalSystem,monoclinic
+Al-CAU-42,hasCrystalSystem,cubic
+NENU-522,hasCrystalSystem,rhombohedral
+BMM-12,hasCrystalSystem,orthorhombic
+CSMCRI-5,hasCrystalSystem,monoclinic
+TMU-71,hasCrystalSystem,monoclinic
+MIL-118B,hasCrystalSystem,orthorhombic
+MIL-118C,hasCrystalSystem,orthorhombic
+MIL-53lt,hasCrystalSystem,monoclinic
+MFU-5,hasCrystalSystem,hexagonal
+NTOU-2S,hasCrystalSystem,orthorhombic
+MIL-60,hasCrystalSystem,triclinic
+MCF-26,hasCrystalSystem,hexagonal
+PCN-610,hasCrystalSystem,cubic
+"catena-[(μ4-tetrakis(Imidazol-1-yl)borate-N3,N3',N3'',N3''')-(μ2-terephthalato-O,O')-(μ2-imidazolyl-N1,N3)-di-zinc(ii) N,N'-dimethylpropyleneurea solvate]|MC-BIF-1S",hasCrystalSystem,tetragonal
+MC-BIF-3H,hasCrystalSystem,monoclinic
+LMOF-261,hasCrystalSystem,tetragonal
+MFM-136,hasCrystalSystem,rhombohedral
+"catena-[bis(μ2-2-Aminoisonicotinato-N:O,O')-cadmium(ii) unknown solvate]",hasCrystalSystem,orthorhombic
+"catena-[bis(μ2-2-Aminoisonicotinato-N:O,O')-cobalt(ii) unknown solvate]",hasCrystalSystem,orthorhombic
+CPM-500,hasCrystalSystem,hexagonal
+CPM-550,hasCrystalSystem,hexagonal
+CPM-560,hasCrystalSystem,hexagonal
+"catena-[(μ5-5-(Isonicotinamido)isophthalato-N,O,O',O'',O''')-zinc(ii) dimethylformamide solvate]",hasCrystalSystem,monoclinic
+JUC-188,hasCrystalSystem,triclinic
+CPM-15-Cd,hasCrystalSystem,cubic
+UTSA-34,hasCrystalSystem,orthorhombic
+catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasCrystalSystem,monoclinic
+catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasCrystalSystem,monoclinic
+catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasCrystalSystem,orthorhombic
+catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasCrystalSystem,orthorhombic
+catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasCrystalSystem,orthorhombic
+catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasCrystalSystem,orthorhombic
+catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasCrystalSystem,orthorhombic
+catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasCrystalSystem,orthorhombic
+catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasCrystalSystem,orthorhombic
+FIR-45,hasCrystalSystem,monoclinic
+MET-2,hasCrystalSystem,cubic
+CAU-7-TATB,hasCrystalSystem,orthorhombic
+CAU-35,hasCrystalSystem,orthorhombic
+PCN-605-H-Br,hasCrystalSystem,orthorhombic
+PCN-605-H-Dry,hasCrystalSystem,orthorhombic
+PCN-606-NH2 (fresh),hasCrystalSystem,orthorhombic
+PCN-608-OH,hasCrystalSystem,hexagonal
+PCN-606-OMe (fresh),hasCrystalSystem,orthorhombic
+PCN-700-Br,hasCrystalSystem,tetragonal
+MUV-2,hasCrystalSystem,hexagonal
+NTU-20,hasCrystalSystem,tetragonal
+NPF-300(Hf),hasCrystalSystem,orthorhombic
+NPF-300,hasCrystalSystem,orthorhombic
+NPF-300-LT,hasCrystalSystem,orthorhombic
+HPU-3,hasCrystalSystem,cubic
+Mn-CFA-6-DMAc,hasCrystalSystem,monoclinic
+ZJNU-81,hasCrystalSystem,orthorhombic
+Zr-PCN-221(Cu),hasCrystalSystem,cubic
+"catena-[tris(μ-(S,S)-serimox)-bis(μ-hydroxo)-(μ-aqua)-calcium(ii)-hexa-copper(ii) Auramine O clathrate acetonitrile solvate pentadecahydrate]",hasCrystalSystem,hexagonal
+Co-CAU-36,hasCrystalSystem,tetragonal
+Co-CAU-36,hasCrystalSystem,tetragonal
+Co-CAU-36,hasCrystalSystem,tetragonal
+Co-CAU-36,hasCrystalSystem,tetragonal
+Co-CAU-36,hasCrystalSystem,tetragonal
+Co-CAU-36,hasCrystalSystem,tetragonal
+Co-CAU-36,hasCrystalSystem,tetragonal
+Co-CAU-36,hasCrystalSystem,tetragonal
+Co-CAU-36,hasCrystalSystem,tetragonal
+Co-CAU-36,hasCrystalSystem,tetragonal
+UPC-102-Zr,hasCrystalSystem,hexagonal
+VNU 22,hasCrystalSystem,orthorhombic
+UPC-99,hasCrystalSystem,orthorhombic
+ZJU-158-Tb,hasCrystalSystem,monoclinic
+PCN-12',hasCrystalSystem,hexagonal
+"catena-[bis(μ4-1,5-pentanedioato-O,O',O'',O''')-(μ2-N,N'-bis(4-pyridyl)piperazine-N,N')-di-copper(ii) tetrahydrate]",hasCrystalSystem,monoclinic
+UWDM-3,hasCrystalSystem,monoclinic
+α-IRMOF-3-AMPh,hasCrystalSystem,cubic
+BUT-2,hasCrystalSystem,cubic
+BUT-48,hasCrystalSystem,rhombohedral
+BUT-49,hasCrystalSystem,rhombohedral
+ZTIF-14,hasCrystalSystem,tetragonal
+ZTIF-15,hasCrystalSystem,tetragonal
+JUC-65,hasCrystalSystem,orthorhombic
+JUC-66,hasCrystalSystem,orthorhombic
+JUC-67,hasCrystalSystem,orthorhombic
+JUC-70,hasCrystalSystem,monoclinic
+"catena-((μ3-Homophthalato-O,O',O'')-(μ3-oxo)-tetramethyl-di-tin(iv) hydrate)",hasCrystalSystem,rhombohedral
+rtl-MOF-2,hasCrystalSystem,monoclinic
+"catena-[(μ4-Oxalato-O,O,O',O'',O'',O''')-tetrakis(μ3-3-pyridinecarboxylato-N,O,O')-(μ2-oxalato-O,O',O'',O''')-di-samarium(iii)-di-silver(i) tetrahydrate]",hasCrystalSystem,monoclinic
+FJI-H8,hasCrystalSystem,tetragonal
+MCF-56,hasCrystalSystem,monoclinic
+MCF-57,hasCrystalSystem,monoclinic
+UPC-15,hasCrystalSystem,cubic
+CAU-46,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+CPL-2,hasCrystalSystem,monoclinic
+SNU-81,hasCrystalSystem,monoclinic
+SNU-82,hasCrystalSystem,monoclinic
+SNU-84,hasCrystalSystem,monoclinic
+SNU-85,hasCrystalSystem,monoclinic
+SNU-86,hasCrystalSystem,monoclinic
+SNNU-21,hasCrystalSystem,orthorhombic
+SNNU-23,hasCrystalSystem,orthorhombic
+ECUT-30,hasCrystalSystem,monoclinic
+SCIF-11,hasCrystalSystem,orthorhombic
+SCIF-12,hasCrystalSystem,orthorhombic
+MIL-47(V),hasCrystalSystem,triclinic
+MIL-47(V),hasCrystalSystem,triclinic
+MIL-47(V),hasCrystalSystem,triclinic
+MIL-47(V),hasCrystalSystem,triclinic
+MIL-47(V),hasCrystalSystem,triclinic
+NJU-Bai7,hasCrystalSystem,monoclinic
+NJU-Bai8,hasCrystalSystem,monoclinic
+P11-Cu,hasCrystalSystem,triclinic
+Hf-MOF-808 selenate unknown solvate,hasCrystalSystem,cubic
+Hf-MOF-808 selenite unknown solvate,hasCrystalSystem,cubic
+Zr-bcu-26ndc,hasCrystalSystem,tetragonal
+Zr-bcu-tmuc,hasCrystalSystem,tetragonal
+Zr-bcu-22bipy44dc,hasCrystalSystem,tetragonal
+MOF-F,hasCrystalSystem,cubic
+NU-1401-AS-DMF,hasCrystalSystem,orthorhombic
+MFU-4,hasCrystalSystem,cubic
+MAF-6,hasCrystalSystem,cubic
+FIR-28,hasCrystalSystem,cubic
+JXNU-2(Sm),hasCrystalSystem,rhombohedral
+JXNU-2(Eu),hasCrystalSystem,rhombohedral
+JXNU-2(Pr),hasCrystalSystem,rhombohedral
+catena-(tris(μ4-Mucato)-di-lanthanum(iii) octahydrate),hasCrystalSystem,trigonal
+catena-(tris(μ4-Mucato)-di-cerium(iii) octahydrate),hasCrystalSystem,trigonal
+catena-(tris(μ4-Mucato)-di-praseodymium(iii) octahydrate),hasCrystalSystem,trigonal
+catena-(tris(μ4-Mucato)-di-neodymium(iii) octahydrate),hasCrystalSystem,trigonal
+catena-((μ4-Tetramethyltetra-azacalix(4)pyrimidine)-tetrakis(μ3-bromo)-tetra-copper unknown solvate),hasCrystalSystem,tetragonal
+catena-((μ4-Tetramethyltetra-azacalix(4)pyrimidine)-tetrakis(μ3-iodo)-tetra-copper unknown solvate),hasCrystalSystem,tetragonal
+CPM-5',hasCrystalSystem,tetragonal
+IFP-5,hasCrystalSystem,rhombohedral
+PCP-31,hasCrystalSystem,rhombohedral
+PCP-32,hasCrystalSystem,orthorhombic
+PCN-48,hasCrystalSystem,triclinic
+PCN-49,hasCrystalSystem,triclinic
+NOTT-212 dimethylformamide solvate tetrahydrate,hasCrystalSystem,tetragonal
+MIL-91(Al),hasCrystalSystem,triclinic
+ZJU-64-CH3,hasCrystalSystem,orthorhombic
+polyMOP-NH2,hasCrystalSystem,tetragonal
+PCN-700-c,hasCrystalSystem,tetragonal
+PCN-700-(CF3)2,hasCrystalSystem,tetragonal
+PCN-700-Me4-c,hasCrystalSystem,tetragonal
+"catena-[bis(μ-2,4,6-tris(pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc cis-asarone unknown solvate]",hasCrystalSystem,monoclinic
+"catena-[bis(μ-2,4,6-tris(pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc trans-asarone unknown solvate]",hasCrystalSystem,monoclinic
+JUC-165,hasCrystalSystem,orthorhombic
+CPM-11,hasCrystalSystem,orthorhombic
+CPM-12,hasCrystalSystem,trigonal
+NTU-17,hasCrystalSystem,monoclinic
+Ce-MOF-808,hasCrystalSystem,cubic
+Teaching Subset: MOFs,hasCrystalSystem,tetragonal
+SNNU-72,hasCrystalSystem,orthorhombic
+SNNU-71,hasCrystalSystem,hexagonal
+SNNU-74,hasCrystalSystem,rhombohedral
+MIT-20,hasCrystalSystem,rhombohedral
+ST-1,hasCrystalSystem,hexagonal
+ST-3,hasCrystalSystem,tetragonal
+"catena-(tris(propane-1,2-diammonium) hexakis(μ3-hydrogen arsenato)-bis(μ3-arsenato)-tris(μ2-oxalato)-hexa-iron)",hasCrystalSystem,trigonal
+V101,hasCrystalSystem,triclinic
+MOF-CJ2,hasCrystalSystem,monoclinic
+FJI-Y4,hasCrystalSystem,monoclinic
+FJI-Y5,hasCrystalSystem,monoclinic
+Mg-110,hasCrystalSystem,monoclinic
+LIFM-13(Co),hasCrystalSystem,tetragonal
+LIFM-13(Mg),hasCrystalSystem,tetragonal
+UJN-1,hasCrystalSystem,cubic
+UPG-1,hasCrystalSystem,rhombohedral
+BUT-17,hasCrystalSystem,hexagonal
+CCNU-11,hasCrystalSystem,monoclinic
+LCU-105,hasCrystalSystem,monoclinic
+CZJ-6,hasCrystalSystem,tetragonal
+"catena-[oxonium [μ-tris(4-carboxylatophenyl)phosphine oxide]-europium(iii)-zinc(ii) N,N-dimethylformamide solvate sesquihydrate]",hasCrystalSystem,triclinic
+"catena-[oxonium [μ-tris(4-carboxylatophenyl)phosphine oxide]-terbium(iii)-zinc(ii) N,N-dimethylformamide solvate hexahydrate]",hasCrystalSystem,triclinic
+"catena-[[μ-tris(4-carboxylatophenyl)phosphine oxide]-terbium(iii) N,N-dimethylformamide solvate dihydrate]",hasCrystalSystem,triclinic
+FJ-25,hasCrystalSystem,hexagonal
+MUF-22,hasCrystalSystem,rhombohedral
+ZIF-8 dinitrogen,hasCrystalSystem,cubic
+MCF-19-Ia,hasCrystalSystem,cubic
+MCF-19-IIb,hasCrystalSystem,cubic
+SDU-1,hasCrystalSystem,cubic
+BIF-82,hasCrystalSystem,monoclinic
+ZJNU-62,hasCrystalSystem,monoclinic
+catena-(tris(μ2-5-(4-pyridyl)dipyrrin)-cobalt(iii)-silver(i) hexafluorophosphate acetonitrile benzene solvate),hasCrystalSystem,orthorhombic
+catena-(bis(μ4-Glutarato)-(μ2-glutarato)-diaqua-di-dysprosium tetrahydrate),hasCrystalSystem,monoclinic
+DGIST-1,hasCrystalSystem,orthorhombic
+ZJU-30,hasCrystalSystem,tetragonal
+MOF-3,hasCrystalSystem,orthorhombic
+"CoMOF-1 N,N-dimethylformamide methanol solvate dihydrate",hasCrystalSystem,monoclinic
+BMM-10,hasCrystalSystem,rhombohedral
+COB-DMF,hasCrystalSystem,orthorhombic
+COB-CO222,hasCrystalSystem,monoclinic
+COB-CO210,hasCrystalSystem,monoclinic
+COB-CO214,hasCrystalSystem,monoclinic
+COB-CO218,hasCrystalSystem,monoclinic
+COB0,hasCrystalSystem,orthorhombic
+COB-CO235,hasCrystalSystem,monoclinic
+COB-CO230,hasCrystalSystem,monoclinic
+PCN-164-inter,hasCrystalSystem,cubic
+NJU-Bai25,hasCrystalSystem,orthorhombic
+BIF-9-Cu,hasCrystalSystem,cubic
+Fe-MPOF,hasCrystalSystem,monoclinic
+JUC-57,hasCrystalSystem,monoclinic
+MIL-88B-tpt,hasCrystalSystem,hexagonal
+MIL-88B-tpt,hasCrystalSystem,hexagonal
+MIL-88B-tpt,hasCrystalSystem,hexagonal
+Co-WOC-1,hasCrystalSystem,monoclinic
+JLU-Liu4,hasCrystalSystem,tetragonal
+Liu-4_cinnamic (close pore phase),hasCrystalSystem,orthorhombic
+UPC-21,hasCrystalSystem,monoclinic
+UPC-17,hasCrystalSystem,triclinic
+CD-MOF-3,hasCrystalSystem,cubic
+CD-MOF-1,hasCrystalSystem,cubic
+CD-MOF-2,hasCrystalSystem,cubic
+CD-MOF-1,hasCrystalSystem,rhombohedral
+"catena-[bis(μ-tris(4-(pyridin-4-yl)phenyl)amine)-(μ-1,4-benzenedicarboxylato)-bis(μ-chloro)-di-cobalt methanol solvate]",hasCrystalSystem,monoclinic
+"catena-[bis(μ-4-(pyridin-4-yl)-N,N-bis(4-(pyridin-4-yl)phenyl)aniline)-(μ-2,5-dimethylterephthalato)-bis(μ-chloro)-di-cobalt methanol solvate]",hasCrystalSystem,monoclinic
+"catena-[tris(μ-tris(4-(pyridin-4-yl)phenyl)amine)-tris(μ-2,3,5,6-tetramethyl-1,4-benzenedicarboxylato)-tri-cobalt unknown solvate]",hasCrystalSystem,monoclinic
+SHF-61-DMF,hasCrystalSystem,orthorhombic
+SHF-61-CHCl3,hasCrystalSystem,orthorhombic
+LIFM-26(Fe),hasCrystalSystem,trigonal
+CZJ-10,hasCrystalSystem,cubic
+MOF-505,hasCrystalSystem,rhombohedral
+DUT-58,hasCrystalSystem,monoclinic
+ZJNU-73,hasCrystalSystem,rhombohedral
+CPO-27-Ni,hasCrystalSystem,rhombohedral
+MOF-In1,hasCrystalSystem,monoclinic
+PCN-81,hasCrystalSystem,cubic
+AUBM-1,hasCrystalSystem,tetragonal
+CZJ-22,hasCrystalSystem,orthorhombic
+CZJ-22-Cu,hasCrystalSystem,orthorhombic
+Zn-CZJ-22,hasCrystalSystem,orthorhombic
+PCN-250'',hasCrystalSystem,rhombohedral
+MMPF-10,hasCrystalSystem,orthorhombic
+MORF-1,hasCrystalSystem,orthorhombic
+NU-1000,hasCrystalSystem,hexagonal
+ZTOF-1,hasCrystalSystem,monoclinic
+NKU-111,hasCrystalSystem,trigonal
+FJU-101,hasCrystalSystem,tetragonal
+ZTOF-2,hasCrystalSystem,hexagonal
+JUB-1,hasCrystalSystem,orthorhombic
+NU-1500-Cr,hasCrystalSystem,hexagonal
+PCN-608-NH2-BDC,hasCrystalSystem,hexagonal
+SION-105,hasCrystalSystem,monoclinic
+PCM-75,hasCrystalSystem,orthorhombic
+MIL-68 (In),hasCrystalSystem,orthorhombic
+MIL-68 (Ga),hasCrystalSystem,orthorhombic
+FIR-51,hasCrystalSystem,cubic
+TMU-46,hasCrystalSystem,monoclinic
+JUC155,hasCrystalSystem,tetragonal
+HKUST-1,hasCrystalSystem,cubic
+NNU-37,hasCrystalSystem,monoclinic
+SNNU-150-In,hasCrystalSystem,orthorhombic
+TO-MOF,hasCrystalSystem,triclinic
+MIL-53 deuterium,hasCrystalSystem,orthorhombic
+MIL-53 deuterium,hasCrystalSystem,orthorhombic
+NOTT-116,hasCrystalSystem,cubic
+ZJU-9,hasCrystalSystem,rhombohedral
+But-33,hasCrystalSystem,cubic
+But-32,hasCrystalSystem,cubic
+PCN-46,hasCrystalSystem,rhombohedral
+"catena-((μ2-Iodo)-(μ2-2,11-dithia(3.3)paracyclophane-S,S')-copper(i) acetonitrile clathrate)",hasCrystalSystem,orthorhombic
+"catena-((μ2-Bromo)-(μ2-2,11-dithia(3.3)paracyclophane-S,S')-copper(i) acetonitrile clathrate)",hasCrystalSystem,orthorhombic
+FJU-31,hasCrystalSystem,monoclinic
+catena-(oxonium pyrrolidinium bis(μ6-5-phosphonoisophthalato)-tri-zinc tetrahydrate),hasCrystalSystem,tetragonal
+CAU-17,hasCrystalSystem,trigonal
+"catena-[(μ-5-(4-(carboxylatomethyleneoxy)phenyl)-10,15,20-tris(4-(carboxymethyleneoxy)phenyl)porphyrin-21,23-diyl)-(N,N-dimethylformamide)-nickel-potassium N,N-dimethylformamide solvate hemihydrate]",hasCrystalSystem,triclinic
+DUT-129,hasCrystalSystem,tetragonal
+NENU-507,hasCrystalSystem,tetragonal
+NENU-506,hasCrystalSystem,orthorhombic
+D-NTU-18,hasCrystalSystem,tetragonal
+L-NTU-18,hasCrystalSystem,tetragonal
+MOF-177-OMe,hasCrystalSystem,rhombohedral
+ZJU-19,hasCrystalSystem,orthorhombic
+NU-111,hasCrystalSystem,cubic
+PCN-600(Fe),hasCrystalSystem,hexagonal
+PCN-600(Co),hasCrystalSystem,hexagonal
+catena-(tetrakis(μ2-Urocanoato)-di-cadmium(ii) ethanol solvate trihydrate),hasCrystalSystem,tetragonal
+α-Zn|MCF-51,hasCrystalSystem,rhombohedral
+MIL-126,hasCrystalSystem,tetragonal
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+MOF-5,hasCrystalSystem,cubic
+La-ThBTB,hasCrystalSystem,monoclinic
+La-PhBTTc,hasCrystalSystem,monoclinic
+TMOF-3,hasCrystalSystem,monoclinic
+CAU-32,hasCrystalSystem,monoclinic
+CAU-33,hasCrystalSystem,monoclinic
+α-ZIF-65 unknown solvate,hasCrystalSystem,cubic
+α-ZIF-65 unknown solvate,hasCrystalSystem,cubic
+β-ZIF-65 unknown solvate,hasCrystalSystem,cubic
+β-ZIF-65 unknown solvate,hasCrystalSystem,cubic
+MIL-53as,hasCrystalSystem,orthorhombic
+MIL-53ht,hasCrystalSystem,orthorhombic
+MIL-53ht,hasCrystalSystem,orthorhombic
+MIL-53,hasCrystalSystem,orthorhombic
+FJI-H15,hasCrystalSystem,cubic
+NTU-25,hasCrystalSystem,rhombohedral
+NTU-23,hasCrystalSystem,rhombohedral
+NTU-24,hasCrystalSystem,rhombohedral
+JUC-105,hasCrystalSystem,hexagonal
+CTGU-10a1,hasCrystalSystem,hexagonal
+CPO-27-Co,hasCrystalSystem,rhombohedral
+CPO-27-Mg,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+TMU-16,hasCrystalSystem,monoclinic
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Cu,hasCrystalSystem,rhombohedral
+CPO-27-Co carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Co carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Co carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Co carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Co carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Co carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Co carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+CPO-27-Ni carbon dioxide,hasCrystalSystem,rhombohedral
+"catena-[bis(N-Methylmethanaminium) bis(μ4-terephthalato-O,O',O'',O''')-(μ4-terephthalato-O,O,O',O')-(μ2-terephthalato-O,O')-tri-cobalt(ii) dimethylformamide solvate]",hasCrystalSystem,monoclinic
+"catena-[bis(N-Methylmethanaminium) bis(μ4-terephthalato-O,O',O'',O''')-(μ4-terephthalato-O,O,O',O')-(μ2-terephthalato-O,O')-tri-cobalt(ii) dimethylformamide solvate]",hasCrystalSystem,monoclinic
+MUT-1,hasCrystalSystem,rhombohedral
+BIF-3-Cu,hasCrystalSystem,cubic
+IPM-206,hasCrystalSystem,monoclinic
+BUT-72,hasCrystalSystem,tetragonal
+BUT-74,hasCrystalSystem,orthorhombic
+Co(II)-TMU-63,hasCrystalSystem,monoclinic
+BIF-3-Li,hasCrystalSystem,cubic
+PMOF-2(Zn),hasCrystalSystem,cubic
+MOF-217,hasCrystalSystem,cubic
+MOF-217,hasCrystalSystem,cubic
+MOF-217,hasCrystalSystem,cubic
+JLU-Liu16,hasCrystalSystem,hexagonal
+JLU-Liu17,hasCrystalSystem,hexagonal
+MUF-15-F methanol solvate,hasCrystalSystem,orthorhombic
+MUF-15-CH3 methanol solvate,hasCrystalSystem,monoclinic
+MUF-15-Br,hasCrystalSystem,monoclinic
+InOF-12,hasCrystalSystem,tetragonal
+InOF-13,hasCrystalSystem,orthorhombic
+"catena-[bis(μ-d-camphorato)-hexakis(μ-5-methyl-tetrazolato)-tetra-zinc N,N-dimethylformamide solvate]|MOZ-51",hasCrystalSystem,orthorhombic
+Mg-MOF-1,hasCrystalSystem,hexagonal
+γ-MUF-10,hasCrystalSystem,orthorhombic
+UTSA-68,hasCrystalSystem,orthorhombic
+BIF-41,hasCrystalSystem,monoclinic
+BIF-42,hasCrystalSystem,monoclinic
+LIFM-38,hasCrystalSystem,orthorhombic
+NTU-140,hasCrystalSystem,tetragonal
+NTU-141,hasCrystalSystem,tetragonal
+catena-[tris(μ-glutarato)-triaqua-di-lanthanum(iii) pentahydrate],hasCrystalSystem,triclinic
+amino-MIL53(Al) NP form,hasCrystalSystem,monoclinic
+"catena-(octakis(μ2-Urocanato-N3,O)-tetra-zinc(ii) heptadecahydrate)",hasCrystalSystem,tetragonal
+activated COK-18,hasCrystalSystem,orthorhombic
+NKU-112,hasCrystalSystem,cubic
+catena-(bis(μ3-Terephthalato)-(μ2-terephthalato)-hexa-aqua-di-erbium(iii) dihydrate),hasCrystalSystem,monoclinic
+"catena-(bis((μ3-Nicotinato-N,O,O')-(μ2-nicotinato-N,O))-(μ2-aqua)-di-cobalt)",hasCrystalSystem,monoclinic
+MFM-133(Hf),hasCrystalSystem,tetragonal
+MFM-133(Hf),hasCrystalSystem,tetragonal
+PCN-6'|Teaching Subset: MOFs,hasCrystalSystem,cubic
+MOF-HTB|Teaching Subset: MOFs,hasCrystalSystem,rhombohedral
+MOF-HTB'|Teaching Subset: MOFs,hasCrystalSystem,cubic
+ZIF-8-6.05Ar,hasCrystalSystem,cubic
+ZIF-8 unknown solvate,hasCrystalSystem,cubic
+ZIF-8 6.32Ar,hasCrystalSystem,cubic
+ZIF-8 8.27methane,hasCrystalSystem,cubic
+ZIF-8 9.76methane,hasCrystalSystem,cubic
+ZIF-8 3.25methane,hasCrystalSystem,cubic
+ZIF-8 4.22dinitrogen,hasCrystalSystem,cubic
+ZIF-8 4.44dinitrogen,hasCrystalSystem,cubic
+ZIF-8 5.63dinitrogen,hasCrystalSystem,cubic
+ZIF-8 6.21dinitrogen,hasCrystalSystem,cubic
+ZIF-8 5.9Ar,hasCrystalSystem,cubic
+ZIF-8 6.23dinitrogen,hasCrystalSystem,cubic
+ZIF-8 6.29dinitrogen,hasCrystalSystem,cubic
+ZIF-8 5.5dinitrogen,hasCrystalSystem,cubic
+ZIF-8 10.08methane,hasCrystalSystem,cubic
+ZIF-8 6.06dioxygen,hasCrystalSystem,cubic
+ZIF-8 6.18dioxygen,hasCrystalSystem,cubic
+ZIF-8 8.16dioxygen,hasCrystalSystem,cubic
+ZIF-8 8.40dioxygen,hasCrystalSystem,cubic
+ZIF-8 8.25dinitrogen,hasCrystalSystem,cubic
+ZIF-8 5.5methane,hasCrystalSystem,cubic
+ZIF-8 4.08methane,hasCrystalSystem,cubic
+PCN-609,hasCrystalSystem,orthorhombic
+NHU-23,hasCrystalSystem,triclinic
+HNU-24,hasCrystalSystem,triclinic
+Zr-UiO-66-PZDC,hasCrystalSystem,cubic
+PUM210,hasCrystalSystem,monoclinic
+IFMC-200,hasCrystalSystem,cubic
+PCN-38,hasCrystalSystem,triclinic
+MROF-12,hasCrystalSystem,trigonal
+MFM-300(Al)|NOTT-300(Al),hasCrystalSystem,tetragonal
+MFM-300(Al)|NOTT-300(Al),hasCrystalSystem,tetragonal
+MFM-300(Al)|NOTT-300(Al),hasCrystalSystem,tetragonal
+MIL-112,hasCrystalSystem,monoclinic
+ZJNU-91,hasCrystalSystem,monoclinic
+NTU-Z11,hasCrystalSystem,tetragonal
+NTU-Z10,hasCrystalSystem,cubic
+NTU-Z8,hasCrystalSystem,orthorhombic
+"catena-[(μ-5,11,17,23-tetra-t-butylthiacalix[4]arene-25,26,27,28-tetrakis(pyridin-3-ylmethoxy))-dibromo-cadmium chloroform solvate]",hasCrystalSystem,monoclinic
+SCNU-Z1-Cl*,hasCrystalSystem,hexagonal
+CZJ-18(H),hasCrystalSystem,orthorhombic
+SNNU-51,hasCrystalSystem,hexagonal
+SNNU-52,hasCrystalSystem,hexagonal
+SNNU-54,hasCrystalSystem,hexagonal
+IRMOF-23terp,hasCrystalSystem,cubic
+IRMOF-25terPh,hasCrystalSystem,cubic
+IRMOF-pentane,hasCrystalSystem,orthorhombic
+"catena-((μ8-2,5-Dioxyterephthalato)-di-nickel(ii) carbon dioxide)",hasCrystalSystem,rhombohedral
+InOF-18-2,hasCrystalSystem,hexagonal
+V105,hasCrystalSystem,orthorhombic
+PCN-514-DMA complex,hasCrystalSystem,triclinic
+PCN-518,hasCrystalSystem,monoclinic
+Mg-CUK-1 nonahydrate,hasCrystalSystem,monoclinic
+Mg-CUK-1,hasCrystalSystem,monoclinic
+Mg-CUK-1,hasCrystalSystem,monoclinic
+Mg-CUK-1 pyridine solvate,hasCrystalSystem,monoclinic
+Mg-CUK-1 toluene solvate,hasCrystalSystem,monoclinic
+Mg-CUK-1 p-xylene solvate,hasCrystalSystem,monoclinic
+Mg-CUK-1 p-xylene solvate,hasCrystalSystem,monoclinic
+Mg-CUK-1 p-divinylbenzene solvate,hasCrystalSystem,monoclinic
+FCS-2,hasCrystalSystem,monoclinic
+ZJNU-15,hasCrystalSystem,rhombohedral
+JXNU-6,hasCrystalSystem,tetragonal
+IRMOF-61,hasCrystalSystem,tetragonal
+IRMOF-62,hasCrystalSystem,trigonal
+COK-69cp,hasCrystalSystem,trigonal
+COK-69op,hasCrystalSystem,trigonal
+ZJU-12,hasCrystalSystem,rhombohedral
+MAC-6,hasCrystalSystem,monoclinic
+PCN-514 (DMA),hasCrystalSystem,triclinic
+PCN-516,hasCrystalSystem,tetragonal
+PCN-513,hasCrystalSystem,triclinic
+PCN-514,hasCrystalSystem,triclinic
+BIPT-2,hasCrystalSystem,monoclinic
+POMOF-1,hasCrystalSystem,tetragonal
+GR-MOF-2,hasCrystalSystem,monoclinic
+GR-MOF-4,hasCrystalSystem,monoclinic
+GR-MOF-5,hasCrystalSystem,monoclinic
+ZIF-8,hasCrystalSystem,cubic
+ZIF8,hasCrystalSystem,cubic
+ZIF-8,hasCrystalSystem,cubic
+MAF-4,hasCrystalSystem,cubic
+ZIF-8,hasCrystalSystem,cubic
+JUC-62,hasCrystalSystem,rhombohedral
+JUC-63,hasCrystalSystem,orthorhombic
+Δ-Fe-HAF-1,hasCrystalSystem,cubic
+Λ-Fe-HAF-1,hasCrystalSystem,cubic
+NKU-102,hasCrystalSystem,rhombohedral
+NKU-103,hasCrystalSystem,trigonal
+UMCM-150N2,hasCrystalSystem,hexagonal
+SBMOF-1 acetylene,hasCrystalSystem,monoclinic
+SBMOF-1 ethylene,hasCrystalSystem,monoclinic
+SBMOF-1 ethane,hasCrystalSystem,monoclinic
+SBMOF-2 acetylene,hasCrystalSystem,triclinic
+SBMOF-2 ethylene,hasCrystalSystem,triclinic
+SBMOF-2 ethane,hasCrystalSystem,triclinic
+CH4@DUT49cp,hasCrystalSystem,cubic
+CH4@DUT49ip,hasCrystalSystem,cubic
+UTSA-74a,hasCrystalSystem,rhombohedral
+NJU-Bai2,hasCrystalSystem,monoclinic
+FJU-22,hasCrystalSystem,orthorhombic
+FJU-21,hasCrystalSystem,monoclinic
+HLJU-3,hasCrystalSystem,cubic
+HLJU-2,hasCrystalSystem,cubic
+TPMOF-1,hasCrystalSystem,hexagonal
+TPMOF-2,hasCrystalSystem,trigonal
+TPMOF-5,hasCrystalSystem,monoclinic
+truMOF-2,hasCrystalSystem,cubic
+UTSA-20,hasCrystalSystem,hexagonal
+NU-GRH-1,hasCrystalSystem,tetragonal
+NKB-1,hasCrystalSystem,tetragonal
+"catena-[(μ8-4,4'-(Hexafluoroisopropylidene)diphthalato)-aqua-di-cadmium(ii) hydrate]",hasCrystalSystem,rhombohedral
+CAU-10-H Hydrated,hasCrystalSystem,tetragonal
+CAU-10-H dry,hasCrystalSystem,tetragonal
+ZJNU-61(Ho),hasCrystalSystem,monoclinic
+Zn-MOF-74,hasCrystalSystem,rhombohedral
+Ni-MOF-74,hasCrystalSystem,rhombohedral
+Co-MOF-74,hasCrystalSystem,rhombohedral
+Mn-MOF-74,hasCrystalSystem,rhombohedral
+MMPF-18,hasCrystalSystem,rhombohedral
+Δ-MOF-520 unknown solvate,hasCrystalSystem,tetragonal
+Λ-MOF-520 trimesate unknown solvate,hasCrystalSystem,tetragonal
+"Λ-MOF-520 3-(t-butoxycarbonylamino)propan-1,2-diolato unknown solvate",hasCrystalSystem,tetragonal
+Λ-MOF-520 unknown solvate,hasCrystalSystem,tetragonal
+Λ-MOF-520 methanolate unknown solvate,hasCrystalSystem,tetragonal
+NOTT-300 (In) Desolvated|MFM-300(In),hasCrystalSystem,tetragonal
+MFM-300(In),hasCrystalSystem,tetragonal
+Cd-PAA-1,hasCrystalSystem,orthorhombic
+Mn-FPAA-1,hasCrystalSystem,monoclinic
+Mn-INA-1,hasCrystalSystem,monoclinic
+JLU-31,hasCrystalSystem,orthorhombic
+NOTT-300 (In) 1.09 CD4|MFM-300(In) 1.09CD4 per In,hasCrystalSystem,tetragonal
+catena-(bis(tetrabutylammonium) tris(μ2-chloranilato)-di-manganese(ii) methanol solvate),hasCrystalSystem,cubic
+URJC-1,hasCrystalSystem,orthorhombic
+Ubbp-3,hasCrystalSystem,tetragonal
+"catena-[hexakis(μ4-Terephthalato-O,O',O'',O''')-tetrakis(μ3-hydroxo)-dodecakis(μ3-isonicotinato)-octa-nickel(ii)-tetra-nickel(iii) dimethylformamide solvate hexadecahydrate]",hasCrystalSystem,cubic
+MIL-141(Cs),hasCrystalSystem,monoclinic
+MIL-141(Rb),hasCrystalSystem,monoclinic
+MIL-141(Na),hasCrystalSystem,monoclinic
+MIL-141(Li),hasCrystalSystem,monoclinic
+GWMOF-7,hasCrystalSystem,monoclinic
+GWMOF-8,hasCrystalSystem,monoclinic
+FIR-2,hasCrystalSystem,triclinic
+IPM-MOF-110,hasCrystalSystem,monoclinic
+MAF-23,hasCrystalSystem,monoclinic
+SION-10,hasCrystalSystem,triclinic
+HPU-1,hasCrystalSystem,monoclinic
+MMCF-1,hasCrystalSystem,monoclinic
+MTAF-3,hasCrystalSystem,monoclinic
+PCN-111,hasCrystalSystem,cubic
+Zn-Pd-2,hasCrystalSystem,orthorhombic
+BMOF-2-dioxole,hasCrystalSystem,triclinic
+CAU-10-Br,hasCrystalSystem,tetragonal
+MIL-96,hasCrystalSystem,hexagonal
+BMM-9,hasCrystalSystem,rhombohedral
+MIL-160.4H2O,hasCrystalSystem,tetragonal
+MIL-160,hasCrystalSystem,tetragonal
+MIL-160.2.3N2,hasCrystalSystem,tetragonal
+"catena-[pentakis(μ-isonicotinato)-bis(μ-iodo)-tetrakis(N,N-dimethylformamide)-di-copper(i)-sodium(i)-di-strontium(ii)]",hasCrystalSystem,orthorhombic
+"catena-[tetrakis(μ-isonicotinato)-bis(μ-iodo)-(μ-nitrato)-tetrakis(N,N-dimethylformamide)-di-copper(i)-sodium(i)-di-strontium(ii) N,N-dimethylformamide solvate hemihydrate]",hasCrystalSystem,triclinic
+"catena-((μ4-Muconato-O,O',O'',O''')-(μ2-muconato-O,O')-diaqua-tris(1,10-phenanthroline)-tri-copper(ii) bis(tetrafluoroborate) pentahydrate)",hasCrystalSystem,monoclinic
+JUST-3|LMOF-311,hasCrystalSystem,orthorhombic
+U-IHEP-4,hasCrystalSystem,cubic
+FMOF-1,hasCrystalSystem,tetragonal
+IRMOF-9,hasCrystalSystem,monoclinic
+BUT-36,hasCrystalSystem,monoclinic
+FJI-H22,hasCrystalSystem,monoclinic
+FJI-H22-MeOH,hasCrystalSystem,monoclinic
+FJI-H22(Recover),hasCrystalSystem,monoclinic
+ZJNU-97,hasCrystalSystem,tetragonal
+CMP-46,hasCrystalSystem,rhombohedral
+EHU-30,hasCrystalSystem,hexagonal
+UNLPF-2,hasCrystalSystem,tetragonal
+InOF-8,hasCrystalSystem,hexagonal
+MUF-17,hasCrystalSystem,monoclinic
+IMP-32-Zr,hasCrystalSystem,orthorhombic
+catena-(bis(oxonium)) bis(μ6-5-phosphonoisophthalato)-tri-zinc(ii)|catena-(bis(μ6-5-phosphonoisophthato)-tri-zinc(ii) bis(oxonium)),hasCrystalSystem,tetragonal
+hemikis(Cobaltocene) MIL-47(V),hasCrystalSystem,orthorhombic
+MesoMOF-2,hasCrystalSystem,cubic
+FJI-C2,hasCrystalSystem,tetragonal
+YZU-103,hasCrystalSystem,orthorhombic
+MOF-545,hasCrystalSystem,hexagonal
+"catena-((μ4-15,35,55,75-tetrakis(Pyrid-4-yl)-12,14,16,32,34,36,52,54,56,72,74,76-dodecamethyl-1,3,5,7-(1,3)benzenacyclo-octaphane-N,N',N'',N''')-di-silver bis(hexafluorophosphate) 1,2-dichlorobenzene solvate decahydrate)",hasCrystalSystem,tetragonal
+UTSA-85,hasCrystalSystem,triclinic
+SNNU-35,hasCrystalSystem,rhombohedral
+SNNU-36,hasCrystalSystem,tetragonal
+NJU-Bai50,hasCrystalSystem,hexagonal
+SCU-101-Re,hasCrystalSystem,triclinic
+SCU101.TcO4,hasCrystalSystem,triclinic
+HNU-25,hasCrystalSystem,rhombohedral
+AUBM-2(Ce),hasCrystalSystem,triclinic
+Zn-DBDA,hasCrystalSystem,monoclinic
+TIF-5Co,hasCrystalSystem,tetragonal
+TIF-5Zn,hasCrystalSystem,tetragonal
+PCN-167(In),hasCrystalSystem,hexagonal
+PCN-167(In),hasCrystalSystem,hexagonal
+PCN-167(In),hasCrystalSystem,hexagonal
+PCN-167(In),hasCrystalSystem,hexagonal
+PCN-167(In),hasCrystalSystem,hexagonal
+PCN-168(Fe),hasCrystalSystem,hexagonal
+PCN-168(Fe),hasCrystalSystem,hexagonal
+PCN-168(Fe),hasCrystalSystem,hexagonal
+PCN-168(Fe),hasCrystalSystem,hexagonal
+PCN-168(Fe),hasCrystalSystem,hexagonal
+PCN-168(Fe),hasCrystalSystem,hexagonal
+ZIF-9,hasCrystalSystem,rhombohedral
+ZIF-9,hasCrystalSystem,rhombohedral
+ZIF-9,hasCrystalSystem,rhombohedral
+Co-ZIF-9,hasCrystalSystem,rhombohedral
+ZIF-9,hasCrystalSystem,rhombohedral
+MOF-14,hasCrystalSystem,cubic
+MOF-14,hasCrystalSystem,cubic
+MOF-14,hasCrystalSystem,cubic
+MOF-14,hasCrystalSystem,cubic
+MOF-14,hasCrystalSystem,cubic
+MOF-14,hasCrystalSystem,cubic
+MOF-14,hasCrystalSystem,cubic
+MOF-14,hasCrystalSystem,cubic
+MOF-14,hasCrystalSystem,cubic
+MOF-14,hasCrystalSystem,cubic
+MOF-14,hasCrystalSystem,cubic
+-MOF-520-24,hasCrystalSystem,tetragonal
+-MOF-520-25,hasCrystalSystem,tetragonal
+-MOF-520-27,hasCrystalSystem,tetragonal
+-MOF-520-28,hasCrystalSystem,tetragonal
+-MOF-520-31-activated,hasCrystalSystem,tetragonal
+-MOF-520-S-32,hasCrystalSystem,tetragonal
+-MOF-520-22,hasCrystalSystem,tetragonal
+-MOF-520-R-32,hasCrystalSystem,tetragonal
+Δ-MOF-520-17,hasCrystalSystem,tetragonal
+Δ-MOF-520-21,hasCrystalSystem,tetragonal
+"-MOF-520 N,N-dimethylformamide solvate",hasCrystalSystem,tetragonal
+Mg-CUK-1L Dehydrated,hasCrystalSystem,monoclinic
+Mg-CUK-1L incl. o-Xylene,hasCrystalSystem,monoclinic
+Mg-CUK-1L incl. AzB,hasCrystalSystem,triclinic
+Mg-CUK-1L,hasCrystalSystem,monoclinic
+SIFSIX-23-Cu-γ1,hasCrystalSystem,monoclinic
+SIFSIX-23-Cu-γ2,hasCrystalSystem,triclinic
+DUT-159,hasCrystalSystem,rhombohedral
+DUT-7(LT),hasCrystalSystem,hexagonal
+DUT-7(RT),hasCrystalSystem,hexagonal
+NOTT-114,hasCrystalSystem,cubic
+catena-((μ4-Squarato)-diaqua-cadmium(ii)),hasCrystalSystem,rhombohedral
+IRMOF-74-II,hasCrystalSystem,rhombohedral
+IRMOF-74-III,hasCrystalSystem,rhombohedral
+IRMOF-74-IV,hasCrystalSystem,rhombohedral
+IRMOF-74-V-hex,hasCrystalSystem,rhombohedral
+IRMOF-74-VI,hasCrystalSystem,rhombohedral
+IRMOF-74-VII,hasCrystalSystem,rhombohedral
+IRMOF-74-VI-oeg,hasCrystalSystem,rhombohedral
+IRMOF-74-IX,hasCrystalSystem,rhombohedral
+IRMOF-74-XI,hasCrystalSystem,rhombohedral
+JUC-141,hasCrystalSystem,rhombohedral
+UTSA-16,hasCrystalSystem,tetragonal
+Co6-MOF,hasCrystalSystem,hexagonal
+SCU-100,hasCrystalSystem,tetragonal
+FJI-Y1,hasCrystalSystem,monoclinic
+FJI-Y2,hasCrystalSystem,monoclinic
+NU-125,hasCrystalSystem,tetragonal
+"catena-[bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii) tangeritin clathrate unknown solvate]",hasCrystalSystem,monoclinic
+"catena-[bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii) hemikis(nobiletin) clathrate unknown solvate]",hasCrystalSystem,monoclinic
+"catena-[octakis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-tetracosakis(iodo)-dodeca-zinc(ii) pentakis(santonin) clathrate cyclohexane unknown solvate]",hasCrystalSystem,monoclinic
+"catena-[bis(bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii)) guaiazulene clathrate unknown solvate]",hasCrystalSystem,monoclinic
+"catena-[bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii) guaiazulene clathrate unknown solvate]",hasCrystalSystem,monoclinic
+catena-(tris(μ4-Terephthalato)-(μ3-oxo)-triaqua-tri-chromium(iii) fluoride tetracosakis(methanol) clathrate)|MIL88B_Methanol,hasCrystalSystem,hexagonal
+BUT-43,hasCrystalSystem,monoclinic
+IFMC-26-Tb,hasCrystalSystem,orthorhombic
+IFMC-27-la,hasCrystalSystem,triclinic
+"catena-[bis(μ-2-oxypropane-1,2,3-tricarboxylato)-bis(μ-pyridine-4-carbohydrazide)-germanium-di-copper(ii) unknown solvate tetrahydrate]",hasCrystalSystem,monoclinic
+MOF-X1,hasCrystalSystem,hexagonal
+D-ZIF-7,hasCrystalSystem,rhombohedral
+D-ZIF-7 CO2,hasCrystalSystem,rhombohedral
+D-ZIF-7 CO2,hasCrystalSystem,rhombohedral
+D-ZIF-7 CO2,hasCrystalSystem,rhombohedral
+TMU-41,hasCrystalSystem,monoclinic
+MOF-519,hasCrystalSystem,tetragonal
+JLU-MOF60,hasCrystalSystem,tetragonal
+α-NOTT-220,hasCrystalSystem,monoclinic
+β-NOTT-220,hasCrystalSystem,monoclinic
+InOF-22,hasCrystalSystem,monoclinic
+CPM-72,hasCrystalSystem,cubic
+CPM-73,hasCrystalSystem,cubic
+LIFM-114-Methanol,hasCrystalSystem,orthorhombic
+LIFM-114-60C,hasCrystalSystem,orthorhombic
+HUST4,hasCrystalSystem,orthorhombic
+HUST1,hasCrystalSystem,orthorhombic
+CdAPP-1,hasCrystalSystem,triclinic
+CdAPP-1,hasCrystalSystem,triclinic
+CdAPP-1,hasCrystalSystem,triclinic
+CdAPP-1,hasCrystalSystem,triclinic
+CdAPP-1,hasCrystalSystem,triclinic
+CPM-33a,hasCrystalSystem,hexagonal
+PCN-700,hasCrystalSystem,tetragonal
+UiO-66,hasCrystalSystem,cubic
+"catena-(tetrakis(μ3-3-Sulfanyl-D-valine-N,O,S,S)-di-gold(i)-di-platinum(ii)-zinc(ii) nonahydrate)",hasCrystalSystem,hexagonal
+NNU-14,hasCrystalSystem,monoclinic
+IRMOF-77,hasCrystalSystem,rhombohedral
+"catena-[(μ8-5,5'-Buta-1,3-diyne-1,4-diyldibenzene-1,3-dicarboxylato)-diaqua-di-copper(ii) dimethylformamide solvate trihydrate]|MOF-505",hasCrystalSystem,rhombohedral
+"catena-[(μ-5,11,17,23-Tetra-t-butyl-25,26,27,28-tetrakis((4-cyanophenyl)sulfanediyl)-2,8,14,20-tetrathiacalix(4)arene)-di-silver bis(hexafluorophosphate) methanol chloroform solvate]",hasCrystalSystem,monoclinic
+SUMOF-7I,hasCrystalSystem,rhombohedral
+SUMOF-7I,hasCrystalSystem,rhombohedral
+SUMOF-7I,hasCrystalSystem,rhombohedral
+SUMOF-7I,hasCrystalSystem,rhombohedral
+SUMOF-7I,hasCrystalSystem,rhombohedral
+SUMOF-7I,hasCrystalSystem,rhombohedral
+SUMOF-7I(Ce),hasCrystalSystem,rhombohedral
+SUMOF-7III(Eu),hasCrystalSystem,rhombohedral
+CTGU-3,hasCrystalSystem,triclinic
+CTGU-4,hasCrystalSystem,orthorhombic
+MOF-5|Teaching Subset: MOFs,hasCrystalSystem,cubic
+Teaching Subset: MOFs,hasCrystalSystem,cubic
+534-MOF-Tb,hasCrystalSystem,monoclinic
+LCU-101,hasCrystalSystem,monoclinic
+Zr-CAU-28,hasCrystalSystem,hexagonal
+Ce-CAU-28,hasCrystalSystem,hexagonal
+Bio-MOF-100,hasCrystalSystem,cubic
+N2@DUT-8(Ni),hasCrystalSystem,monoclinic
+CO2@DUT-8(Ni),hasCrystalSystem,monoclinic
+C4H10@DUT-8(Ni),hasCrystalSystem,monoclinic
+DUT-8(Ni) ip2,hasCrystalSystem,triclinic
+"catena-[(μ8-2,5-Dioxidobenzene-1,4-dicarboxylato)-cobalt(ii)]",hasCrystalSystem,rhombohedral
+UPC-30,hasCrystalSystem,monoclinic
+BUT-52,hasCrystalSystem,cubic
+PCN-700-SA,hasCrystalSystem,tetragonal
+PCN-700-SA2,hasCrystalSystem,tetragonal
+FJI-Y3,hasCrystalSystem,tetragonal
+MIL-53(Fe) m-xylene clathrate,hasCrystalSystem,monoclinic
+MIL-53(Fe) o-xylene clathrate,hasCrystalSystem,monoclinic
+MIL-53(Fe) p-xylene clathrate,hasCrystalSystem,monoclinic
+CHD-1,hasCrystalSystem,monoclinic
+CHD-2,hasCrystalSystem,orthorhombic
+ocMOM-2-2,hasCrystalSystem,orthorhombic
+TMU-6(RL1),hasCrystalSystem,monoclinic
+FJI-Y8,hasCrystalSystem,monoclinic
+Au-ACM-1,hasCrystalSystem,orthorhombic
+IOS-2(M),hasCrystalSystem,trigonal
+IOS-2(P),hasCrystalSystem,trigonal
+ZIF-4-Co,hasCrystalSystem,orthorhombic
+UMCM-151-F,hasCrystalSystem,orthorhombic
+UMCM-151-Cl,hasCrystalSystem,orthorhombic
+JUC-58,hasCrystalSystem,hexagonal
+"catena-[tris(μ3-Λ-tris(4-(4-Pyridyl)duryl)borane-N,N',N'')-(μ3-Δ-tris(4-(4-pyridyl)duryl)borane-N,N',N'')-octabromo-tetra-cadmium octahydrate]",hasCrystalSystem,rhombohedral
+"catena-[tetrakis(μ3-tris(4-(4-Pyridyl)duryl)borane-N,N',N'')-octa-iodo-tetra-cadmium octahydrate]",hasCrystalSystem,rhombohedral
+"catena-[tetrakis(μ3-tris(4-(4-Pyridyl)duryl)borane-N,N',N'')-octachloro-tetra-copper octahydrate]",hasCrystalSystem,rhombohedral
+"catena-[tetrakis(μ3-tris(4-(4-Pyridyl)duryl)borane-N,N',N'')-octachloro-tetra-cobalt methanol solvate tetrahydrate]",hasCrystalSystem,rhombohedral
+MAF-23 hemikis(propylene),hasCrystalSystem,monoclinic
+MAF-23 hemikis(propane),hasCrystalSystem,monoclinic
+MAF-23-O,hasCrystalSystem,monoclinic
+MAF-23-O hemikis(propylene),hasCrystalSystem,monoclinic
+MAF-23-O hemikis(propane),hasCrystalSystem,monoclinic
+IPCE-1Ni,hasCrystalSystem,monoclinic
+FDM-34,hasCrystalSystem,cubic
+ATF-2,hasCrystalSystem,tetragonal
+ATF-1P,hasCrystalSystem,tetragonal
+CAU-27-BDC,hasCrystalSystem,tetragonal
+CAU-27-BPDC,hasCrystalSystem,tetragonal
+ATF-1M,hasCrystalSystem,tetragonal
+ATF-1,hasCrystalSystem,tetragonal
+ATF-2P,hasCrystalSystem,tetragonal
+ZJU-28',hasCrystalSystem,triclinic
+"catena-((μ12-Phosphato)-bis(μ4-1-(2,4-difluorophenyl)-1,1-bis((1H-1,2,4-triazol-1-yl)methyl)methanolato)-(μ3-oxo)-heptacosakis(μ2-oxo)-pentaaqua-octaoxo-copper(i)-tri-copper(ii)-di-molybdenum(v)-deca-molybdenum(vi) hexahydrate)",hasCrystalSystem,monoclinic
+DUT-122(Zr),hasCrystalSystem,cubic
+IISERP-MOF27,hasCrystalSystem,monoclinic
+NICS-8,hasCrystalSystem,triclinic
+PMOF-55,hasCrystalSystem,tetragonal
+"catena-[(μ-2,8,14,20-tetramethylcalix[4]arene-4,5,6,10,11,12,16,17,18,22,23,24-dodecaolato)-(μ-formato)-(methanol)-penta-aqua-tetra-nickel unknown solvate]|catena-[(μ-2,8,14,20-tetramethylpyrogallo[4]arenato)-(μ-formato)-(methanol)-penta-aqua-tetra-nickel unknown solvate]",hasCrystalSystem,rhombohedral
+Sc-CAU-9-H2TCPP,hasCrystalSystem,orthorhombic
+AIST-1,hasCrystalSystem,tetragonal
+"catena-[(μ3-2,5-Dihydroxybenzene-1,4-dicarboxylato-O,O',O'')-(μ2-4,4'-bipyridine-N,N')-zinc(ii) N,N-dimethylformamide solvate]",hasCrystalSystem,tetragonal
+JLU-Liu23P,hasCrystalSystem,hexagonal
+JLU-Liu23M,hasCrystalSystem,hexagonal
+CPM-202,hasCrystalSystem,monoclinic
+CPM-203,hasCrystalSystem,rhombohedral
+CPM-205,hasCrystalSystem,monoclinic
+CPM-201,hasCrystalSystem,trigonal
+MFM-300(Ga2),hasCrystalSystem,tetragonal
+MFM-300(Ga2) carbon dioxide,hasCrystalSystem,tetragonal
+"catena-[(μ3-5-Sulfonatoisophthalato)-(μ2-1,4-bis(pyridin-4-ylmethyl)piperazin-1-ium)-zinc(ii) tetrahydrate]",hasCrystalSystem,monoclinic
+TMOF-2,hasCrystalSystem,orthorhombic
+"catena-((μ-N',N'-bis[1-(pyrazine-2-yl)ethylidene]benzil dihydrazone)-di-silver(i) dinitrate acetonitrile monohydrate)",hasCrystalSystem,tetragonal
+MIL-156,hasCrystalSystem,orthorhombic
+TMU-31,hasCrystalSystem,monoclinic
+ZJU-197,hasCrystalSystem,triclinic
+FJI-Y7,hasCrystalSystem,monoclinic
+"catena-(bis(μ-3,6-bis(1,2,4-triazolyl)-2,5-dioxy-1,4-benzoquinone)-di-manganese(ii) methanol solvate)",hasCrystalSystem,monoclinic
+IFMC-6,hasCrystalSystem,tetragonal
+IFMC-7,hasCrystalSystem,rhombohedral
+IFMC-8,hasCrystalSystem,rhombohedral
+ρ-ZMOF,hasCrystalSystem,cubic
+NJU-Bai 41,hasCrystalSystem,rhombohedral
+ZJNU-78,hasCrystalSystem,tetragonal
+"catena-[(μ-4,4'-azobispyridine)-(μ-methylsuccinato)-cadmium(ii) hydrate]",hasCrystalSystem,monoclinic
+"catena-[(μ-4,4'-azobispyridine)-(μ-methylglutarato)-cadmium(ii) pentahydrate]",hasCrystalSystem,monoclinic
+NTU-40,hasCrystalSystem,orthorhombic
+NTU-41,hasCrystalSystem,monoclinic
+"catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(ascorbic acid) clathrate acetonitrile solvate dodecahydrate]|catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(vitamin C) clathrate acetonitrile solvate dodecahydrate]",hasCrystalSystem,hexagonal
+"catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(pyridoxine) clathrate acetonitrile solvate pentadecahydrate]|catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(vitamin B6) clathrate acetonitrile solvate pentadecahydrate]",hasCrystalSystem,hexagonal
+"catena-[bupropion tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-calcium-hexa-copper(ii) clathrate docosahydrate]",hasCrystalSystem,hexagonal
+"catena-[17-β-estradiol tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-tetrakis(μ-aqua)-bis(μ-hydroxo)-calcium-hexa-copper(ii) acetonitrile solvate hexahydrate]",hasCrystalSystem,hexagonal
+MOF-591,hasCrystalSystem,triclinic
+MOF-592,hasCrystalSystem,triclinic
+MOF-590,hasCrystalSystem,triclinic
+MFM-300V3-1.8C2D4,hasCrystalSystem,tetragonal
+MFM-300V3-1.0C2D4,hasCrystalSystem,tetragonal
+MFM-300V3-1.4CD4,hasCrystalSystem,tetragonal
+MFM-300V3-1.0CD4,hasCrystalSystem,tetragonal
+PCN-13,hasCrystalSystem,cubic
+NU-1000-C8H7NO4S,hasCrystalSystem,hexagonal
+NU-1000-C7H8O3S,hasCrystalSystem,hexagonal
+HPU-14,hasCrystalSystem,orthorhombic
+CPO-27-Mg|MOF-74-Mg,hasCrystalSystem,rhombohedral
+PCN-262,hasCrystalSystem,monoclinic
+PCN-263,hasCrystalSystem,monoclinic
+PCN-266,hasCrystalSystem,orthorhombic
+PCN-280,hasCrystalSystem,rhombohedral
+PCN-285,hasCrystalSystem,rhombohedral
+PCN-234,hasCrystalSystem,cubic
+PCN-235,hasCrystalSystem,cubic
+PCN-243,hasCrystalSystem,hexagonal
+PCN-245,hasCrystalSystem,tetragonal
+PCN-247,hasCrystalSystem,hexagonal
+"Gd-RUM2 hemikis(1-methyl-2-pyrrolidone) clathrate N,N-dimethylformamide solvate",hasCrystalSystem,monoclinic
+Ce-RUM3 caprolactam clathrate hydrate,hasCrystalSystem,monoclinic
+ZSTU-1,hasCrystalSystem,hexagonal
+ZSTU-2,hasCrystalSystem,hexagonal
+ZSTU-3,hasCrystalSystem,hexagonal
+ZIF-8,hasCrystalSystem,cubic
+ZIF-8,hasCrystalSystem,cubic
+ZIF-8,hasCrystalSystem,cubic
+ZIF-8,hasCrystalSystem,cubic
+ZIF-8,hasCrystalSystem,cubic
+ZIF-8,hasCrystalSystem,cubic
+ZIF-8,hasCrystalSystem,cubic
+ZIF-8,hasCrystalSystem,cubic
+FJI-9,hasCrystalSystem,trigonal
+SNNU-50,hasCrystalSystem,cubic
+ZJNU-64,hasCrystalSystem,orthorhombic
+ZJNU-63,hasCrystalSystem,monoclinic
+ZJNU-65,hasCrystalSystem,triclinic
+CALA-self,hasCrystalSystem,hexagonal
+JUC-103,hasCrystalSystem,rhombohedral
+JUC-104,hasCrystalSystem,monoclinic
+MET-3,hasCrystalSystem,cubic
+Tb-sph-MOF-2,hasCrystalSystem,cubic
+MOF-1004,hasCrystalSystem,cubic
+"catena-((μ3-Hydroxo)-(μ2-pyridine-4-carboxylato-O,N)-copper(ii) monohydrate clathrate)",hasCrystalSystem,monoclinic
+FJI-Y10,hasCrystalSystem,triclinic
+BIF-33,hasCrystalSystem,rhombohedral
+FJU-81,hasCrystalSystem,monoclinic
+"catena-[[μ-tris(4-carboxylatophenyl)phosphine oxide]-(N,N-dimethylformamide)-europium(iii) N,N-dimethylformamide solvate sesquihydrate]",hasCrystalSystem,triclinic
+"catena-[tetrakis(dimethylammonium) (μ-2,2',2'',2''',2'''',2''''',2'''''',2'''''''-((2,8,14,20-tetrakis(4-methylphenyl)pentacyclo[19.3.1.13,7.19,13.115,19]octacosa-1(25),3(28),4,6,9(27),10,12,15(26),16,18,21,23-dodecaene-4,6,10,12,16,18,22,24-octayl)octakis(oxy))octaacetato)-di-cadmium tetrahydrate unknown solvate]",hasCrystalSystem,monoclinic
+"catena-[tetrakis(dimethylammonium) (μ-2,2',2'',2''',2'''',2''''',2'''''',2'''''''-((2,8,14,20-tetrakis(4-methylphenyl)pentacyclo[19.3.1.13,7.19,13.115,19]octacosa-1(25),3(28),4,6,9(27),10,12,15(26),16,18,21,23-dodecaene-4,6,10,12,16,18,22,24-octayl)octakis(oxy))octaacetato)-bis(N,N-dimethylformamide)-di-zinc(ii) N,N-dimethylformamide solvate hexahydrate]",hasCrystalSystem,monoclinic
+"catena-[tetrakis(dimethylammonium) (μ-2,2',2'',2''',2'''',2''''',2'''''',2'''''''-((2,8,14,20-tetrakis(4-methylphenyl)pentacyclo[19.3.1.13,7.19,13.115,19]octacosa-1(25),3(28),4,6,9(27),10,12,15(26),16,18,21,23-dodecaene-4,6,10,12,16,18,22,24-octayl)octakis(oxy))octaacetato)-di-cobalt N,N-dimethylformamide solvate tetrahydrate]",hasCrystalSystem,monoclinic
+FJI-6,hasCrystalSystem,tetragonal
+FJI-H11-iPr,hasCrystalSystem,rhombohedral
+catena-((μ7-ranelato)-(μ2-aqua)-tetraaqua-di-strontium(ii) hydrate),hasCrystalSystem,triclinic
+NU-1300,hasCrystalSystem,cubic
+"catena-[(μ6-3,3',3''-(2,4,6-Trioxo-1,3,5-triazinane-1,3,5-triyl)tripropanoato)-aqua-erbium(iii) dimethylformamide solvate dihydrate]",hasCrystalSystem,triclinic
+MFU-4l,hasCrystalSystem,cubic
+InMOF-1,hasCrystalSystem,triclinic
+DUT-122(Hf),hasCrystalSystem,cubic
+UNLPF-10_1,hasCrystalSystem,orthorhombic
+UNLPF-10_2,hasCrystalSystem,orthorhombic
+CFA-8,hasCrystalSystem,monoclinic
+CFA-8,hasCrystalSystem,monoclinic
+ZIF-204,hasCrystalSystem,monoclinic
+MIL-117,hasCrystalSystem,orthorhombic
+UTSA-15,hasCrystalSystem,orthorhombic
+UTSA-36,hasCrystalSystem,monoclinic
+ZJU-198,hasCrystalSystem,orthorhombic
+ZIF-8 iodine solvate,hasCrystalSystem,cubic
+ZIF-8 iodine solvate,hasCrystalSystem,cubic
+SNU-30,hasCrystalSystem,orthorhombic
+SNU-30SC,hasCrystalSystem,orthorhombic
+"catena-[bis(μ3-6-Sulfinatonicotinato-N,O,O',O'',O''')-(4,4'-bipyridine-N,N')-di-copper(ii) methanol solvate dihydrate]",hasCrystalSystem,monoclinic
+TCZ-002,hasCrystalSystem,monoclinic
+CAU-10-HTATB,hasCrystalSystem,tetragonal
+BUT-70B,hasCrystalSystem,monoclinic
+BUT-70,hasCrystalSystem,monoclinic
+MUF-84g,hasCrystalSystem,monoclinic
+MUF-84c,hasCrystalSystem,orthorhombic
+VNU-11,hasCrystalSystem,cubic
+ZIF-1,hasCrystalSystem,monoclinic
+ZIF-2,hasCrystalSystem,orthorhombic
+ZIF-4-Zn,hasCrystalSystem,orthorhombic
+ZIF-5,hasCrystalSystem,cubic
+ZIF-9,hasCrystalSystem,rhombohedral
+ZIF-7,hasCrystalSystem,rhombohedral
+Zr-CAU-30-act,hasCrystalSystem,tetragonal
+SNNU-95,hasCrystalSystem,monoclinic
+MIL-68(In),hasCrystalSystem,orthorhombic
+MIL-68(In),hasCrystalSystem,orthorhombic
+MIL-68(In),hasCrystalSystem,orthorhombic
+MIL-68(In),hasCrystalSystem,orthorhombic
+MIL-68(In),hasCrystalSystem,orthorhombic
+MIL-68(In),hasCrystalSystem,orthorhombic
+MFM-601,hasCrystalSystem,tetragonal
+SO2@MFM601,hasCrystalSystem,tetragonal
+"catena-[(μ6-tris(2-(Carboxylato)ethyl)isocyanurate)-aqua-terbium(iii) N,N-dimethylformamide solvate]",hasCrystalSystem,triclinic
+CO2 SNU-9,hasCrystalSystem,monoclinic
+NOTT-12,hasCrystalSystem,monoclinic
+NJU-Bai 42,hasCrystalSystem,monoclinic
+BUT-107,hasCrystalSystem,orthorhombic
+BUT-105,hasCrystalSystem,rhombohedral
+BUT-104,hasCrystalSystem,monoclinic
+CPO-27-Mg,hasCrystalSystem,rhombohedral
+IISERP-MOF25,hasCrystalSystem,monoclinic
+MFM-520 0.92(N2O4),hasCrystalSystem,tetragonal
+MFM-520 0.93(N2O4),hasCrystalSystem,tetragonal
+MFM-520 0.89(N2O4),hasCrystalSystem,tetragonal
+MFM-520 0.89(N2O4),hasCrystalSystem,tetragonal
+MFM-520 0.57(N2O4),hasCrystalSystem,tetragonal
+MFM-520 0.57(N2O4),hasCrystalSystem,tetragonal
+PCN-60,hasCrystalSystem,cubic
+PCN-61,hasCrystalSystem,cubic
+JXNU-7(La),hasCrystalSystem,monoclinic
+JXNU-7(Nd),hasCrystalSystem,monoclinic
+JXNU-7(Sm),hasCrystalSystem,monoclinic
+JXNU-7(Eu),hasCrystalSystem,monoclinic
+"catena-[bis(μ2-2-thiobarbiturato-O,O')-(μ2-acetato-,O,O')-diaqua-neodymium(iii) dihydrate]",hasCrystalSystem,monoclinic
+NENU-505,hasCrystalSystem,monoclinic
+MOF-5,hasCrystalSystem,cubic
+ZnGlyPyr-Desolvated (from Benzene),hasCrystalSystem,rhombohedral
+ZnGlyPyr-Desolvated (from Acetone),hasCrystalSystem,rhombohedral
+ZnAlaPyr-CO2 (low loading),hasCrystalSystem,rhombohedral
+ZnAlaPyr-Desolvated,hasCrystalSystem,rhombohedral
+ZnAlaPyr-Diethylformamide,hasCrystalSystem,rhombohedral
+ZnAlaPyr-p-Xylene,hasCrystalSystem,rhombohedral
+ZnAlaPyr-Desolvated (CO2 removed),hasCrystalSystem,rhombohedral
+ZnAlaPyr-Trifluoroethanol,hasCrystalSystem,rhombohedral
+ZnGlyPyr-CO2(high loading),hasCrystalSystem,rhombohedral
+PCN-991,hasCrystalSystem,rhombohedral
+MET-6,hasCrystalSystem,cubic
+MET-4,hasCrystalSystem,cubic
+MET-1,hasCrystalSystem,cubic
+"catena-[(μ4-Benzene-1,4-dicarboxylato-O,O',O'',O''')-bis(μ2-2-oxidopyridinium-3-carboxylato-O,O,O',O'')-(μ2-benzene-1,4-dicarboxylato-O,O',O'',O''')-diaqua-di-neodymium(iii) tetrahydrate]",hasCrystalSystem,monoclinic
+MCF-27,hasCrystalSystem,tetragonal
+MCF-27,hasCrystalSystem,tetragonal
+CPF-3,hasCrystalSystem,rhombohedral
+NKU-106,hasCrystalSystem,monoclinic
+NKU-107,hasCrystalSystem,triclinic
+NKU-108,hasCrystalSystem,rhombohedral
+JUMP-1,hasCrystalSystem,orthorhombic
+CPM-26-Zn,hasCrystalSystem,tetragonal
+UTSA-61,hasCrystalSystem,tetragonal
+NENU-601,hasCrystalSystem,orthorhombic
+MIL-96(Al)-HR,hasCrystalSystem,hexagonal
+CPM-326-Trip,hasCrystalSystem,monoclinic
+CPM-326-Phen,hasCrystalSystem,monoclinic
+CPM-325-Phez,hasCrystalSystem,triclinic
+"catena-[tris(μ-bis(4-(4-carboxylatophenyl)-1H-3,5-dimethylpyrazolyl)methane)-aqua-tricarbonyl-tetra-manganese bromide ethanol solvate]",hasCrystalSystem,monoclinic
+"catena-[tris(μ-bis(4-(4-carboxylatophenyl)-1H-3,5-dimethylpyrazolyl)methane)-azido-tricarbonyl-tetra-manganese toluene solvate]",hasCrystalSystem,monoclinic
+C2H2@NKMOF-1-Cu,hasCrystalSystem,triclinic
+ZJU-13,hasCrystalSystem,rhombohedral
+CPM-301,hasCrystalSystem,rhombohedral
+CPM-300,hasCrystalSystem,hexagonal
+SXNU-J2,hasCrystalSystem,monoclinic
+UNM-1,hasCrystalSystem,tetragonal
+JLNU-4,hasCrystalSystem,monoclinic
+TMOF-4,hasCrystalSystem,rhombohedral
+UiO-67,hasCrystalSystem,cubic
+UiO-67,hasCrystalSystem,cubic
+UiO-67,hasCrystalSystem,cubic
+UiO-67,hasCrystalSystem,cubic
+UiO-67,hasCrystalSystem,cubic
+UiO-67,hasCrystalSystem,cubic
+UiO-67,hasCrystalSystem,cubic
+UiO-67,hasCrystalSystem,cubic
+UiO-67,hasCrystalSystem,cubic
+UiO67,hasCrystalSystem,cubic
+CPO-27-Zn,hasCrystalSystem,rhombohedral
+CPM-519-RHO,hasCrystalSystem,cubic
+CPM-521-ABW,hasCrystalSystem,orthorhombic
+CPM-520-GIS,hasCrystalSystem,tetragonal
+SNNU-5-Al,hasCrystalSystem,rhombohedral
+SNNU-5-Ga,hasCrystalSystem,rhombohedral
+SNNU-5-In,hasCrystalSystem,rhombohedral
+Th6-Me2BPDC-8b,hasCrystalSystem,tetragonal
+U6-Me2BPDC-8-H2O-1d,hasCrystalSystem,tetragonal
+TMU-60,hasCrystalSystem,orthorhombic
+MUF-17,hasCrystalSystem,monoclinic
+SIFSIX-3-Cu,hasCrystalSystem,tetragonal
+PCN-416,hasCrystalSystem,tetragonal
+"catena-[(μ4-Oxalato-O,O,O',O'',O'',O''')-tetrakis(μ3-3-pyridinecarboxylato-N,O,O')-(μ2-oxalato-O,O',O'',O''')-di-copper(i)-di-gadolinium(iii) tetrahydrate]",hasCrystalSystem,monoclinic
+CPO-27-Fe methanol solvate,hasCrystalSystem,rhombohedral
+CPO-27-Fe,hasCrystalSystem,rhombohedral
+INT-IRMOF-8-C,hasCrystalSystem,triclinic
+INT-IRMOF-8-B,hasCrystalSystem,triclinic
+UTSA-60,hasCrystalSystem,orthorhombic
+InPCF-1,hasCrystalSystem,tetragonal
+"catena-[bis(μ-4,5,6-trihydroxytetrahydro-2H-pyran-3-olato)-calcium methanol solvate dihydrate]",hasCrystalSystem,tetragonal
+"catena-[(μ4-4,4'-Oxydibenzene-1,2-dicarboxylato-O,O',O'',O''')-bis(4,4'-bipyridine-N,N')-di-copper(ii)]",hasCrystalSystem,orthorhombic
+STA-12(Cd),hasCrystalSystem,rhombohedral
+TMU-56,hasCrystalSystem,monoclinic
+HKUST-1 0.56(dideuteroacetylene),hasCrystalSystem,cubic
+VNU-1-Zr,hasCrystalSystem,cubic
+Cd-MOF2,hasCrystalSystem,triclinic
+Cd-MOF8,hasCrystalSystem,triclinic
+Tb@MOF,hasCrystalSystem,triclinic
+Cd-MOF1,hasCrystalSystem,triclinic
+Cd-MOF4,hasCrystalSystem,triclinic
+DUT-10(Zn),hasCrystalSystem,orthorhombic
+DUT-11,hasCrystalSystem,orthorhombic
+DUT-10(Co),hasCrystalSystem,orthorhombic
+DUT-10(Cu),hasCrystalSystem,orthorhombic
+DUT-12(Cu),hasCrystalSystem,tetragonal
+TMU-11,hasCrystalSystem,monoclinic
+FJU-53-Br,hasCrystalSystem,orthorhombic
+FJU-53-Br,hasCrystalSystem,orthorhombic
+FJU-53-Br,hasCrystalSystem,orthorhombic
+FJU-53-Br,hasCrystalSystem,orthorhombic
+MFM-300(V(iii))-CO2,hasCrystalSystem,tetragonal
+Im-MOF-2,hasCrystalSystem,monoclinic
+FJI-4,hasCrystalSystem,cubic
+FJI-5,hasCrystalSystem,tetragonal
+MIL-47 styrene high loading,hasCrystalSystem,orthorhombic
+VNU-18,hasCrystalSystem,monoclinic
+MOF-1201,hasCrystalSystem,monoclinic
+PTC-106,hasCrystalSystem,cubic
+catena-((μ4-letrozole)-copper(i) tetrafluoroborate chloroform solvate),hasCrystalSystem,orthorhombic
+DUT-67,hasCrystalSystem,cubic
+DUT-67,hasCrystalSystem,cubic
+NUM-1,hasCrystalSystem,monoclinic
+FJI-C5,hasCrystalSystem,orthorhombic
+FJI-C3,hasCrystalSystem,monoclinic
+MCIF-2,hasCrystalSystem,orthorhombic
+Co-PMOF,hasCrystalSystem,orthorhombic
+CZJ-1-a,hasCrystalSystem,monoclinic
+TJT-100,hasCrystalSystem,orthorhombic
+AHU-TW2,hasCrystalSystem,orthorhombic
+MIL-59,hasCrystalSystem,cubic
+"catena-[(μ4-Oxalato-O,O,O',O'',O'',O''')-tetrakis(μ3-3-pyridinecarboxylato-N,O,O')-(μ2-oxalato-O,O',O'',O''')-di-copper(i)-di-lanthanum(iii) dihydrate]",hasCrystalSystem,monoclinic
+BUT-302,hasCrystalSystem,trigonal
+JLU-Liu3,hasCrystalSystem,orthorhombic
+InOF-4,hasCrystalSystem,tetragonal
+TMU-8,hasCrystalSystem,triclinic
+"catena-(bis(μ2-4,4'-bipyridine)-bis(μ2-thiosulfato)-tetraaqua-di-cadmium tetrahydrate)",hasCrystalSystem,monoclinic
+PCN-250,hasCrystalSystem,cubic
+PCN-250,hasCrystalSystem,cubic
+PFC-17,hasCrystalSystem,tetragonal
+I2@MFM-300-V(IV),hasCrystalSystem,tetragonal
+DUT-71,hasCrystalSystem,tetragonal
+DUT-73b,hasCrystalSystem,orthorhombic
+UNM-2,hasCrystalSystem,monoclinic
+UNM-4,hasCrystalSystem,monoclinic
+UNM-5,hasCrystalSystem,monoclinic
+α-PCMOF21-Br,hasCrystalSystem,triclinic
+"catena-(bis(μ-2,4,6-tris(4-pyridyl)-1,3,5-triazine)-hexachloro-tri-zinc hemkis(6-{[5-(2,5-dimethylphenoxy)-2,2-dimethylpentanoyl]oxy}-3,4,5-trihydroxyoxane-2-carboxylic acid) cyclohexane solvate)",hasCrystalSystem,monoclinic
+MIL-53-muc,hasCrystalSystem,monoclinic
+PCN-427,hasCrystalSystem,tetragonal
+UPC-5,hasCrystalSystem,triclinic
+JLU-Liu7,hasCrystalSystem,orthorhombic
+CD-MOF-4,hasCrystalSystem,tetragonal
+JLU-Liu37,hasCrystalSystem,orthorhombic
+JLU-Liu38,hasCrystalSystem,orthorhombic
+NTU-26,hasCrystalSystem,triclinic
+MIL-88D,hasCrystalSystem,hexagonal
+catena-[hexakis(μ-D-penicilliamine)-tetraaqua-di-cobalt(iii)-tri-copper(i)-tri-sodium(i) ethanol solvate pentahydrate],hasCrystalSystem,monoclinic
+VPI-100(Ni),hasCrystalSystem,tetragonal
+VPI-100(Cu),hasCrystalSystem,tetragonal
+ZIF-65 methanol solvate,hasCrystalSystem,cubic
+ZIF-65 methanol solvate,hasCrystalSystem,cubic
+ZIF-65 methanol solvate,hasCrystalSystem,cubic
+ZIF-65 methanol solvate,hasCrystalSystem,cubic
+ZIF-65 methanol solvate,hasCrystalSystem,cubic
+ZIF-65 methanol solvate,hasCrystalSystem,cubic
+ZIF-65 methanol solvate,hasCrystalSystem,cubic
+ZIF-65 methanol solvate,hasCrystalSystem,cubic
+ZIF-65 methanol solvate,hasCrystalSystem,cubic
+FJU-16,hasCrystalSystem,orthorhombic
+FJU-17,hasCrystalSystem,monoclinic
+CALF-25,hasCrystalSystem,monoclinic
+PCN-58,hasCrystalSystem,cubic
+MFM-300(Al)(NO2)2(N2O4)2,hasCrystalSystem,tetragonal
+"catena-((μ4-3,3',5,5'-Tetramethyl-4,4'-bipyrazolato)-di-silver(i))",hasCrystalSystem,cubic
+SCU-16,hasCrystalSystem,monoclinic
+BUT-29,hasCrystalSystem,monoclinic
+CPM-311-RR,hasCrystalSystem,hexagonal
+MFM-127,hasCrystalSystem,rhombohedral
+MFM-127 1.2 CO2,hasCrystalSystem,rhombohedral
+MFM-127,hasCrystalSystem,rhombohedral
+FJI-Y9,hasCrystalSystem,orthorhombic
+VNU-21,hasCrystalSystem,orthorhombic
+MAC-6-Co2,hasCrystalSystem,monoclinic
+PMOF-4,hasCrystalSystem,cubic
+QUST-81,hasCrystalSystem,cubic
+CAU-16,hasCrystalSystem,monoclinic
+JUC-124,hasCrystalSystem,rhombohedral
+HPU-12,hasCrystalSystem,triclinic
+UoC-1,hasCrystalSystem,rhombohedral
+UoC-2,hasCrystalSystem,triclinic
+MAF-X5,hasCrystalSystem,rhombohedral
+reo-MOF-1,hasCrystalSystem,cubic
+pentaMOF-2,hasCrystalSystem,monoclinic
+NAT-MOF-2,hasCrystalSystem,monoclinic
+TMU-21,hasCrystalSystem,monoclinic
+PCN-21,hasCrystalSystem,cubic
+ZJNU-10,hasCrystalSystem,orthorhombic
+bio-MOF-11,hasCrystalSystem,tetragonal
+NUIG1,hasCrystalSystem,monoclinic
+PCN-226(Cu),hasCrystalSystem,orthorhombic
+PCN-226(Co),hasCrystalSystem,orthorhombic
+MAF-49 hemihydrate,hasCrystalSystem,trigonal
+MAF-49,hasCrystalSystem,trigonal
+MAF-49 ethane,hasCrystalSystem,trigonal
+MAF-49 ethene,hasCrystalSystem,trigonal
+MAF-49 (carbon dioxide),hasCrystalSystem,trigonal
+CPL-1 bis(dioxygen),hasCrystalSystem,monoclinic
+UPJS-6,hasCrystalSystem,orthorhombic
+UPJS-9,hasCrystalSystem,monoclinic
+H2O@MIL-161,hasCrystalSystem,tetragonal
+DMF@MIL-161,hasCrystalSystem,tetragonal
+MAF-23-C4H6,hasCrystalSystem,monoclinic
+MAF-23-n-C4H8,hasCrystalSystem,monoclinic
+MAF-23-C4H10,hasCrystalSystem,monoclinic
+MAF-23-i-C4H8,hasCrystalSystem,monoclinic
+NNU-15(Ce),hasCrystalSystem,triclinic
+NNU-15(Dy),hasCrystalSystem,triclinic
+NNU-15(Tb),hasCrystalSystem,triclinic
+MFM-300(Fe),hasCrystalSystem,tetragonal
+JUC-199a,hasCrystalSystem,monoclinic
+CAU-8,hasCrystalSystem,tetragonal
+catena-(bis(μ4-hexakis(4-cyanophenyl)[3]radialene)-di-copper(i) bis(hexafluorophosphate) nitromethane solvate),hasCrystalSystem,orthorhombic
+catena-(bis(μ4-hexakis(4-cyanophenyl)[3]radialene)-di-copper(i) bis(tetrafluoroborate) nitromethane solvate),hasCrystalSystem,orthorhombic
+catena-(bis(μ6-hexakis(4-cyanophenyl)[3]radialene)-hexa-silver(i) hexaperchlorate nitromethane solvate),hasCrystalSystem,orthorhombic
+VNU-20,hasCrystalSystem,monoclinic
+JUC-99,hasCrystalSystem,orthorhombic
+IFMC-16,hasCrystalSystem,tetragonal
+JLU-MOF52,hasCrystalSystem,orthorhombic
+ZJNU-87,hasCrystalSystem,hexagonal
+Cd-TTPBA-4,hasCrystalSystem,orthorhombic
+IMP-23,hasCrystalSystem,tetragonal
+WUF-16,hasCrystalSystem,monoclinic
+LIFM-100-pentanol,hasCrystalSystem,monoclinic
+LIFM-100,hasCrystalSystem,monoclinic
+"catena-[(μ-5,5-(4,5-bis(4-(tetrazolato-5-yl)phenyl)-[1,1:2,1-terphenyl]-4,4-diyl)bis(tetrazolato))-tetra-copper(i)]",hasCrystalSystem,triclinic
+DUT-67_D2O_loading1,hasCrystalSystem,cubic
+DUT-67_D2O_loading2,hasCrystalSystem,cubic
+DUT-67-loading3,hasCrystalSystem,cubic
+CAU-23,hasCrystalSystem,orthorhombic
+HBU-18,hasCrystalSystem,tetragonal
+POST-66(Y),hasCrystalSystem,cubic
+ZnBTCA-T,hasCrystalSystem,triclinic
+CAU-21,hasCrystalSystem,tetragonal
+ZU-36-Ni,hasCrystalSystem,tetragonal

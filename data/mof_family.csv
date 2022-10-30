@@ -1,0 +1,833 @@
+SubjectEntity,Relation,ObjectEntity
+MOF-CJ3,hasMOFFamily,Zn-oxide/zinc oxide
+Spirof-MOF,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+MOF-1,hasMOFFamily,Zn-oxide/zinc oxide
+URMOF-1,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+URMOF-2,hasMOFFamily,Zn-oxide/zinc oxide
+UMCM-151,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+UMCM-154,hasMOFFamily,Zn-oxide/zinc oxide
+JUC-199,hasMOFFamily,Zn-oxide/zinc oxide
+TMU-22,hasMOFFamily,Zn-oxide/zinc oxide
+TMU-23,hasMOFFamily,Zn-oxide/zinc oxide
+NNU-36,hasMOFFamily,Zn-oxide/zinc oxide
+"catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diazanidediyl]dipropanoato)--(μ-aqua)-bis(μ-hydroxy)-calcium(ii)-hexa-copper(ii) hydrate]",hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+FJI-H15,hasMOFFamily,Zn-oxide/zinc oxide
+UTSA-28-Zn,hasMOFFamily,Zn-oxide/zinc oxide
+Cu-PCN-224,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+MMPF-9,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+CPO-54-Mn,hasMOFFamily,MOF-74/CPO-27
+CPO-54-Mn,hasMOFFamily,MOF-74/CPO-27
+UTSA-38,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+FIR-1,hasMOFFamily,Zn-oxide/zinc oxide
+DUT-42,hasMOFFamily,Zn-oxide/zinc oxide
+she-MOF-1,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+she-MOF-2,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+she-MOF-3,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+FIR-4,hasMOFFamily,Zn-oxide/zinc oxide
+NOF-1,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+PCM-4,hasMOFFamily,Zn-oxide/zinc oxide
+LMOF-202,hasMOFFamily,Zn-oxide/zinc oxide
+LMOF-202,hasMOFFamily,Zn-oxide/zinc oxide
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Mn,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Mn,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Mn,hasMOFFamily,MOF-74/CPO-27
+"catena-(bis(μ3-4,4'-Biphenyldicarboxylato-O,O',O'')-(μ2-1,2-bipyridylethene)-di-zinc(ii) bis(dimethylformamide) clathrate)|catena-(bis(μ3-Biphenyl-4,4'-dicarboxylato)-(μ2-1,2-bis(4-pyridyl)ethene)-di-zinc dimethylformamide clathrate)",hasMOFFamily,Zn-oxide/zinc oxide
+FJI-8,hasMOFFamily,Zn-oxide/zinc oxide
+MOF-818,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+SNU-151,hasMOFFamily,Zn-oxide/zinc oxide
+SNU-150',hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+ZJU-70,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+HKUST-1,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+JUC-135,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+UWDM-1(22),hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+"catena-(diaqua-bis(μ6-s-heptazine-2,5,8-tris(4-benzoato))-tri-zinc N,N-dimethylformamide solvate pentahydrate)",hasMOFFamily,Zn-oxide/zinc oxide
+Teaching Subset: MOFs,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+SNU-200,hasMOFFamily,Zn-oxide/zinc oxide
+catena-[hexakis(dimethylammonium) tris(μ-meso-tetra(4-carboxylatophenyl)porphyrinato)-bis(aqua)-bis(μ-adenine)-bis(μ-oxido)-nona-zinc(ii) unknown solvate],hasMOFFamily,Zn-oxide/zinc oxide
+DUT-13,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+ZJU-68,hasMOFFamily,Zn-oxide/zinc oxide
+BUT-20,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+TMOF-2a,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+WUF-1,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MFM-188a desolvated,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+MFM-188,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+MFM-188,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+FJI-C4,hasMOFFamily,Zn-oxide/zinc oxide
+CMOF-2,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+Mn-ZIF-8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+CPM-31,hasMOFFamily,Zn-oxide/zinc oxide
+TMU-42,hasMOFFamily,Zn-oxide/zinc oxide
+PCN-777,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+HKUST-1 (as synthesised),hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+493-MOF-BA,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+NENU-519,hasMOFFamily,Zn-oxide/zinc oxide
+BUT-14,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+BUT-15,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+DUT-98 close pore,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PCN-605-H,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+SEC-1,hasMOFFamily,Zn-oxide/zinc oxide
+UTSA-32,hasMOFFamily,Zn-oxide/zinc oxide
+BUT-62Y,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+BUT-62Y-H2O,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+BUT-63W,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+Toluene@BUT-62,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+Ni-IRMOF-74-II,hasMOFFamily,MOF-74/CPO-27
+Ni-IRMOF-74-III,hasMOFFamily,MOF-74/CPO-27
+Ni-IRMOF-74-IV,hasMOFFamily,MOF-74/CPO-27
+Ni-IRMOF-74-V,hasMOFFamily,MOF-74/CPO-27
+BUT-62,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+BIT-101,hasMOFFamily,Zn-oxide/zinc oxide
+BIT-103,hasMOFFamily,Zn-oxide/zinc oxide
+ZIF-65-SOD,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-71-RHO,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-74-GIS,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+PCN-136,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+CPM-74,hasMOFFamily,"Zn-oxide/zinc oxide, MOF-74/CPO-27"
+CPM-75,hasMOFFamily,"Zn-oxide/zinc oxide, MOF-74/CPO-27"
+NENU-522,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+TMU-71,hasMOFFamily,Zn-oxide/zinc oxide
+MCF-26,hasMOFFamily,Zn-oxide/zinc oxide
+MC-BIF-3H,hasMOFFamily,Zn-oxide/zinc oxide
+"catena-[(μ5-5-(Isonicotinamido)isophthalato-N,O,O',O'',O''')-zinc(ii) dimethylformamide solvate]",hasMOFFamily,Zn-oxide/zinc oxide
+UTSA-34,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+PCN-605-H-Br,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PCN-605-H-Dry,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PCN-606-NH2 (fresh),hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PCN-608-OH,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PCN-606-OMe (fresh),hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PCN-700-Br,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+NPF-300,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+NPF-300-LT,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+Zr-PCN-221(Cu),hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+"catena-[tris(μ-(S,S)-serimox)-bis(μ-hydroxo)-(μ-aqua)-calcium(ii)-hexa-copper(ii) Auramine O clathrate acetonitrile solvate pentadecahydrate]",hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+UPC-102-Zr,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+"catena-[bis(μ4-1,5-pentanedioato-O,O',O'',O''')-(μ2-N,N'-bis(4-pyridyl)piperazine-N,N')-di-copper(ii) tetrahydrate]",hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+UWDM-3,hasMOFFamily,Zn-oxide/zinc oxide
+α-IRMOF-3-AMPh,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+FJI-H8,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+SNU-81,hasMOFFamily,Zn-oxide/zinc oxide
+SNU-82,hasMOFFamily,Zn-oxide/zinc oxide
+SNU-84,hasMOFFamily,Zn-oxide/zinc oxide
+SNU-85,hasMOFFamily,Zn-oxide/zinc oxide
+SNU-86,hasMOFFamily,Zn-oxide/zinc oxide
+SNNU-23,hasMOFFamily,Zn-oxide/zinc oxide
+ECUT-30,hasMOFFamily,Zn-oxide/zinc oxide
+Zr-bcu-26ndc,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+Zr-bcu-tmuc,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+Zr-bcu-22bipy44dc,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+MOF-F,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+NU-1401-AS-DMF,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+MAF-6,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+FIR-28,hasMOFFamily,Zn-oxide/zinc oxide
+polyMOP-NH2,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+PCN-700-c,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PCN-700-(CF3)2,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PCN-700-Me4-c,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+NTU-17,hasMOFFamily,"Zn-oxide/zinc oxide, MOF-74/CPO-27"
+ST-1,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+ST-3,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+BUT-17,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+MUF-22,hasMOFFamily,Zn-oxide/zinc oxide
+ZIF-8 dinitrogen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+SDU-1,hasMOFFamily,Zn-oxide/zinc oxide
+ZJU-30,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+MOF-3,hasMOFFamily,Zn-oxide/zinc oxide
+PCN-164-inter,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+JLU-Liu4,hasMOFFamily,Zn-oxide/zinc oxide
+Liu-4_cinnamic (close pore phase),hasMOFFamily,Zn-oxide/zinc oxide
+UPC-21,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+CPO-27-Ni,hasMOFFamily,MOF-74/CPO-27
+PCN-81,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+MMPF-10,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+MORF-1,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+NU-1000,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+ZTOF-1,hasMOFFamily,Zn-oxide/zinc oxide
+ZTOF-2,hasMOFFamily,Zn-oxide/zinc oxide
+PCN-608-NH2-BDC,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+TMU-46,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+TO-MOF,hasMOFFamily,Zn-oxide/zinc oxide
+NOTT-116,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+FJU-31,hasMOFFamily,Zn-oxide/zinc oxide
+catena-(oxonium pyrrolidinium bis(μ6-5-phosphonoisophthalato)-tri-zinc tetrahydrate),hasMOFFamily,Zn-oxide/zinc oxide
+D-NTU-18,hasMOFFamily,Zn-oxide/zinc oxide
+L-NTU-18,hasMOFFamily,Zn-oxide/zinc oxide
+MOF-177-OMe,hasMOFFamily,Zn-oxide/zinc oxide
+α-Zn|MCF-51,hasMOFFamily,Zn-oxide/zinc oxide
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+α-ZIF-65 unknown solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+α-ZIF-65 unknown solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+β-ZIF-65 unknown solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+β-ZIF-65 unknown solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+FJI-H15,hasMOFFamily,Zn-oxide/zinc oxide
+CPO-27-Co,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Mg,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+TMU-16,hasMOFFamily,Zn-oxide/zinc oxide
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Cu,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Co carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Co carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Co carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Co carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Co carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Co carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Co carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Ni carbon dioxide,hasMOFFamily,MOF-74/CPO-27
+BUT-72,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+BUT-74,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PMOF-2(Zn),hasMOFFamily,Zn-oxide/zinc oxide
+JLU-Liu16,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+JLU-Liu17,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+γ-MUF-10,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+LIFM-38,hasMOFFamily,Zn-oxide/zinc oxide
+ZIF-8-6.05Ar,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 unknown solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 6.32Ar,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 8.27methane,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 9.76methane,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 3.25methane,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 4.22dinitrogen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 4.44dinitrogen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 5.63dinitrogen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 6.21dinitrogen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 5.9Ar,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 6.23dinitrogen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 6.29dinitrogen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 5.5dinitrogen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 10.08methane,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 6.06dioxygen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 6.18dioxygen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 8.16dioxygen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 8.40dioxygen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 8.25dinitrogen,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 5.5methane,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 4.08methane,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+PCN-609,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+Zr-UiO-66-PZDC,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PUM210,hasMOFFamily,Zn-oxide/zinc oxide
+IFMC-200,hasMOFFamily,Zn-oxide/zinc oxide
+PCN-38,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+ZJNU-91,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+NTU-Z11,hasMOFFamily,Zn-oxide/zinc oxide
+NTU-Z10,hasMOFFamily,Zn-oxide/zinc oxide
+NTU-Z8,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+IRMOF-23terp,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+IRMOF-25terPh,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+IRMOF-pentane,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+"catena-((μ8-2,5-Dioxyterephthalato)-di-nickel(ii) carbon dioxide)",hasMOFFamily,MOF-74/CPO-27
+IRMOF-61,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+IRMOF-62,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MAC-6,hasMOFFamily,Zn-oxide/zinc oxide
+PCN-516,hasMOFFamily,Zn-oxide/zinc oxide
+PCN-513,hasMOFFamily,Zn-oxide/zinc oxide
+ZIF-8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+MAF-4,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+JUC-62,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+NKU-103,hasMOFFamily,Zn-oxide/zinc oxide
+CH4@DUT49cp,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+CH4@DUT49ip,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+UTSA-74a,hasMOFFamily,"Zn-oxide/zinc oxide, MOF-74/CPO-27"
+NJU-Bai2,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+TPMOF-1,hasMOFFamily,Zn-oxide/zinc oxide
+TPMOF-2,hasMOFFamily,Zn-oxide/zinc oxide
+TPMOF-5,hasMOFFamily,Zn-oxide/zinc oxide
+truMOF-2,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+UTSA-20,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+NU-GRH-1,hasMOFFamily,Zn-oxide/zinc oxide
+Zn-MOF-74,hasMOFFamily,"Zn-oxide/zinc oxide, MOF-74/CPO-27"
+Ni-MOF-74,hasMOFFamily,MOF-74/CPO-27
+Co-MOF-74,hasMOFFamily,MOF-74/CPO-27
+Mn-MOF-74,hasMOFFamily,MOF-74/CPO-27
+MMPF-18,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+JLU-31,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+FIR-2,hasMOFFamily,Zn-oxide/zinc oxide
+IPM-MOF-110,hasMOFFamily,Zn-oxide/zinc oxide
+SION-10,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+MTAF-3,hasMOFFamily,Zn-oxide/zinc oxide
+PCN-111,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+Zn-Pd-2,hasMOFFamily,Zn-oxide/zinc oxide
+BMOF-2-dioxole,hasMOFFamily,Zn-oxide/zinc oxide
+BMM-9,hasMOFFamily,Zn-oxide/zinc oxide
+IRMOF-9,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+BUT-36,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+EHU-30,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+IMP-32-Zr,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+catena-(bis(oxonium)) bis(μ6-5-phosphonoisophthalato)-tri-zinc(ii)|catena-(bis(μ6-5-phosphonoisophthato)-tri-zinc(ii) bis(oxonium)),hasMOFFamily,Zn-oxide/zinc oxide
+MOF-545,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+UTSA-85,hasMOFFamily,Zn-oxide/zinc oxide
+Zn-DBDA,hasMOFFamily,Zn-oxide/zinc oxide
+TIF-5Co,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+TIF-5Zn,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-9,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-9,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-9,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+Co-ZIF-9,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-9,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+DUT-7(LT),hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+DUT-7(RT),hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+IRMOF-74-II,hasMOFFamily,MOF-74/CPO-27
+IRMOF-74-III,hasMOFFamily,MOF-74/CPO-27
+IRMOF-74-IV,hasMOFFamily,MOF-74/CPO-27
+IRMOF-74-V-hex,hasMOFFamily,MOF-74/CPO-27
+IRMOF-74-VI,hasMOFFamily,"Zn-oxide/zinc oxide, MOF-74/CPO-27"
+IRMOF-74-VII,hasMOFFamily,MOF-74/CPO-27
+IRMOF-74-VI-oeg,hasMOFFamily,MOF-74/CPO-27
+IRMOF-74-IX,hasMOFFamily,MOF-74/CPO-27
+IRMOF-74-XI,hasMOFFamily,MOF-74/CPO-27
+D-ZIF-7,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+D-ZIF-7 CO2,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+D-ZIF-7 CO2,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+D-ZIF-7 CO2,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+TMU-41,hasMOFFamily,Zn-oxide/zinc oxide
+JLU-MOF60,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+CPM-72,hasMOFFamily,"Zn-oxide/zinc oxide, MOF-74/CPO-27"
+CPM-73,hasMOFFamily,"Zn-oxide/zinc oxide, MOF-74/CPO-27"
+LIFM-114-Methanol,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+LIFM-114-60C,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+HUST4,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+HUST1,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PCN-700,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+UiO-66,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+IRMOF-77,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+CTGU-3,hasMOFFamily,Zn-oxide/zinc oxide
+CTGU-4,hasMOFFamily,Zn-oxide/zinc oxide
+MOF-5|Teaching Subset: MOFs,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+Teaching Subset: MOFs,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+Zr-CAU-28,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+"catena-[(μ8-2,5-Dioxidobenzene-1,4-dicarboxylato)-cobalt(ii)]",hasMOFFamily,MOF-74/CPO-27
+UPC-30,hasMOFFamily,Zn-oxide/zinc oxide
+PCN-700-SA,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PCN-700-SA2,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+CHD-2,hasMOFFamily,Zn-oxide/zinc oxide
+TMU-6(RL1),hasMOFFamily,Zn-oxide/zinc oxide
+ZIF-4-Co,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+UMCM-151-F,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+UMCM-151-Cl,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+CAU-27-BDC,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+CAU-27-BPDC,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+DUT-122(Zr),hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+"catena-[(μ3-2,5-Dihydroxybenzene-1,4-dicarboxylato-O,O',O'')-(μ2-4,4'-bipyridine-N,N')-zinc(ii) N,N-dimethylformamide solvate]",hasMOFFamily,Zn-oxide/zinc oxide
+ρ-ZMOF,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZJNU-78,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+"catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(ascorbic acid) clathrate acetonitrile solvate dodecahydrate]|catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(vitamin C) clathrate acetonitrile solvate dodecahydrate]",hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+"catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(pyridoxine) clathrate acetonitrile solvate pentadecahydrate]|catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(vitamin B6) clathrate acetonitrile solvate pentadecahydrate]",hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+"catena-[bupropion tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-calcium-hexa-copper(ii) clathrate docosahydrate]",hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+"catena-[17-β-estradiol tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-tetrakis(μ-aqua)-bis(μ-hydroxo)-calcium-hexa-copper(ii) acetonitrile solvate hexahydrate]",hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+PCN-13,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+NU-1000-C8H7NO4S,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+NU-1000-C7H8O3S,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+HPU-14,hasMOFFamily,Zn-oxide/zinc oxide
+CPO-27-Mg|MOF-74-Mg,hasMOFFamily,MOF-74/CPO-27
+ZIF-8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+FJI-9,hasMOFFamily,Zn-oxide/zinc oxide
+JUC-103,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MOF-1004,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+ZIF-204,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+UTSA-36,hasMOFFamily,Zn-oxide/zinc oxide
+ZJU-198,hasMOFFamily,Zn-oxide/zinc oxide
+ZIF-8 iodine solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-8 iodine solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+SNU-30,hasMOFFamily,Zn-oxide/zinc oxide
+SNU-30SC,hasMOFFamily,Zn-oxide/zinc oxide
+TCZ-002,hasMOFFamily,Zn-oxide/zinc oxide
+MUF-84g,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+MUF-84c,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+ZIF-1,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-2,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-4-Zn,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-5,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-9,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-7,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+MFM-601,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+SO2@MFM601,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+CO2 SNU-9,hasMOFFamily,Zn-oxide/zinc oxide
+NOTT-12,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+NJU-Bai 42,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+BUT-105,hasMOFFamily,Zn-oxide/zinc oxide
+BUT-104,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+CPO-27-Mg,hasMOFFamily,MOF-74/CPO-27
+MFM-520 0.92(N2O4),hasMOFFamily,Zn-oxide/zinc oxide
+MFM-520 0.93(N2O4),hasMOFFamily,Zn-oxide/zinc oxide
+MFM-520 0.89(N2O4),hasMOFFamily,Zn-oxide/zinc oxide
+MFM-520 0.89(N2O4),hasMOFFamily,Zn-oxide/zinc oxide
+MFM-520 0.57(N2O4),hasMOFFamily,Zn-oxide/zinc oxide
+MFM-520 0.57(N2O4),hasMOFFamily,Zn-oxide/zinc oxide
+PCN-60,hasMOFFamily,Zn-oxide/zinc oxide
+PCN-61,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+NENU-505,hasMOFFamily,Zn-oxide/zinc oxide
+MOF-5,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+ZnGlyPyr-Desolvated (from Benzene),hasMOFFamily,Zn-oxide/zinc oxide
+ZnGlyPyr-Desolvated (from Acetone),hasMOFFamily,Zn-oxide/zinc oxide
+ZnAlaPyr-CO2 (low loading),hasMOFFamily,Zn-oxide/zinc oxide
+ZnAlaPyr-Desolvated,hasMOFFamily,Zn-oxide/zinc oxide
+ZnAlaPyr-Diethylformamide,hasMOFFamily,Zn-oxide/zinc oxide
+ZnAlaPyr-p-Xylene,hasMOFFamily,Zn-oxide/zinc oxide
+ZnAlaPyr-Desolvated (CO2 removed),hasMOFFamily,Zn-oxide/zinc oxide
+ZnAlaPyr-Trifluoroethanol,hasMOFFamily,Zn-oxide/zinc oxide
+ZnGlyPyr-CO2(high loading),hasMOFFamily,Zn-oxide/zinc oxide
+PCN-991,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+MCF-27,hasMOFFamily,Zn-oxide/zinc oxide
+MCF-27,hasMOFFamily,Zn-oxide/zinc oxide
+NKU-106,hasMOFFamily,Zn-oxide/zinc oxide
+NKU-108,hasMOFFamily,Zn-oxide/zinc oxide
+UTSA-61,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+ZJU-13,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+CPM-301,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+CPM-300,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+TMOF-4,hasMOFFamily,Zn-oxide/zinc oxide
+UiO-67,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+UiO-67,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+UiO-67,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+UiO-67,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+UiO-67,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+UiO-67,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+UiO-67,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+UiO-67,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+UiO-67,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+UiO67,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+CPO-27-Zn,hasMOFFamily,"Zn-oxide/zinc oxide, MOF-74/CPO-27"
+TMU-60,hasMOFFamily,Zn-oxide/zinc oxide
+CPO-27-Fe methanol solvate,hasMOFFamily,MOF-74/CPO-27
+CPO-27-Fe,hasMOFFamily,MOF-74/CPO-27
+INT-IRMOF-8-C,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+INT-IRMOF-8-B,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+TMU-56,hasMOFFamily,Zn-oxide/zinc oxide
+HKUST-1 0.56(dideuteroacetylene),hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+VNU-1-Zr,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+DUT-10(Zn),hasMOFFamily,Zn-oxide/zinc oxide
+DUT-11,hasMOFFamily,Zn-oxide/zinc oxide
+FJI-4,hasMOFFamily,Zn-oxide/zinc oxide
+FJI-5,hasMOFFamily,Zn-oxide/zinc oxide
+VNU-18,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+DUT-67,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+DUT-67,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+NUM-1,hasMOFFamily,Zn-oxide/zinc oxide
+CZJ-1-a,hasMOFFamily,Zn-oxide/zinc oxide
+DUT-71,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+DUT-73b,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+NTU-26,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+VPI-100(Ni),hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+VPI-100(Cu),hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+ZIF-65 methanol solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-65 methanol solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-65 methanol solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-65 methanol solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-65 methanol solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-65 methanol solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-65 methanol solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-65 methanol solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+ZIF-65 methanol solvate,hasMOFFamily,ZIF/Zeolitic Imidazolate Frameworks
+PCN-58,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PMOF-4,hasMOFFamily,Zn-oxide/zinc oxide
+UoC-1,hasMOFFamily,Zn-oxide/zinc oxide
+UoC-2,hasMOFFamily,"Zn-oxide/zinc oxide, IRMOF"
+reo-MOF-1,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+NAT-MOF-2,hasMOFFamily,Zn-oxide/zinc oxide
+TMU-21,hasMOFFamily,Zn-oxide/zinc oxide
+PCN-21,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+PCN-226(Cu),hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+PCN-226(Co),hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+H2O@MIL-161,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+DMF@MIL-161,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+JUC-199a,hasMOFFamily,Zn-oxide/zinc oxide
+IFMC-16,hasMOFFamily,Cu-Cu paddleWheels/HKUST-1
+DUT-67_D2O_loading1,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+DUT-67_D2O_loading2,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+DUT-67-loading3,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+HBU-18,hasMOFFamily,Zr-oxide/zirconium oxide/UiO-66
+ZnBTCA-T,hasMOFFamily,Zn-oxide/zinc oxide

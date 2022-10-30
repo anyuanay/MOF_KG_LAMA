@@ -1,0 +1,749 @@
+SubjectEntity,Relation,ObjectEntity
+MOF-CJ3,hasTopology,sab
+"catena-(octakis(μ6-4,4',4''-s-Triazine-2,4,6-triyltribenzoato)-dodeca-aqua-dodeca-copper dimethylsulfoxide solvate hydrate)|PCN-6|Teaching Subset: MOFs",hasTopology,tbo
+NJU-Bai9,hasTopology,pbz
+MOF-1,hasTopology,pcu
+MOF-2,hasTopology,soc
+URMOF-1,hasTopology,ntt
+URMOF-2,hasTopology,ntt
+UMCM-151,hasTopology,fmj
+UMCM-152,hasTopology,"nbo,fof"
+DUT-63,hasTopology,tbo
+DUT-64,hasTopology,pto
+DUT-77,hasTopology,pto
+FJI-H12,hasTopology,tbo
+TMU-22,hasTopology,pcu
+TMU-23,hasTopology,pcu
+ZJU-199,hasTopology,tbo
+SNNU-61,hasTopology,"soc,edq"
+NNU-36,hasTopology,pcu
+bio-MOF-12,hasTopology,lvt
+UTSA-62,hasTopology,"nia,jjt"
+FJI-H15,hasTopology,"hmc,tfe"
+MOZIF-1,hasTopology,sod
+UPC-35,hasTopology,pto
+UTSA-28-Cu,hasTopology,pto
+UTSA-28-Zn,hasTopology,pto
+Cu-PCN-224,hasTopology,she
+FIR-54,hasTopology,utp
+"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecakis(methanol)-dodeca-cadmium(ii) hexahydrate)",hasTopology,the
+"catena-(octakis(μ6-5,5,10,10,15,15-Hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-hydroxo)-dodecakis(methanol)-dodeca-dysprosium(iii) nonanitrate methanol solvate monohydrate)",hasTopology,the
+"catena-(Di-cadmium(ii) bis(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecakis(methanol)-dodeca-cadmium(ii) tetrahydrate)",hasTopology,the
+"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecaaqua-dodeca-cadmium(ii) hexahydrate)",hasTopology,the
+UiO-66(Ce)-Fumarate,hasTopology,fcu
+UTSA-38,hasTopology,pcu
+IMP-14,hasTopology,kgd
+CAU-3-BDC,hasTopology,fcu
+MET-5,hasTopology,met
+CPM-132,hasTopology,sql
+she-MOF-1,hasTopology,she
+she-MOF-2,hasTopology,she
+she-MOF-3,hasTopology,she
+"catena-((μ4-Pentaerythritol tetrakis(4-pyridinecarboxylate)-N,N',N'',N''')-bis(isothiocyanato)-cobalt)",hasTopology,pts
+NOF-1,hasTopology,sod
+"catena-[tris(μ-5-(4-pyridin-3-yl-benzoylamino)-isophthalato)-tris(aqua)-di-neodymium(iii) N,N-dimethylformamide solvate trihydrate]",hasTopology,sql
+"catena-[tris(μ-5-(4-pyridin-3-yl-benzoylamino)-isophthalato)-tris(aqua)-di-samarium(iii) N,N-dimethylformamide solvate trihydrate]",hasTopology,sql
+PCM-4,hasTopology,pyr
+LMOF-202,hasTopology,pcu
+LMOF-202,hasTopology,pcu
+MMPF-7,hasTopology,pts
+MMPF-8,hasTopology,pts
+JLU-Liu10,hasTopology,bwt
+FJU-6,hasTopology,llz
+FJU-6-PTB,hasTopology,llz
+FJU-6-Me-INA,hasTopology,llz
+FJU-6-TATB,hasTopology,llz
+FJU-6-Ni,hasTopology,llz
+CTH-6,hasTopology,rtl
+Teaching Subset: MOFs,hasTopology,lvt
+"catena-[bis(Oxonium) (μ-3,3 ,5,5 -azobenzentetracarboxylato)-bis(1,3-dimethylimidazolidin-2-one)-magnesium]",hasTopology,"pts,dmd"
+CPM-143,hasTopology,acs
+CPM-153,hasTopology,"nia-d,acs"
+FJI-8,hasTopology,"nbo,fof"
+BIF-22,hasTopology,pcb
+BIF-23,hasTopology,fes
+ZJU-136-Tb,hasTopology,sql
+JCM-1,hasTopology,dmd
+SNU-151,hasTopology,llj
+SNU-150',hasTopology,pyr
+"catena-[bis(μ-2,4,6-tri(pyridin-4-yl)-1,3,5-triazine)-hexachloro-tri-zinc tetrakis(piperonyl methyl ketone)]",hasTopology,ths
+FJI-H21,hasTopology,"lon,dea"
+"catena-[dimethylammonium (μ-2,8,14,20-tetramethyl-4,6,10,12,16,18,22-heptakis(carboxylatomethoxy)-24-(carboxymethoxy)calix(4)arene)-hexaaqua-(N,N-dimethylformamide)-tri-manganese octahydrate]",hasTopology,bnn
+HKUST-1,hasTopology,tbo
+MIL-53(Al)-FA|BasoliteA520,hasTopology,rna
+AUBM-3(La),hasTopology,pcu
+JUC-135,hasTopology,pcu
+NJU-Bai63,hasTopology,"rtl,sql"
+UWDM-1(22),hasTopology,"nbo,fog"
+Teaching Subset: MOFs,hasTopology,pcu
+"catena-(octakis(μ4-Benzene-1,4-dicarboxylato)-dodecakis(μ2-hydroxo)-octa-iron ibuprofen)",hasTopology,rna
+MIL-53as p-xylene,hasTopology,rna
+DUT-13,hasTopology,"cor,ttu"
+ZJU-68,hasTopology,"gfy,hcb"
+SIFSIX-1-Cu-C2D2,hasTopology,sql
+SCIF-9,hasTopology,dia
+GaMOF-1,hasTopology,ctn
+BUT-20,hasTopology,"nbo,fof"
+TMOF-2a,hasTopology,pcu
+PCM-11,hasTopology,kgd
+TMOF-1,hasTopology,pcu
+WUF-1,hasTopology,pcu
+"catena-[(μ5-5-(Pyridin-3-ylethynyl)benzene-1,3-dicarboxylato-N,O,O',O'',O''')-copper(ii) dimethylformamide solvate hydrate]",hasTopology,eea
+"catena-[(μ5-5-(Pyridin-3-ylethynyl)benzene-1,3-dicarboxylato-N,O,O',O'',O''')-copper(ii)]",hasTopology,eea
+MFM-188a desolvated,hasTopology,"scu,lwg"
+MFM-188,hasTopology,"scu,lwg"
+MFM-188,hasTopology,"scu,lwg"
+MIL-88,hasTopology,acs
+DMOF-1,hasTopology,dia
+DMOF-2,hasTopology,dia
+DMOF-4,hasTopology,dia
+DMOF-5,hasTopology,dia
+DMOF-6,hasTopology,dia
+DMOF-9,hasTopology,hcb
+DMOF-11,hasTopology,hcb
+CMOF-2,hasTopology,wbl
+Mn-ZIF-8,hasTopology,sod
+catena-[tetrakis(μ-isonicotinato)-di-manganese(ii) methanol solvate],hasTopology,rtl
+CPM-4,hasTopology,mco
+CPM-30,hasTopology,acs
+CPM-31,hasTopology,acs
+HKUST-1|Teaching Subset: MOFs,hasTopology,tbo
+PCP-2,hasTopology,kgm
+Hf-CAU-39,hasTopology,fcu
+TMU-42,hasTopology,hxl
+MIL-53(In)_(OH)2_lp_DMF,hasTopology,rna
+PCN-777,hasTopology,spn
+HKUST-1 (as synthesised),hasTopology,tbo
+In-MOF 1,hasTopology,dia
+FJU-66.S,hasTopology,pcu
+FJU-66.[EVIm]OH,hasTopology,pcu
+MMPF-1,hasTopology,"ssb,stx"
+493-MOF-BA,hasTopology,spn
+NENU-519,hasTopology,crb
+PCN-605-H,hasTopology,"flu,flt"
+YZ-7,hasTopology,ins
+YZ-8,hasTopology,ins
+MCOF-89,hasTopology,the
+UTSA-32,hasTopology,hcb
+BUT-62Y,hasTopology,scu
+BUT-63W,hasTopology,scu
+Toluene@BUT-62,hasTopology,scu
+BIT-101,hasTopology,srs
+BIT-103,hasTopology,tfe
+ZIF-65-SOD,hasTopology,sod
+ZIF-71-RHO,hasTopology,rho
+ZIF-74-GIS,hasTopology,gis
+PCN-136,hasTopology,hxg
+NJU-Bai49,hasTopology,"soc,edq"
+Ce-HHU-1,hasTopology,fcu
+SCNU-1,hasTopology,utc
+Al-CAU-42,hasTopology,spn
+NENU-522,hasTopology,srs
+BMM-12,hasTopology,"pts,tfi"
+CSMCRI-5,hasTopology,fsc
+MIL-53lt,hasTopology,rna
+MCF-26,hasTopology,gra
+PCN-610,hasTopology,ntt
+LMOF-261,hasTopology,"mot-e,mjb"
+MFM-136,hasTopology,eea
+"catena-[bis(μ2-2-Aminoisonicotinato-N:O,O')-cadmium(ii) unknown solvate]",hasTopology,dia
+"catena-[bis(μ2-2-Aminoisonicotinato-N:O,O')-cobalt(ii) unknown solvate]",hasTopology,dia
+CPM-550,hasTopology,jjt
+CPM-560,hasTopology,jjt
+"catena-[(μ5-5-(Isonicotinamido)isophthalato-N,O,O',O'',O''')-zinc(ii) dimethylformamide solvate]",hasTopology,"rtl,sql"
+UTSA-34,hasTopology,"fsy,frf"
+MET-2,hasTopology,met
+CAU-7-TATB,hasTopology,hcb
+PCN-605-H-Br,hasTopology,"flu,flt"
+PCN-605-H-Dry,hasTopology,"flu,flt"
+PCN-606-NH2 (fresh),hasTopology,"scu,tty"
+PCN-608-OH,hasTopology,"csq,xly"
+PCN-606-OMe (fresh),hasTopology,"scu,tty"
+PCN-700-Br,hasTopology,bcu
+MUV-2,hasTopology,sdb
+NTU-20,hasTopology,dia
+NPF-300(Hf),hasTopology,"scu,tty"
+NPF-300,hasTopology,"scu,tty"
+NPF-300-LT,hasTopology,"scu,tty"
+Mn-CFA-6-DMAc,hasTopology,bpq
+ZJNU-81,hasTopology,mfj
+Zr-PCN-221(Cu),hasTopology,ftw
+Co-CAU-36,hasTopology,"scu,ffc"
+Co-CAU-36,hasTopology,"scu,ffc"
+Co-CAU-36,hasTopology,"scu,ffc"
+Co-CAU-36,hasTopology,"scu,ffc"
+Co-CAU-36,hasTopology,"scu,ffc"
+Co-CAU-36,hasTopology,"scu,ffc"
+Co-CAU-36,hasTopology,"scu,ffc"
+Co-CAU-36,hasTopology,"scu,ffc"
+Co-CAU-36,hasTopology,"scu,ffc"
+Co-CAU-36,hasTopology,"scu,ffc"
+UPC-102-Zr,hasTopology,"csq,xly"
+UPC-99,hasTopology,lil
+ZJU-158-Tb,hasTopology,rtl
+PCN-12',hasTopology,"ssa,sty"
+"catena-[bis(μ4-1,5-pentanedioato-O,O',O'',O''')-(μ2-N,N'-bis(4-pyridyl)piperazine-N,N')-di-copper(ii) tetrahydrate]",hasTopology,mab
+UWDM-3,hasTopology,pcu
+α-IRMOF-3-AMPh,hasTopology,pcu
+BUT-2,hasTopology,fcu
+ZTIF-14,hasTopology,gis
+ZTIF-15,hasTopology,gis
+"catena-((μ3-Homophthalato-O,O',O'')-(μ3-oxo)-tetramethyl-di-tin(iv) hydrate)",hasTopology,nbo
+rtl-MOF-2,hasTopology,"rtl,sql"
+MCF-56,hasTopology,ant
+MCF-57,hasTopology,ant
+UPC-15,hasTopology,the
+SNU-81,hasTopology,pcu
+SNU-82,hasTopology,pcu
+SNU-84,hasTopology,pcu
+SNU-85,hasTopology,pcu
+SNU-86,hasTopology,pcu
+ECUT-30,hasTopology,pcu
+SCIF-12,hasTopology,ins
+MIL-47(V),hasTopology,rna
+MIL-47(V),hasTopology,rna
+MIL-47(V),hasTopology,rna
+MIL-47(V),hasTopology,rna
+MIL-47(V),hasTopology,rna
+NJU-Bai7,hasTopology,"rtl,sql"
+NJU-Bai8,hasTopology,"rtl,sql"
+P11-Cu,hasTopology,rtl
+Hf-MOF-808 selenate unknown solvate,hasTopology,spn
+Hf-MOF-808 selenite unknown solvate,hasTopology,spn
+Zr-bcu-26ndc,hasTopology,bcu
+Zr-bcu-tmuc,hasTopology,bcu
+Zr-bcu-22bipy44dc,hasTopology,bcu
+MOF-F,hasTopology,fcu
+NU-1401-AS-DMF,hasTopology,"lvt,lim"
+MAF-6,hasTopology,rho
+FIR-28,hasTopology,srs
+catena-((μ4-Tetramethyltetra-azacalix(4)pyrimidine)-tetrakis(μ3-bromo)-tetra-copper unknown solvate),hasTopology,dia
+catena-((μ4-Tetramethyltetra-azacalix(4)pyrimidine)-tetrakis(μ3-iodo)-tetra-copper unknown solvate),hasTopology,dia
+PCP-31,hasTopology,fog
+PCP-32,hasTopology,tbo
+NOTT-212 dimethylformamide solvate tetrahydrate,hasTopology,"pts,tfi"
+PCN-700-c,hasTopology,bcu
+PCN-700-(CF3)2,hasTopology,bcu
+PCN-700-Me4-c,hasTopology,bcu
+"catena-[bis(μ-2,4,6-tris(pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc cis-asarone unknown solvate]",hasTopology,ths
+"catena-[bis(μ-2,4,6-tris(pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc trans-asarone unknown solvate]",hasTopology,ths
+Ce-MOF-808,hasTopology,spn
+Teaching Subset: MOFs,hasTopology,dia
+SNNU-71,hasTopology,etd
+SNNU-74,hasTopology,ctn
+ST-1,hasTopology,muo
+ST-3,hasTopology,ith-d
+V101,hasTopology,dia
+Mg-110,hasTopology,"dia,tfa"
+LIFM-13(Co),hasTopology,ant
+BUT-17,hasTopology,"csq,xly"
+CCNU-11,hasTopology,pcu
+LCU-105,hasTopology,"pts,tfi"
+CZJ-6,hasTopology,pto
+ZIF-8 dinitrogen,hasTopology,sod
+MCF-19-Ia,hasTopology,ncb
+MCF-19-IIb,hasTopology,ncb
+SDU-1,hasTopology,"hmc,tfe"
+BIF-82,hasTopology,gra
+catena-(tris(μ2-5-(4-pyridyl)dipyrrin)-cobalt(iii)-silver(i) hexafluorophosphate acetonitrile benzene solvate),hasTopology,utp
+ZJU-30,hasTopology,"lvt,lil"
+"CoMOF-1 N,N-dimethylformamide methanol solvate dihydrate",hasTopology,rob
+PCN-164-inter,hasTopology,fcu
+BIF-9-Cu,hasTopology,rho
+Fe-MPOF,hasTopology,kgd
+JUC-57,hasTopology,rtl
+MIL-88B-tpt,hasTopology,"nia-d,acs"
+MIL-88B-tpt,hasTopology,"nia-d,acs"
+MIL-88B-tpt,hasTopology,"nia-d,acs"
+UPC-21,hasTopology,"nbo,fof"
+CD-MOF-3,hasTopology,rra
+CD-MOF-1,hasTopology,rra
+CD-MOF-2,hasTopology,rra
+"catena-[bis(μ-tris(4-(pyridin-4-yl)phenyl)amine)-(μ-1,4-benzenedicarboxylato)-bis(μ-chloro)-di-cobalt methanol solvate]",hasTopology,hcb
+"catena-[bis(μ-4-(pyridin-4-yl)-N,N-bis(4-(pyridin-4-yl)phenyl)aniline)-(μ-2,5-dimethylterephthalato)-bis(μ-chloro)-di-cobalt methanol solvate]",hasTopology,hcb
+SHF-61-DMF,hasTopology,dia
+SHF-61-CHCl3,hasTopology,dia
+LIFM-26(Fe),hasTopology,acs
+CZJ-10,hasTopology,pto
+MOF-505,hasTopology,"nbo,fof"
+DUT-58,hasTopology,hex
+ZJNU-73,hasTopology,"nbo,fof"
+PCN-81,hasTopology,"nbo,tfb"
+AUBM-1,hasTopology,pts
+PCN-250'',hasTopology,"soc,edq"
+MMPF-10,hasTopology,"scu,fmj"
+MORF-1,hasTopology,sqp
+NU-1000,hasTopology,csq
+NKU-111,hasTopology,tfz
+ZTOF-2,hasTopology,seh
+NU-1500-Cr,hasTopology,acs
+TMU-46,hasTopology,mab
+JUC155,hasTopology,sab
+HKUST-1,hasTopology,tbo
+NNU-37,hasTopology,pcu
+TO-MOF,hasTopology,fsc
+MIL-53 deuterium,hasTopology,rna
+MIL-53 deuterium,hasTopology,rna
+NOTT-116,hasTopology,ntt
+ZJU-9,hasTopology,"nbo,fof"
+But-33,hasTopology,the
+But-32,hasTopology,the
+PCN-46,hasTopology,"nbo,fof"
+catena-(oxonium pyrrolidinium bis(μ6-5-phosphonoisophthalato)-tri-zinc tetrahydrate),hasTopology,rtl
+DUT-129,hasTopology,sod
+NENU-507,hasTopology,dia
+NENU-506,hasTopology,dia
+MOF-177-OMe,hasTopology,the
+ZJU-19,hasTopology,"scu,tbo"
+NU-111,hasTopology,ntt
+PCN-600(Fe),hasTopology,stp
+PCN-600(Co),hasTopology,stp
+catena-(tetrakis(μ2-Urocanoato)-di-cadmium(ii) ethanol solvate trihydrate),hasTopology,dia
+α-Zn|MCF-51,hasTopology,nbo
+MIL-126,hasTopology,acs
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+MOF-5,hasTopology,pcu
+La-ThBTB,hasTopology,tsg
+TMOF-3,hasTopology,fsc
+α-ZIF-65 unknown solvate,hasTopology,sod
+α-ZIF-65 unknown solvate,hasTopology,sod
+β-ZIF-65 unknown solvate,hasTopology,sod
+β-ZIF-65 unknown solvate,hasTopology,sod
+MIL-53as,hasTopology,rna
+MIL-53ht,hasTopology,rna
+MIL-53ht,hasTopology,rna
+MIL-53,hasTopology,rna
+FJI-H15,hasTopology,"hmc,tfe"
+NTU-25,hasTopology,eea
+NTU-23,hasTopology,eea
+NTU-24,hasTopology,eea
+JUC-105,hasTopology,"nia,jjt"
+TMU-16,hasTopology,pcu
+"catena-[bis(N-Methylmethanaminium) bis(μ4-terephthalato-O,O',O'',O''')-(μ4-terephthalato-O,O,O',O')-(μ2-terephthalato-O,O')-tri-cobalt(ii) dimethylformamide solvate]",hasTopology,bcg
+"catena-[bis(N-Methylmethanaminium) bis(μ4-terephthalato-O,O',O'',O''')-(μ4-terephthalato-O,O,O',O')-(μ2-terephthalato-O,O')-tri-cobalt(ii) dimethylformamide solvate]",hasTopology,bcg
+BIF-3-Cu,hasTopology,sod
+IPM-206,hasTopology,esg
+BUT-72,hasTopology,sqc
+BUT-74,hasTopology,scu
+Co(II)-TMU-63,hasTopology,hex
+PMOF-2(Zn),hasTopology,ntt
+MOF-217,hasTopology,srs
+MOF-217,hasTopology,srs
+MOF-217,hasTopology,srs
+JLU-Liu17,hasTopology,zyg
+InOF-12,hasTopology,"pts,tfi"
+"catena-[bis(μ-d-camphorato)-hexakis(μ-5-methyl-tetrazolato)-tetra-zinc N,N-dimethylformamide solvate]|MOZ-51",hasTopology,pcl
+γ-MUF-10,hasTopology,bsn
+UTSA-68,hasTopology,"pts,sur"
+NTU-140,hasTopology,pts
+NTU-141,hasTopology,pts
+amino-MIL53(Al) NP form,hasTopology,rna
+"catena-(octakis(μ2-Urocanato-N3,O)-tetra-zinc(ii) heptadecahydrate)",hasTopology,dia
+activated COK-18,hasTopology,hof
+NKU-112,hasTopology,"nbo,tfb"
+PCN-6'|Teaching Subset: MOFs,hasTopology,tbo
+MOF-HTB|Teaching Subset: MOFs,hasTopology,tbo
+MOF-HTB'|Teaching Subset: MOFs,hasTopology,tbo
+ZIF-8-6.05Ar,hasTopology,sod
+ZIF-8 unknown solvate,hasTopology,sod
+ZIF-8 6.32Ar,hasTopology,sod
+ZIF-8 8.27methane,hasTopology,sod
+ZIF-8 9.76methane,hasTopology,sod
+ZIF-8 3.25methane,hasTopology,sod
+ZIF-8 4.22dinitrogen,hasTopology,sod
+ZIF-8 4.44dinitrogen,hasTopology,sod
+ZIF-8 5.63dinitrogen,hasTopology,sod
+ZIF-8 6.21dinitrogen,hasTopology,sod
+ZIF-8 5.9Ar,hasTopology,sod
+ZIF-8 6.23dinitrogen,hasTopology,sod
+ZIF-8 6.29dinitrogen,hasTopology,sod
+ZIF-8 5.5dinitrogen,hasTopology,sod
+ZIF-8 10.08methane,hasTopology,sod
+ZIF-8 6.06dioxygen,hasTopology,sod
+ZIF-8 6.18dioxygen,hasTopology,sod
+ZIF-8 8.16dioxygen,hasTopology,sod
+ZIF-8 8.40dioxygen,hasTopology,sod
+ZIF-8 8.25dinitrogen,hasTopology,sod
+ZIF-8 5.5methane,hasTopology,sod
+ZIF-8 4.08methane,hasTopology,sod
+PCN-609,hasTopology,scu
+Zr-UiO-66-PZDC,hasTopology,fcu
+IFMC-200,hasTopology,"ftw,ddy"
+PCN-38,hasTopology,"pts,sur"
+ZJNU-91,hasTopology,"nbo,fof"
+NTU-Z11,hasTopology,sab
+NTU-Z10,hasTopology,idp
+"catena-[(μ-5,11,17,23-tetra-t-butylthiacalix[4]arene-25,26,27,28-tetrakis(pyridin-3-ylmethoxy))-dibromo-cadmium chloroform solvate]",hasTopology,pts
+SCNU-Z1-Cl*,hasTopology,gfy
+IRMOF-23terp,hasTopology,pcu
+IRMOF-25terPh,hasTopology,pcu
+IRMOF-pentane,hasTopology,pcu
+IRMOF-61,hasTopology,pcu
+IRMOF-62,hasTopology,pcu
+COK-69cp,hasTopology,acs
+COK-69op,hasTopology,acs
+ZJU-12,hasTopology,"nbo,fof"
+PCN-516,hasTopology,pts
+PCN-513,hasTopology,kgd
+POMOF-1,hasTopology,dia
+GR-MOF-2,hasTopology,rob
+GR-MOF-4,hasTopology,rob
+GR-MOF-5,hasTopology,pcu
+ZIF-8,hasTopology,sod
+ZIF8,hasTopology,sod
+ZIF-8,hasTopology,sod
+MAF-4,hasTopology,sod
+ZIF-8,hasTopology,sod
+JUC-62,hasTopology,"nbo,fog"
+JUC-63,hasTopology,"pts,tfi"
+Δ-Fe-HAF-1,hasTopology,"tbo,tbd"
+Λ-Fe-HAF-1,hasTopology,"tbo,tbd"
+UMCM-150N2,hasTopology,agw
+CH4@DUT49cp,hasTopology,"nbo,tfb"
+CH4@DUT49ip,hasTopology,"nbo,tfb"
+NJU-Bai2,hasTopology,pcu
+FJU-22,hasTopology,apo
+FJU-21,hasTopology,"rtl,sql"
+HLJU-3,hasTopology,ntt
+HLJU-2,hasTopology,ntt
+TPMOF-1,hasTopology,lon
+TPMOF-2,hasTopology,lon
+TPMOF-5,hasTopology,"hcb,jea"
+truMOF-2,hasTopology,srs
+UTSA-20,hasTopology,"stp,zyg"
+MMPF-18,hasTopology,pcu
+Δ-MOF-520 unknown solvate,hasTopology,fon
+Λ-MOF-520 trimesate unknown solvate,hasTopology,fon
+"Λ-MOF-520 3-(t-butoxycarbonylamino)propan-1,2-diolato unknown solvate",hasTopology,fon
+Λ-MOF-520 unknown solvate,hasTopology,fon
+Λ-MOF-520 methanolate unknown solvate,hasTopology,fon
+Cd-PAA-1,hasTopology,dia
+Mn-FPAA-1,hasTopology,rtl
+Mn-INA-1,hasTopology,rtl
+catena-(bis(tetrabutylammonium) tris(μ2-chloranilato)-di-manganese(ii) methanol solvate),hasTopology,srs
+Ubbp-3,hasTopology,"ssb,stu"
+"catena-[hexakis(μ4-Terephthalato-O,O',O'',O''')-tetrakis(μ3-hydroxo)-dodecakis(μ3-isonicotinato)-octa-nickel(ii)-tetra-nickel(iii) dimethylformamide solvate hexadecahydrate]",hasTopology,ncb
+MIL-141(Na),hasTopology,tfj
+MIL-141(Li),hasTopology,pts
+IPM-MOF-110,hasTopology,rob
+HPU-1,hasTopology,"dia,tfv"
+MMCF-1,hasTopology,ins
+MTAF-3,hasTopology,pcu
+PCN-111,hasTopology,fcu
+Zn-Pd-2,hasTopology,tfi
+BMOF-2-dioxole,hasTopology,pcu
+"catena-((μ4-Muconato-O,O',O'',O''')-(μ2-muconato-O,O')-diaqua-tris(1,10-phenanthroline)-tri-copper(ii) bis(tetrafluoroborate) pentahydrate)",hasTopology,dia
+U-IHEP-4,hasTopology,tbo
+FMOF-1,hasTopology,fes
+IRMOF-9,hasTopology,pcu
+FJI-H22,hasTopology,"cds,gwg"
+FJI-H22(Recover),hasTopology,"cds,gwg"
+ZJNU-97,hasTopology,"ssb,stx"
+InOF-8,hasTopology,stp
+IMP-32-Zr,hasTopology,"scu,tty"
+catena-(bis(oxonium)) bis(μ6-5-phosphonoisophthalato)-tri-zinc(ii)|catena-(bis(μ6-5-phosphonoisophthato)-tri-zinc(ii) bis(oxonium)),hasTopology,rtl
+hemikis(Cobaltocene) MIL-47(V),hasTopology,rna
+MesoMOF-2,hasTopology,the
+"catena-((μ4-15,35,55,75-tetrakis(Pyrid-4-yl)-12,14,16,32,34,36,52,54,56,72,74,76-dodecamethyl-1,3,5,7-(1,3)benzenacyclo-octaphane-N,N',N'',N''')-di-silver bis(hexafluorophosphate) 1,2-dichlorobenzene solvate decahydrate)",hasTopology,pts
+UTSA-85,hasTopology,pcu
+NJU-Bai50,hasTopology,ceq
+TIF-5Co,hasTopology,gis
+TIF-5Zn,hasTopology,gis
+ZIF-9,hasTopology,sod
+ZIF-9,hasTopology,sod
+ZIF-9,hasTopology,sod
+Co-ZIF-9,hasTopology,sod
+ZIF-9,hasTopology,sod
+MOF-14,hasTopology,pto
+MOF-14,hasTopology,pto
+MOF-14,hasTopology,pto
+MOF-14,hasTopology,pto
+MOF-14,hasTopology,pto
+MOF-14,hasTopology,pto
+MOF-14,hasTopology,pto
+MOF-14,hasTopology,pto
+MOF-14,hasTopology,pto
+MOF-14,hasTopology,pto
+MOF-14,hasTopology,pto
+-MOF-520-24,hasTopology,fon
+-MOF-520-25,hasTopology,fon
+-MOF-520-27,hasTopology,fon
+-MOF-520-28,hasTopology,fon
+-MOF-520-31-activated,hasTopology,fon
+-MOF-520-S-32,hasTopology,fon
+-MOF-520-22,hasTopology,fon
+-MOF-520-R-32,hasTopology,fon
+Δ-MOF-520-17,hasTopology,fon
+Δ-MOF-520-21,hasTopology,fon
+"-MOF-520 N,N-dimethylformamide solvate",hasTopology,fon
+SIFSIX-23-Cu-γ1,hasTopology,sql
+SIFSIX-23-Cu-γ2,hasTopology,sql
+DUT-159,hasTopology,"nbo,fof"
+NOTT-114,hasTopology,ntt
+catena-((μ4-Squarato)-diaqua-cadmium(ii)),hasTopology,nbo
+JUC-141,hasTopology,eea
+SCU-100,hasTopology,dia
+NU-125,hasTopology,ntt
+"catena-[bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii) tangeritin clathrate unknown solvate]",hasTopology,ths
+"catena-[bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii) hemikis(nobiletin) clathrate unknown solvate]",hasTopology,ths
+"catena-[octakis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-tetracosakis(iodo)-dodeca-zinc(ii) pentakis(santonin) clathrate cyclohexane unknown solvate]",hasTopology,ths
+"catena-[bis(bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii)) guaiazulene clathrate unknown solvate]",hasTopology,ths
+"catena-[bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii) guaiazulene clathrate unknown solvate]",hasTopology,ths
+catena-(tris(μ4-Terephthalato)-(μ3-oxo)-triaqua-tri-chromium(iii) fluoride tetracosakis(methanol) clathrate)|MIL88B_Methanol,hasTopology,acs
+BUT-43,hasTopology,lvt
+D-ZIF-7,hasTopology,sod
+D-ZIF-7 CO2,hasTopology,sod
+D-ZIF-7 CO2,hasTopology,sod
+D-ZIF-7 CO2,hasTopology,sod
+TMU-41,hasTopology,bnn
+MOF-519,hasTopology,fon
+JLU-MOF60,hasTopology,sqc
+LIFM-114-Methanol,hasTopology,"scu,tty"
+LIFM-114-60C,hasTopology,"scu,tty"
+HUST4,hasTopology,bcu
+HUST1,hasTopology,bcu
+CdAPP-1,hasTopology,pcu
+CdAPP-1,hasTopology,sql
+CdAPP-1,hasTopology,pcu
+CdAPP-1,hasTopology,pcu
+CdAPP-1,hasTopology,pcu
+CPM-33a,hasTopology,"nia-d,acs"
+PCN-700,hasTopology,bcu
+IRMOF-77,hasTopology,pcu
+"catena-[(μ8-5,5'-Buta-1,3-diyne-1,4-diyldibenzene-1,3-dicarboxylato)-diaqua-di-copper(ii) dimethylformamide solvate trihydrate]|MOF-505",hasTopology,"nbo,fof"
+SUMOF-7I,hasTopology,tsg
+SUMOF-7I,hasTopology,tsg
+MOF-5|Teaching Subset: MOFs,hasTopology,pcu
+Teaching Subset: MOFs,hasTopology,pcu
+LCU-101,hasTopology,"pts,tfi"
+N2@DUT-8(Ni),hasTopology,pcu
+CO2@DUT-8(Ni),hasTopology,pcu
+C4H10@DUT-8(Ni),hasTopology,pcu
+DUT-8(Ni) ip2,hasTopology,sql
+UPC-30,hasTopology,"sit,sql"
+BUT-52,hasTopology,toc
+PCN-700-SA,hasTopology,bcu
+PCN-700-SA2,hasTopology,bcu
+MIL-53(Fe) m-xylene clathrate,hasTopology,rna
+MIL-53(Fe) o-xylene clathrate,hasTopology,rna
+MIL-53(Fe) p-xylene clathrate,hasTopology,rna
+TMU-6(RL1),hasTopology,pcu
+FJI-Y8,hasTopology,"pts,tfi"
+IOS-2(M),hasTopology,qtz
+IOS-2(P),hasTopology,qtz
+ZIF-4-Co,hasTopology,cag
+UMCM-151-F,hasTopology,fmj
+UMCM-151-Cl,hasTopology,fmj
+FDM-34,hasTopology,fcu
+ATF-2,hasTopology,dia
+ATF-1P,hasTopology,dia
+ATF-1M,hasTopology,dia
+ATF-1,hasTopology,dia
+ATF-2P,hasTopology,dia
+ZJU-28',hasTopology,ofp
+"catena-((μ12-Phosphato)-bis(μ4-1-(2,4-difluorophenyl)-1,1-bis((1H-1,2,4-triazol-1-yl)methyl)methanolato)-(μ3-oxo)-heptacosakis(μ2-oxo)-pentaaqua-octaoxo-copper(i)-tri-copper(ii)-di-molybdenum(v)-deca-molybdenum(vi) hexahydrate)",hasTopology,"hcb,cph"
+DUT-122(Zr),hasTopology,fcu
+AIST-1,hasTopology,dmd
+CPM-202,hasTopology,acs
+CPM-203,hasTopology,pcu
+CPM-205,hasTopology,bcu
+CPM-201,hasTopology,acs
+TMOF-2,hasTopology,sql
+TMU-31,hasTopology,dia
+ZJU-197,hasTopology,"pts,tfi"
+FJI-Y7,hasTopology,"pts,tfi"
+IFMC-6,hasTopology,rtl
+IFMC-7,hasTopology,eea
+NJU-Bai 41,hasTopology,"nbo,fof"
+ZJNU-78,hasTopology,zmj
+NTU-40,hasTopology,apo
+NTU-41,hasTopology,"rtl,sql"
+PCN-13,hasTopology,bcs
+NU-1000-C8H7NO4S,hasTopology,csq
+NU-1000-C7H8O3S,hasTopology,csq
+PCN-266,hasTopology,kgd
+PCN-280,hasTopology,nht
+PCN-285,hasTopology,nht
+PCN-234,hasTopology,pcu
+PCN-243,hasTopology,acs
+PCN-245,hasTopology,acs
+PCN-247,hasTopology,acs
+"Gd-RUM2 hemikis(1-methyl-2-pyrrolidone) clathrate N,N-dimethylformamide solvate",hasTopology,esg
+Ce-RUM3 caprolactam clathrate hydrate,hasTopology,esg
+ZIF-8,hasTopology,sod
+ZIF-8,hasTopology,sod
+ZIF-8,hasTopology,sod
+ZIF-8,hasTopology,sod
+ZIF-8,hasTopology,sod
+ZIF-8,hasTopology,sod
+ZIF-8,hasTopology,sod
+ZIF-8,hasTopology,sod
+FJI-9,hasTopology,"nbo,fog"
+ZJNU-63,hasTopology,sql
+JUC-103,hasTopology,"pcu,zxc"
+MET-3,hasTopology,met
+MOF-1004,hasTopology,sky
+"catena-((μ3-Hydroxo)-(μ2-pyridine-4-carboxylato-O,N)-copper(ii) monohydrate clathrate)",hasTopology,sql
+FJI-Y10,hasTopology,pcu
+"catena-[tetrakis(dimethylammonium) (μ-2,2',2'',2''',2'''',2''''',2'''''',2'''''''-((2,8,14,20-tetrakis(4-methylphenyl)pentacyclo[19.3.1.13,7.19,13.115,19]octacosa-1(25),3(28),4,6,9(27),10,12,15(26),16,18,21,23-dodecaene-4,6,10,12,16,18,22,24-octayl)octakis(oxy))octaacetato)-bis(N,N-dimethylformamide)-di-zinc(ii) N,N-dimethylformamide solvate hexahydrate]",hasTopology,flu
+"catena-[tetrakis(dimethylammonium) (μ-2,2',2'',2''',2'''',2''''',2'''''',2'''''''-((2,8,14,20-tetrakis(4-methylphenyl)pentacyclo[19.3.1.13,7.19,13.115,19]octacosa-1(25),3(28),4,6,9(27),10,12,15(26),16,18,21,23-dodecaene-4,6,10,12,16,18,22,24-octayl)octakis(oxy))octaacetato)-di-cobalt N,N-dimethylformamide solvate tetrahydrate]",hasTopology,flu
+FJI-6,hasTopology,sab
+FJI-H11-iPr,hasTopology,"nbo,fof"
+MFU-4l,hasTopology,pcu
+InMOF-1,hasTopology,"dia,tfa"
+DUT-122(Hf),hasTopology,fcu
+UNLPF-10_1,hasTopology,"flu,jaj"
+UNLPF-10_2,hasTopology,"flu,jaj"
+ZIF-204,hasTopology,thl
+UTSA-36,hasTopology,pcu
+ZIF-8 iodine solvate,hasTopology,sod
+ZIF-8 iodine solvate,hasTopology,sod
+SNU-30,hasTopology,"lvt,lil"
+SNU-30SC,hasTopology,"lvt,lil"
+MUF-84g,hasTopology,kkm
+MUF-84c,hasTopology,kkm
+VNU-11,hasTopology,spn
+ZIF-1,hasTopology,crb
+ZIF-2,hasTopology,crb
+ZIF-4-Zn,hasTopology,cag
+ZIF-9,hasTopology,sod
+ZIF-7,hasTopology,sod
+CO2 SNU-9,hasTopology,pcu
+NOTT-12,hasTopology,"nbo,fof"
+NJU-Bai 42,hasTopology,"nbo,fof"
+BUT-107,hasTopology,"lon,dea"
+BUT-104,hasTopology,"scu,tty"
+PCN-60,hasTopology,ntt
+PCN-61,hasTopology,ntt
+NENU-505,hasTopology,"pts,dmd"
+MOF-5,hasTopology,pcu
+ZnGlyPyr-Desolvated (from Benzene),hasTopology,ggl
+ZnGlyPyr-Desolvated (from Acetone),hasTopology,ggl
+ZnAlaPyr-CO2 (low loading),hasTopology,ggl
+ZnAlaPyr-Desolvated,hasTopology,ggl
+ZnAlaPyr-Diethylformamide,hasTopology,ggl
+ZnAlaPyr-p-Xylene,hasTopology,ggl
+ZnAlaPyr-Desolvated (CO2 removed),hasTopology,ggl
+ZnAlaPyr-Trifluoroethanol,hasTopology,ggl
+PCN-991,hasTopology,pcu
+MET-6,hasTopology,met
+MET-4,hasTopology,met
+CPF-3,hasTopology,pcu
+NKU-106,hasTopology,"hcb,zyl"
+NKU-107,hasTopology,cpr
+NKU-108,hasTopology,eea
+JUMP-1,hasTopology,tfz-d
+UTSA-61,hasTopology,ntt
+NENU-601,hasTopology,sra
+CPM-326-Trip,hasTopology,pcu
+CPM-326-Phen,hasTopology,pcu
+CPM-325-Phez,hasTopology,pcu
+C2H2@NKMOF-1-Cu,hasTopology,tfi
+ZJU-13,hasTopology,"nbo,fof"
+CPM-301,hasTopology,pcu
+CPM-300,hasTopology,acs
+UNM-1,hasTopology,dia
+JLNU-4,hasTopology,"pts,tfi"
+TMOF-4,hasTopology,pcu
+UiO-67,hasTopology,fcu
+UiO-67,hasTopology,fcu
+UiO-67,hasTopology,fcu
+UiO67,hasTopology,fcu
+SNNU-5-Al,hasTopology,fmz
+SNNU-5-Ga,hasTopology,fmz
+SNNU-5-In,hasTopology,fmz
+Th6-Me2BPDC-8b,hasTopology,bcu
+U6-Me2BPDC-8-H2O-1d,hasTopology,bcu
+TMU-60,hasTopology,pcu
+SIFSIX-3-Cu,hasTopology,sql
+INT-IRMOF-8-C,hasTopology,pcu
+INT-IRMOF-8-B,hasTopology,pcu
+UTSA-60,hasTopology,lvt
+"catena-[bis(μ-4,5,6-trihydroxytetrahydro-2H-pyran-3-olato)-calcium methanol solvate dihydrate]",hasTopology,dia
+TMU-56,hasTopology,pcu
+HKUST-1 0.56(dideuteroacetylene),hasTopology,tbo
+VNU-1-Zr,hasTopology,fcu
+Cd-MOF2,hasTopology,"kgd,flt"
+Cd-MOF8,hasTopology,kgd
+Tb@MOF,hasTopology,"flu,flt"
+Cd-MOF1,hasTopology,kgd
+Cd-MOF4,hasTopology,"flu,flt"
+DUT-10(Zn),hasTopology,"lvt,lil"
+DUT-11,hasTopology,"pts,sur"
+DUT-10(Co),hasTopology,"lvt,lil"
+DUT-10(Cu),hasTopology,"lvt,lil"
+DUT-12(Cu),hasTopology,"ssb,stu"
+FJI-4,hasTopology,idp
+FJI-5,hasTopology,sab
+MIL-47 styrene high loading,hasTopology,rna
+DUT-67,hasTopology,reo
+DUT-67,hasTopology,reo
+FJI-C5,hasTopology,flu
+FJI-C3,hasTopology,mrc
+MCIF-2,hasTopology,pts
+CZJ-1-a,hasTopology,fsc
+MIL-59,hasTopology,pcu
+InOF-4,hasTopology,dia
+"catena-(bis(μ2-4,4'-bipyridine)-bis(μ2-thiosulfato)-tetraaqua-di-cadmium tetrahydrate)",hasTopology,dmp
+PCN-250,hasTopology,"soc,edq"
+PCN-250,hasTopology,"soc,edq"
+UNM-2,hasTopology,pts
+UNM-4,hasTopology,dia
+UNM-5,hasTopology,dia
+"catena-(bis(μ-2,4,6-tris(4-pyridyl)-1,3,5-triazine)-hexachloro-tri-zinc hemkis(6-{[5-(2,5-dimethylphenoxy)-2,2-dimethylpentanoyl]oxy}-3,4,5-trihydroxyoxane-2-carboxylic acid) cyclohexane solvate)",hasTopology,ths
+MIL-53-muc,hasTopology,rna
+PCN-427,hasTopology,"ssb,stx"
+NTU-26,hasTopology,pcu
+MIL-88D,hasTopology,acs
+catena-[hexakis(μ-D-penicilliamine)-tetraaqua-di-cobalt(iii)-tri-copper(i)-tri-sodium(i) ethanol solvate pentahydrate],hasTopology,acs
+VPI-100(Ni),hasTopology,bcu
+VPI-100(Cu),hasTopology,bcu
+ZIF-65 methanol solvate,hasTopology,sod
+ZIF-65 methanol solvate,hasTopology,sod
+ZIF-65 methanol solvate,hasTopology,sod
+ZIF-65 methanol solvate,hasTopology,sod
+ZIF-65 methanol solvate,hasTopology,sod
+ZIF-65 methanol solvate,hasTopology,sod
+ZIF-65 methanol solvate,hasTopology,sod
+ZIF-65 methanol solvate,hasTopology,sod
+ZIF-65 methanol solvate,hasTopology,sod
+FJU-16,hasTopology,"pts,tfi"
+FJU-17,hasTopology,"pts,tfi"
+PCN-58,hasTopology,fcu
+BUT-29,hasTopology,"pts,tfi"
+CPM-311-RR,hasTopology,qtz
+MFM-127,hasTopology,eea
+MFM-127 1.2 CO2,hasTopology,eea
+MFM-127,hasTopology,eea
+PMOF-4,hasTopology,zjz
+pentaMOF-2,hasTopology,lvt
+NAT-MOF-2,hasTopology,tty
+TMU-21,hasTopology,pcu
+bio-MOF-11,hasTopology,lvt
+ZJNU-87,hasTopology,"ssa,sty"
+Cd-TTPBA-4,hasTopology,rna
+DUT-67_D2O_loading1,hasTopology,reo
+DUT-67_D2O_loading2,hasTopology,reo
+DUT-67-loading3,hasTopology,reo
+HBU-18,hasTopology,sqc
+POST-66(Y),hasTopology,the
+ZU-36-Ni,hasTopology,sql
