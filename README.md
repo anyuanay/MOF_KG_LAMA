@@ -7,11 +7,11 @@ Building knowledge graph is a time-consuming and expensive process which often a
 
 ## Pre-trained Language Models
 We explored the following 5 pre-trained language models:
-1. BERT:
-2. SciBERT:
-3. RoBERTa:
-4. MatBERT:
-5. MatSciBERT: 
+1. BERT: https://github.com/google-research/bert
+2. SciBERT: https://github.com/allenai/scibert
+3. RoBERTa: https://github.com/facebookresearch/fairseq/tree/main/examples/roberta
+4. MatBERT: https://github.com/lbnlp/MatBERT
+5. MatSciBERT: https://github.com/M3RG-IITD/MatSciBERT
 
 ## Structure
 - data: the csv files containing the triples for constructing the MOF knowledge grpah (MOF-KG).
