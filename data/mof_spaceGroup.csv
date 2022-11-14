@@ -1,1801 +1,1255 @@
-SubjectEntity,Relation,ObjectEntity
-MROF-1,hasSpaceGroup,P6/mcc
-MOF-CJ3,hasSpaceGroup,I4cm
-"catena-(octakis(μ6-4,4',4''-s-Triazine-2,4,6-triyltribenzoato)-dodeca-aqua-dodeca-copper dimethylsulfoxide solvate hydrate)|PCN-6|Teaching Subset: MOFs",hasSpaceGroup,R-3m
-Spirof-MOF,hasSpaceGroup,Cccm
-NJU-Bai9,hasSpaceGroup,Fd-3c
-MOF-1,hasSpaceGroup,Pn-3
-MOF-2,hasSpaceGroup,Im-3m
-TCM-9-Ho,hasSpaceGroup,Ima2
-"catena-[bis(μ4-(2RS,3RS)-2,3-Dihydroxybutanedioato-O,O',O'',O''',O'''',O''''')-(μ2-oxalato-O,O',O'',O''')-diaqua-di-lanthanum(iii) tetrahydrate]",hasSpaceGroup,P21/c
-"catena-[(μ8-4,4'-(Hexafluoroisopropylidene)diphthalato)-aqua-di-cadmium(ii) hemihydrate]",hasSpaceGroup,R-3
-"catena-[bis(μ4-Hydrogen zoledronato)-bis(μ2-1,2-bis(4-pyridyl)ethene)-tri-nickel unknown solvate tetrahydrate]",hasSpaceGroup,P-1
-SNU-50,hasSpaceGroup,R-3m
-URMOF-4,hasSpaceGroup,P3121
-URMOF-1,hasSpaceGroup,I4/m
-URMOF-2,hasSpaceGroup,I4/m
-UMCM-151,hasSpaceGroup,Immm
-UMCM-152,hasSpaceGroup,R3m
-UMCM-153,hasSpaceGroup,Fddd
-UMCM-154,hasSpaceGroup,C2/c
-NTU-5,hasSpaceGroup,C2/c
-NTU-6,hasSpaceGroup,C2/c
-NTU-7,hasSpaceGroup,C2/c
-NTU-8,hasSpaceGroup,C2/c
-NTU-9,hasSpaceGroup,C2/c
-NTU-10,hasSpaceGroup,I2/a
-BIF-80,hasSpaceGroup,P-1
-BUT-21,hasSpaceGroup,P212121
-DUT-63,hasSpaceGroup,F432
-DUT-64,hasSpaceGroup,Pm-3n
-DUT-77,hasSpaceGroup,Pm-3n
-JUC-199,hasSpaceGroup,P21/c
-MOF-76(Ho),hasSpaceGroup,P43
-MOF-76(Tm),hasSpaceGroup,P4122
-FJI-H12,hasSpaceGroup,I41/a
-TMU-22,hasSpaceGroup,P21/n
-TMU-23,hasSpaceGroup,P21/c
-CALF-33-Et2H,hasSpaceGroup,P-1
-DUT-28(LT),hasSpaceGroup,C2/c
-ZJU-199,hasSpaceGroup,R-3c
-"catena-((μ3-Pyridine-4-carboxylato-O,O',N)-(μ2-pyridine-4-carboxylato-O,N)-copper(ii) dihydrate clathrate)",hasSpaceGroup,Cc
-"catena-[bis((μ-hydroxo)-(μ-4,4'-[1,3-phenylenebis(methylene)]bis(4H-1,2,4-triazole))-(μ-2,2'-(1,4-phenylene)diacetato)-di-copper) dichromate hexahydrate]",hasSpaceGroup,P21/c
-SZ-2,hasSpaceGroup,I4/m
-SZ-3,hasSpaceGroup,P21/n
-UTSA-222,hasSpaceGroup,R32
-SNNU-61,hasSpaceGroup,P-43n
-NNU-36,hasSpaceGroup,P21/c
-"catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diazanidediyl]dipropanoato)--(μ-aqua)-bis(μ-hydroxy)-calcium(ii)-hexa-copper(ii) hydrate]",hasSpaceGroup,P63
-FJU-40-H,hasSpaceGroup,Pnma
-UCY-11,hasSpaceGroup,C2/c
-UCY-10,hasSpaceGroup,C2/c
-UCY-8,hasSpaceGroup,C2/c
-UCY-6,hasSpaceGroup,C2/c
-UCY-5,hasSpaceGroup,C2/c
-UCY-4,hasSpaceGroup,C2/c
-FJI-H17,hasSpaceGroup,C2/c
-FJI-H18,hasSpaceGroup,P-1
-bio-MOF-12,hasSpaceGroup,I41/a
-UTSA-62,hasSpaceGroup,P-62c
-FJI-H15,hasSpaceGroup,F432
-MOZIF-1,hasSpaceGroup,I-42m
-UPC-35,hasSpaceGroup,I4/m
-UTSA-28-Cu,hasSpaceGroup,Pn-3n
-UTSA-28-Zn,hasSpaceGroup,Pn-3n
-Cu-PCN-224,hasSpaceGroup,Im-3m
-MMPF-9,hasSpaceGroup,P63/mmc
-HV-MOF-1,hasSpaceGroup,P-1
-"catena-(tris(μ2-Quinato-O,O',O')-triaqua-aluminium(iii)-potassium hydroxide monohydrate)",hasSpaceGroup,P213
-FIR-54,hasSpaceGroup,Pnna
-"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecakis(methanol)-dodeca-cadmium(ii) hexahydrate)",hasSpaceGroup,Fm-3c
-"catena-(Lead(ii) tetrakis(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecaaqua-dodeca-lead(ii) hexahydrate)",hasSpaceGroup,Fm-3c
-"catena-(Sesqui-lead(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodeca-lead(ii) hexahydrate)",hasSpaceGroup,Fm-3c
-"catena-(octakis(μ6-5,5,10,10,15,15-Hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-hydroxo)-dodecakis(methanol)-dodeca-dysprosium(iii) nonanitrate methanol solvate monohydrate)",hasSpaceGroup,Fm-3c
-"catena-(Di-cadmium(ii) bis(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecakis(methanol)-dodeca-cadmium(ii) tetrahydrate)",hasSpaceGroup,Fm-3c
-"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecaaqua-dodeca-cadmium(ii) hexahydrate)",hasSpaceGroup,Fm-3c
-"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodeca-cadmium(ii) hexahydrate)",hasSpaceGroup,Fm-3c
-"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodeca-cadmium(ii) hexahydrate)",hasSpaceGroup,Fm-3c
-"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodeca-cadmium(ii) hexahydrate)",hasSpaceGroup,Fm-3c
-"catena-(Sesqui-lead(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecaaqua-dodeca-lead(ii) hexahydrate)",hasSpaceGroup,Fm-3c
-UiO-66(Ce)-Fumarate,hasSpaceGroup,Pn3
-MIL-120,hasSpaceGroup,C2/m
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-CPO-54-Mn,hasSpaceGroup,R-3
-CPO-54-Mn,hasSpaceGroup,R-3
-UTSA-38,hasSpaceGroup,P-1
-IMP-14,hasSpaceGroup,P21/c
-SION-1@H2O,hasSpaceGroup,P21/n
-FIR-1,hasSpaceGroup,Pcca
-CAU-3-BDC,hasSpaceGroup,R-3m
-DUT-42,hasSpaceGroup,P6522
-MET-5,hasSpaceGroup,Fd-3m
-CPM-132,hasSpaceGroup,I4/m
-CPM-133,hasSpaceGroup,R-3
-she-MOF-1,hasSpaceGroup,Im-3m
-she-MOF-2,hasSpaceGroup,Im-3m
-she-MOF-3,hasSpaceGroup,Im-3m
-AITCS-2,hasSpaceGroup,P3121
-FIR-5,hasSpaceGroup,P-1
-FIR-4,hasSpaceGroup,Pna21
-"catena-((μ4-Pentaerythritol tetrakis(4-pyridinecarboxylate)-N,N',N'',N''')-bis(isothiocyanato)-cobalt)",hasSpaceGroup,P42/n
-NTOU-2,hasSpaceGroup,Iba2
-NTOU-3,hasSpaceGroup,Pccn
-FIR-47,hasSpaceGroup,P21/c
-"catena-[hexakis(diethylammonium)  nile blue A octakis(μ-1,3,5-benzenetribenzoato)-hexa-indium(iii) unknown solvate]",hasSpaceGroup,R-3
-NOF-1,hasSpaceGroup,I-43m
-"catena-[tris(μ-5-(4-pyridin-3-yl-benzoylamino)-isophthalato)-tris(aqua)-di-lanthanum(iii) N,N-dimethylformamide solvate trihydrate]",hasSpaceGroup,P-1
-"catena-[tris(μ-5-(4-pyridin-3-yl-benzoylamino)-isophthalato)-tris(aqua)-di-neodymium(iii) N,N-dimethylformamide solvate trihydrate]",hasSpaceGroup,P-1
-"catena-[tris(μ-5-(4-pyridin-3-yl-benzoylamino)-isophthalato)-tris(aqua)-di-samarium(iii) N,N-dimethylformamide solvate trihydrate]",hasSpaceGroup,P-1
-PCM-4,hasSpaceGroup,Pa-3
-HENU-1,hasSpaceGroup,P-1
-LMOF-202,hasSpaceGroup,C2/c
-LMOF-202,hasSpaceGroup,C2/c
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Mn,hasSpaceGroup,R-3
-CPO-27-Mn,hasSpaceGroup,R-3
-CPO-27-Mn,hasSpaceGroup,R-3
-MMPF-7,hasSpaceGroup,C2/c
-MMPF-8,hasSpaceGroup,Cc
-JLU-Liu10,hasSpaceGroup,Pa-3
-JLU-Liu8,hasSpaceGroup,R3c
-"catena-(bis(μ3-4,4'-Biphenyldicarboxylato-O,O',O'')-(μ2-1,2-bipyridylethene)-di-zinc(ii) bis(dimethylformamide) clathrate)|catena-(bis(μ3-Biphenyl-4,4'-dicarboxylato)-(μ2-1,2-bis(4-pyridyl)ethene)-di-zinc dimethylformamide clathrate)",hasSpaceGroup,C2/c
-MAF-42,hasSpaceGroup,C2/c
-Medi-MOF-1,hasSpaceGroup,P3221
-ZJNU-17,hasSpaceGroup,P61
-"catena-[dodecakis(μ-cyano)-tris(μ-tris(isonicotinoyl)cyclotriguaiacyclene)-octa-copper(i)-tri-copper(ii) bis(cyanide) N,N-dimethylformamide solvate]",hasSpaceGroup,R-3
-FJU-6,hasSpaceGroup,P-4n2
-FJU-6-PTB,hasSpaceGroup,P-4n2
-FJU-6-Me-INA,hasSpaceGroup,P-4n2
-FJU-6-TATB,hasSpaceGroup,P-4n2
-FJU-6-Ni,hasSpaceGroup,P-4n2
-CTH-6,hasSpaceGroup,P21/n
-TMU-10,hasSpaceGroup,C2/c
-TMU-12,hasSpaceGroup,P21/c
-Teaching Subset: MOFs,hasSpaceGroup,Pnna
-"catena-[bis(Oxonium) (μ-3,3 ,5,5 -azobenzentetracarboxylato)-bis(1,3-dimethylimidazolidin-2-one)-magnesium]",hasSpaceGroup,C2/c
-FIR-35,hasSpaceGroup,P-1
-CPM-143,hasSpaceGroup,P63/mmc
-CPM-153,hasSpaceGroup,P63/mmc
-FJI-8,hasSpaceGroup,R-3
-CAU-8-ODB,hasSpaceGroup,I41/a
-CAU-21-BPDC,hasSpaceGroup,I422
-BIF-22,hasSpaceGroup,I222
-BIF-23,hasSpaceGroup,P21/c
-ZJU-136-Tb,hasSpaceGroup,P-1
-NBU-18,hasSpaceGroup,C2/c
-AuCl-PCM-101,hasSpaceGroup,Pnnm
-JCM-1,hasSpaceGroup,I41/amd
-MOF-818,hasSpaceGroup,Fd-3m
-SNU-151,hasSpaceGroup,P-1
-SNU-150',hasSpaceGroup,Pa-3
-"catena-[bis(μ-2,4,6-tri(pyridin-4-yl)-1,3,5-triazine)-hexachloro-tri-zinc tetrakis(piperonyl methyl ketone)]",hasSpaceGroup,C2/c
-MFM-305-CH3.0.71CO2,hasSpaceGroup,I41/amd
-FJI-H21,hasSpaceGroup,Pnna
-"catena-[(μ4-Oxalato-O,O,O',O'',O'',O''')-tetrakis(μ3-3-pyridinecarboxylato-N,O,O')-(μ2-oxalato-O,O',O'',O''')-di-copper(i)-di-europium(iii) tetrahydrate]",hasSpaceGroup,P21/c
-"catena-[(μ-2,8,14,20-tetramethyl-4,6,10,12,16,18,22,24-octakis(carboxylatomethoxy)calix(4)arene)-octaaqua-bis(N,N-dimethylformamide)-tetra-cobalt pentahydrate]",hasSpaceGroup,P3121
-"catena-[(μ-2,8,14,20-tetramethyl-4,6,10,12,16,18,22,24-octakis(carboxylatomethoxy)calix(4)arene)-octaaqua-bis(N,N-dimethylformamide)-tetra-nickel hexahydrate]",hasSpaceGroup,P3121
-"catena-[dimethylammonium (μ-2,8,14,20-tetramethyl-4,6,10,12,16,18,22-heptakis(carboxylatomethoxy)-24-(carboxymethoxy)calix(4)arene)-hexaaqua-(N,N-dimethylformamide)-tri-manganese octahydrate]",hasSpaceGroup,P-1
-CPM-107as,hasSpaceGroup,P212121
-ZJU-70,hasSpaceGroup,Cmc21
-HKUST-1,hasSpaceGroup,Fm-3m
-MIL-53(Al)-FA|BasoliteA520,hasSpaceGroup,P21/c
-AUBM-3(La),hasSpaceGroup,P-1
-FJU-12,hasSpaceGroup,Cccm
-JUC-135,hasSpaceGroup,R3c
-LCU-107,hasSpaceGroup,P21/c
-FJI-H26,hasSpaceGroup,P6222
-the activated NJU-Bai62,hasSpaceGroup,Cc
-NJU-Bai62,hasSpaceGroup,P1
-NJU-Bai63,hasSpaceGroup,P21/c
-SU-101,hasSpaceGroup,P42/n
-UWDM-1(22),hasSpaceGroup,R3
-"catena-(diaqua-bis(μ6-s-heptazine-2,5,8-tris(4-benzoato))-tri-zinc N,N-dimethylformamide solvate pentahydrate)",hasSpaceGroup,P4332
-Teaching Subset: MOFs,hasSpaceGroup,Fm-3m
-"catena-(octakis(μ4-Benzene-1,4-dicarboxylato)-dodecakis(μ2-hydroxo)-octa-iron ibuprofen)",hasSpaceGroup,P1
-SNU-200,hasSpaceGroup,P-421c
-MIL-53as p-xylene,hasSpaceGroup,Pnma
-NKU-521,hasSpaceGroup,P63/m
-catena-[hexakis(dimethylammonium) tris(μ-meso-tetra(4-carboxylatophenyl)porphyrinato)-bis(aqua)-bis(μ-adenine)-bis(μ-oxido)-nona-zinc(ii) unknown solvate],hasSpaceGroup,P-1
-"catena-[tetrakis(dimethylammonium) tris(μ-meso-tetra(4-carboxylatophenyl)porphyrinato)-dodecakis(μ-2H-1,2,3-triazolyl)-dodecakis(aqua)-trideca-zinc(ii) unknown solvate]",hasSpaceGroup,P-1
-DUT-13,hasSpaceGroup,R-3c
-ZJU-68,hasSpaceGroup,P-3
-SLUG-23,hasSpaceGroup,P-1
-NJU-Bai20,hasSpaceGroup,Im-3m
-SIFSIX-1-Cu-C2D2,hasSpaceGroup,P4/mcc
-SCIF-9,hasSpaceGroup,Pbca
-GaMOF-1,hasSpaceGroup,I-43d
-BUT-20,hasSpaceGroup,R3m
-TMOF-2a,hasSpaceGroup,P21/c
-PCM-11,hasSpaceGroup,P21/c
-MAF-X27-Cl,hasSpaceGroup,R-3m
-ROD-1,hasSpaceGroup,I41/a
-np-CFA-9,hasSpaceGroup,P21212
-NOTT-400,hasSpaceGroup,I4122
-TMOF-1,hasSpaceGroup,C2
-WUF-1,hasSpaceGroup,C2/m
-"catena-[(μ5-5-(Pyridin-3-ylethynyl)benzene-1,3-dicarboxylato-N,O,O',O'',O''')-copper(ii) dimethylformamide solvate hydrate]",hasSpaceGroup,R-3c
-"catena-[(μ5-5-(Pyridin-3-ylethynyl)benzene-1,3-dicarboxylato-N,O,O',O'',O''')-copper(ii)]",hasSpaceGroup,R-3c
-catena-[(μ-tetrakis(4-cyanophenyl)adamantane)-silver tetrafluoroborate nitromethane solvate],hasSpaceGroup,P65
-catena-[(μ-tetrakis(4-cyanophenyl)adamantane)-silver trifluoroacetate nitromethane solvate],hasSpaceGroup,P61
-catena-[(μ-tetrakis(4-cyanophenyl)adamantane)-silver tetrafluoroborate nitromethane solvate],hasSpaceGroup,P21
-MFM-188a desolvated,hasSpaceGroup,P4/mnc
-MFM-188,hasSpaceGroup,P4/mnc
-MFM-188,hasSpaceGroup,P4/mnc
-MFM-188,hasSpaceGroup,P4/mnc
-"catena-[(μ5-5-Aminoisophthalato)-(μ2-5-aminoisophthalato)-(2,2'-bipyridine)-di-cobalt(ii) dihydrate]",hasSpaceGroup,P21/c
-MFM-300V(iii),hasSpaceGroup,I4122
-MFM-300V(iii),hasSpaceGroup,I4122
-MFM-300V(iv),hasSpaceGroup,I4122
-FJI-C4,hasSpaceGroup,Pbcn
-"catena-[bis(μ4-5-Hydroxyisophthalato-O,O,O',O'',O'',O''')-(μ4-5-hydroxyisophthalato-O,O',O'',O''')-diaqua-di-praseodymium(iii)]",hasSpaceGroup,I41
-MIL-88,hasSpaceGroup,P-62c
-DMOF-1,hasSpaceGroup,C2/c
-DMOF-2,hasSpaceGroup,C2/c
-DMOF-3,hasSpaceGroup,P-1
-DMOF-4,hasSpaceGroup,C2/c
-DMOF-5,hasSpaceGroup,C2/c
-DMOF-6,hasSpaceGroup,C2/c
-DMOF-9,hasSpaceGroup,C2/c
-DMOF-11,hasSpaceGroup,C2/c
-CMOF-2,hasSpaceGroup,I4122
-Mn-ZIF-8,hasSpaceGroup,I-43m
-catena-[tetrakis(μ-isonicotinato)-di-manganese(ii) methanol solvate],hasSpaceGroup,P21/c
-catena-[(μ-hydrogen gallato)-iron(ii) hydrate],hasSpaceGroup,P3121
-catena-[tris(μ-gallato)-tri-iron(iii) hydrate],hasSpaceGroup,P32
-catena-[(μ-gallato)-bis(μ-hydrogen gallato)-tri-iron hydrate],hasSpaceGroup,P32
-GWMOF-3,hasSpaceGroup,P-1
-CPM-4,hasSpaceGroup,P-62c
-CPM-30,hasSpaceGroup,P-31c
-CPM-31,hasSpaceGroup,P-31c
-"catena-[(μ4-Carnosinato)-zinc(ii) N,N-dimethylformamide solvate]",hasSpaceGroup,P21
-catena-[(μ4-Carnosinato)-zinc(ii)],hasSpaceGroup,P21
-catena-[(μ4-Carnosinato)-zinc(ii) methanol solvate],hasSpaceGroup,P21
-catena-[bis(μ4-Carnosinato)-di-zinc(ii) hexahydrate],hasSpaceGroup,P21
-HKUST-1|Teaching Subset: MOFs,hasSpaceGroup,Fm-3m
-PCP-2,hasSpaceGroup,P-3c1
-Hf-CAU-39,hasSpaceGroup,Pn-3
-TMU-42,hasSpaceGroup,P-1
-MIL-53(In)_(OH)2_lp_DMF,hasSpaceGroup,Cmca
-PCN-777,hasSpaceGroup,F-43m
-BUT-173,hasSpaceGroup,P21/n
-HKUST-1 (as synthesised),hasSpaceGroup,Fm-3m
-MFM-300(V(iii)).(NO2)1.67,hasSpaceGroup,I4122
-Co6-MOF-1,hasSpaceGroup,P63/mcm
-Ce-MIL-140-BDC,hasSpaceGroup,P-1
-In-MOF 1,hasSpaceGroup,Fddd
-FJU-66.S,hasSpaceGroup,I-4
-FJU-66.[EVIm]OH,hasSpaceGroup,I-4
-MMPF-1,hasSpaceGroup,I4/m
-493-MOF-BA,hasSpaceGroup,I-42d
-"catena-[bis(μ6-4,4'-(Hexafluoroisopropylidene)diphthalato)-(μ5-4,4'-(hexafluoroisopropylidene)diphthalato)-nona-aqua-tetra-terbium(iii) heptahydrate]",hasSpaceGroup,P-1
-catena-[(μ4-Mucicato)-bis(μ2-mucicato)-diaqua-di-terbium(iii) tetrahydrate],hasSpaceGroup,P-1
-NENU-519,hasSpaceGroup,P-4n2
-BUT-14,hasSpaceGroup,I41/amd
-BUT-15,hasSpaceGroup,I41/amd
-DUT-98 close pore,hasSpaceGroup,P-1
-NUM-3,hasSpaceGroup,R-3
-catena-((μ4-Gallato)-manganese(ii) dihydrate),hasSpaceGroup,P3221
-catena-[bis(μ4-Gallato)-di-manganese(ii) tetrahydrate],hasSpaceGroup,P3121
-catena-[(μ4-Gallato)-manganese(ii) dihydrate],hasSpaceGroup,P3221
-catena-((μ4-Gallato)-nickel(ii) dihydrate),hasSpaceGroup,P3121
-catena-[bis(μ4-Gallato)-di-nickel(ii) tetrahydrate],hasSpaceGroup,P3121
-PCM-16,hasSpaceGroup,P2/c
-PCN-605-H,hasSpaceGroup,Fmmm
-SEC-1,hasSpaceGroup,P2
-UPC-22,hasSpaceGroup,C2/c
-HPU-13,hasSpaceGroup,P-3c1
-YZ-7,hasSpaceGroup,C2/c
-YZ-8,hasSpaceGroup,P2/c
-FJU-36,hasSpaceGroup,Pbcn
-MCOF-89,hasSpaceGroup,Pm-3m
-UTSA-32,hasSpaceGroup,P21
-BUT-62Y,hasSpaceGroup,Immm
-BUT-62Y-H2O,hasSpaceGroup,Immm
-BUT-63W,hasSpaceGroup,Immm
-Toluene@BUT-62,hasSpaceGroup,Immm
-Ni-IRMOF-74-II,hasSpaceGroup,R-3
-Ni-IRMOF-74-III,hasSpaceGroup,R-3
-Ni-IRMOF-74-IV,hasSpaceGroup,R3
-Ni-IRMOF-74-V,hasSpaceGroup,R3
-BUT-62,hasSpaceGroup,Immm
-BIT-101,hasSpaceGroup,P213
-BIT-103,hasSpaceGroup,Pm-3m
-ZIF-65-SOD,hasSpaceGroup,I-43m
-ZIF-71-RHO,hasSpaceGroup,Pm-3m
-ZIF-74-GIS,hasSpaceGroup,I41/a
-catena-(tris(μ2-5-(4-pyridyl)dipyrrin)-gallium(iii)-silver(i) hexafluorophosphate acetonitrile benzene unknown solvate),hasSpaceGroup,Pbcn
-catena-(tris(μ2-5-(4-pyridyl)dipyrrin)-gallium(iii)-silver(i) hexafluorophosphate acetonitrile benzene solvate),hasSpaceGroup,C2/c
-PCN-136,hasSpaceGroup,Fd-3m
-"catena-[bis(μ4-3,4-Dioxocyclobut-1-ene-1,2-dithiolato-S,S,S,S',S')-bis(μ4-3,4-dioxocyclobut-1-ene-1,2-dithiolato-O,S,S,S')-tetrakis(N-methylethylenediamine-N,N')-tetra-copper(i)-di-copper(ii) dihydrate]",hasSpaceGroup,P-1
-RPF-4,hasSpaceGroup,Pnan
-NJU-Bai49,hasSpaceGroup,R-3
-CPM-74,hasSpaceGroup,P6122
-CPM-75,hasSpaceGroup,Fddd
-Ce-HHU-1,hasSpaceGroup,Fm-3m
-SCNU-1,hasSpaceGroup,Ia-3d
-catena-[(μ-benzenehexacarboxylato)-decaaqua-tri-barium tetrahydrate],hasSpaceGroup,I2/a
-Al-CAU-42,hasSpaceGroup,F23
-NENU-522,hasSpaceGroup,R-3
-BMM-12,hasSpaceGroup,Fdd2
-CSMCRI-5,hasSpaceGroup,P2/c
-TMU-71,hasSpaceGroup,C2/c
-MIL-118B,hasSpaceGroup,Pbam
-MIL-118C,hasSpaceGroup,Pnam
-MIL-53lt,hasSpaceGroup,C2/c
-MFU-5,hasSpaceGroup,P6/mcc
-NTOU-2S,hasSpaceGroup,Pccn
-MIL-60,hasSpaceGroup,P-1
-MCF-26,hasSpaceGroup,P6522
-PCN-610,hasSpaceGroup,Fm-3m
-"catena-[(μ4-tetrakis(Imidazol-1-yl)borate-N3,N3',N3'',N3''')-(μ2-terephthalato-O,O')-(μ2-imidazolyl-N1,N3)-di-zinc(ii) N,N'-dimethylpropyleneurea solvate]|MC-BIF-1S",hasSpaceGroup,P43212
-MC-BIF-3H,hasSpaceGroup,P21/c
-LMOF-261,hasSpaceGroup,I41/a
-MFM-136,hasSpaceGroup,R32
-"catena-[bis(μ2-2-Aminoisonicotinato-N:O,O')-cadmium(ii) unknown solvate]",hasSpaceGroup,Fddd
-"catena-[bis(μ2-2-Aminoisonicotinato-N:O,O')-cobalt(ii) unknown solvate]",hasSpaceGroup,Fddd
-CPM-500,hasSpaceGroup,P63/mmc
-CPM-550,hasSpaceGroup,P-62c
-CPM-560,hasSpaceGroup,P-62c
-"catena-[(μ5-5-(Isonicotinamido)isophthalato-N,O,O',O'',O''')-zinc(ii) dimethylformamide solvate]",hasSpaceGroup,P21/c
-JUC-188,hasSpaceGroup,P-1
-CPM-15-Cd,hasSpaceGroup,Fd-3m
-UTSA-34,hasSpaceGroup,Pnma
-catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasSpaceGroup,C2/c
-catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasSpaceGroup,C2/c
-catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasSpaceGroup,Fddd
-catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasSpaceGroup,Fddd
-catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasSpaceGroup,Fddd
-catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasSpaceGroup,Fddd
-catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasSpaceGroup,Fddd
-catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasSpaceGroup,Fddd
-catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasSpaceGroup,Fddd
-FIR-45,hasSpaceGroup,C2/c
-MET-2,hasSpaceGroup,Fd-3m
-CAU-7-TATB,hasSpaceGroup,Pb21a
-CAU-35,hasSpaceGroup,Pna21
-PCN-605-H-Br,hasSpaceGroup,Fmmm
-PCN-605-H-Dry,hasSpaceGroup,Fmmm
-PCN-606-NH2 (fresh),hasSpaceGroup,Cmmm
-PCN-608-OH,hasSpaceGroup,P6/mmm
-PCN-606-OMe (fresh),hasSpaceGroup,Pbam
-PCN-700-Br,hasSpaceGroup,P42/mmc
-MUV-2,hasSpaceGroup,P-62m
-NTU-20,hasSpaceGroup,P43212
-NPF-300(Hf),hasSpaceGroup,Cmmm
-NPF-300,hasSpaceGroup,Cmmm
-NPF-300-LT,hasSpaceGroup,Cmmm
-HPU-3,hasSpaceGroup,Pa-3
-Mn-CFA-6-DMAc,hasSpaceGroup,C2/m
-ZJNU-81,hasSpaceGroup,Cmc21
-Zr-PCN-221(Cu),hasSpaceGroup,Pm-3m
-"catena-[tris(μ-(S,S)-serimox)-bis(μ-hydroxo)-(μ-aqua)-calcium(ii)-hexa-copper(ii) Auramine O clathrate acetonitrile solvate pentadecahydrate]",hasSpaceGroup,P63
-Co-CAU-36,hasSpaceGroup,P-4c2
-Co-CAU-36,hasSpaceGroup,P-4c2
-Co-CAU-36,hasSpaceGroup,P-4c2
-Co-CAU-36,hasSpaceGroup,P-4c2
-Co-CAU-36,hasSpaceGroup,P-4c2
-Co-CAU-36,hasSpaceGroup,P-4c2
-Co-CAU-36,hasSpaceGroup,P-4c2
-Co-CAU-36,hasSpaceGroup,P-4c2
-Co-CAU-36,hasSpaceGroup,P-4c2
-Co-CAU-36,hasSpaceGroup,P-4c2
-UPC-102-Zr,hasSpaceGroup,P6/mmm
-VNU 22,hasSpaceGroup,Pbcn
-UPC-99,hasSpaceGroup,Cmca
-ZJU-158-Tb,hasSpaceGroup,P21/c
-PCN-12',hasSpaceGroup,P63/mmc
-"catena-[bis(μ4-1,5-pentanedioato-O,O',O'',O''')-(μ2-N,N'-bis(4-pyridyl)piperazine-N,N')-di-copper(ii) tetrahydrate]",hasSpaceGroup,P21/c
-UWDM-3,hasSpaceGroup,C2
-α-IRMOF-3-AMPh,hasSpaceGroup,Pa-3
-BUT-2,hasSpaceGroup,Fm-3m
-BUT-48,hasSpaceGroup,R-3
-BUT-49,hasSpaceGroup,R-3
-ZTIF-14,hasSpaceGroup,I41/a
-ZTIF-15,hasSpaceGroup,I41/a
-JUC-65,hasSpaceGroup,Pbcn
-JUC-66,hasSpaceGroup,P21212
-JUC-67,hasSpaceGroup,Pbca
-JUC-70,hasSpaceGroup,P21/c
-"catena-((μ3-Homophthalato-O,O',O'')-(μ3-oxo)-tetramethyl-di-tin(iv) hydrate)",hasSpaceGroup,R-3
-rtl-MOF-2,hasSpaceGroup,P21/c
-"catena-[(μ4-Oxalato-O,O,O',O'',O'',O''')-tetrakis(μ3-3-pyridinecarboxylato-N,O,O')-(μ2-oxalato-O,O',O'',O''')-di-samarium(iii)-di-silver(i) tetrahydrate]",hasSpaceGroup,P21/c
-FJI-H8,hasSpaceGroup,P42/nnm
-MCF-56,hasSpaceGroup,I2/a
-MCF-57,hasSpaceGroup,I2/a
-UPC-15,hasSpaceGroup,P432
-CAU-46,hasSpaceGroup,C2/c
-CPL-2,hasSpaceGroup,P21/c
-CPL-2,hasSpaceGroup,P21/c
-SNU-81,hasSpaceGroup,C2/c
-SNU-82,hasSpaceGroup,C2/c
-SNU-84,hasSpaceGroup,C2/c
-SNU-85,hasSpaceGroup,C2/c
-SNU-86,hasSpaceGroup,C2/c
-SNNU-21,hasSpaceGroup,Ibca
-SNNU-23,hasSpaceGroup,Imma
-ECUT-30,hasSpaceGroup,C2/c
-SCIF-11,hasSpaceGroup,Pbca
-SCIF-12,hasSpaceGroup,Pnnn
-MIL-47(V),hasSpaceGroup,P1
-MIL-47(V),hasSpaceGroup,P1
-MIL-47(V),hasSpaceGroup,P1
-MIL-47(V),hasSpaceGroup,P1
-MIL-47(V),hasSpaceGroup,P1
-NJU-Bai7,hasSpaceGroup,P21/c
-NJU-Bai8,hasSpaceGroup,P21/c
-P11-Cu,hasSpaceGroup,P-1
-Hf-MOF-808 selenate unknown solvate,hasSpaceGroup,Fd-3m
-Hf-MOF-808 selenite unknown solvate,hasSpaceGroup,Fd-3m
-Zr-bcu-26ndc,hasSpaceGroup,I4/mmm
-Zr-bcu-tmuc,hasSpaceGroup,I4/mmm
-Zr-bcu-22bipy44dc,hasSpaceGroup,I4/mmm
-MOF-F,hasSpaceGroup,Fm-3m
-NU-1401-AS-DMF,hasSpaceGroup,Ibam
-MFU-4,hasSpaceGroup,Fm-3m
-MAF-6,hasSpaceGroup,Pm-3m
-FIR-28,hasSpaceGroup,F432
-JXNU-2(Sm),hasSpaceGroup,R3c
-JXNU-2(Eu),hasSpaceGroup,R3c
-JXNU-2(Pr),hasSpaceGroup,R3c
-catena-(tris(μ4-Mucato)-di-lanthanum(iii) octahydrate),hasSpaceGroup,P-3
-catena-(tris(μ4-Mucato)-di-cerium(iii) octahydrate),hasSpaceGroup,P-3
-catena-(tris(μ4-Mucato)-di-praseodymium(iii) octahydrate),hasSpaceGroup,P-3
-catena-(tris(μ4-Mucato)-di-neodymium(iii) octahydrate),hasSpaceGroup,P-3
-catena-((μ4-Tetramethyltetra-azacalix(4)pyrimidine)-tetrakis(μ3-bromo)-tetra-copper unknown solvate),hasSpaceGroup,I-4
-catena-((μ4-Tetramethyltetra-azacalix(4)pyrimidine)-tetrakis(μ3-iodo)-tetra-copper unknown solvate),hasSpaceGroup,I-4
-CPM-5',hasSpaceGroup,I-42m
-IFP-5,hasSpaceGroup,R-3
-PCP-31,hasSpaceGroup,R-3m
-PCP-32,hasSpaceGroup,Cmc21
-PCN-48,hasSpaceGroup,P-1
-PCN-49,hasSpaceGroup,P-1
-NOTT-212 dimethylformamide solvate tetrahydrate,hasSpaceGroup,I41/acd
-MIL-91(Al),hasSpaceGroup,P-1
-ZJU-64-CH3,hasSpaceGroup,Pban
-polyMOP-NH2,hasSpaceGroup,I4/mmm
-PCN-700-c,hasSpaceGroup,P42/ncm
-PCN-700-(CF3)2,hasSpaceGroup,P42/mmc
-PCN-700-Me4-c,hasSpaceGroup,P42/ncm
-"catena-[bis(μ-2,4,6-tris(pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc cis-asarone unknown solvate]",hasSpaceGroup,C2/c
-"catena-[bis(μ-2,4,6-tris(pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc trans-asarone unknown solvate]",hasSpaceGroup,C2/c
-JUC-165,hasSpaceGroup,Cmcm
-CPM-11,hasSpaceGroup,Pnma
-CPM-12,hasSpaceGroup,P-3
-NTU-17,hasSpaceGroup,P21/c
-Ce-MOF-808,hasSpaceGroup,Fd-3m
-Teaching Subset: MOFs,hasSpaceGroup,I-4m2
-SNNU-72,hasSpaceGroup,P212121
-SNNU-71,hasSpaceGroup,P61
-SNNU-74,hasSpaceGroup,R3c
-MIT-20,hasSpaceGroup,R-3m
-ST-1,hasSpaceGroup,P63
-ST-3,hasSpaceGroup,P-42c
-"catena-(tris(propane-1,2-diammonium) hexakis(μ3-hydrogen arsenato)-bis(μ3-arsenato)-tris(μ2-oxalato)-hexa-iron)",hasSpaceGroup,P-3c1
-V101,hasSpaceGroup,P-1
-MOF-CJ2,hasSpaceGroup,C2/c
-FJI-Y4,hasSpaceGroup,P21/c
-FJI-Y5,hasSpaceGroup,P21/c
-Mg-110,hasSpaceGroup,C2/c
-LIFM-13(Co),hasSpaceGroup,I41
-LIFM-13(Mg),hasSpaceGroup,I41/a
-UJN-1,hasSpaceGroup,I-43d
-UPG-1,hasSpaceGroup,R-3
-BUT-17,hasSpaceGroup,P63/mmc
-CCNU-11,hasSpaceGroup,P2/c
-LCU-105,hasSpaceGroup,P2/c
-CZJ-6,hasSpaceGroup,P42/mmc
-"catena-[oxonium [μ-tris(4-carboxylatophenyl)phosphine oxide]-europium(iii)-zinc(ii) N,N-dimethylformamide solvate sesquihydrate]",hasSpaceGroup,P-1
-"catena-[oxonium [μ-tris(4-carboxylatophenyl)phosphine oxide]-terbium(iii)-zinc(ii) N,N-dimethylformamide solvate hexahydrate]",hasSpaceGroup,P-1
-"catena-[[μ-tris(4-carboxylatophenyl)phosphine oxide]-terbium(iii) N,N-dimethylformamide solvate dihydrate]",hasSpaceGroup,P-1
-FJ-25,hasSpaceGroup,P6322
-MUF-22,hasSpaceGroup,R-3c
-ZIF-8 dinitrogen,hasSpaceGroup,I-43m
-MCF-19-Ia,hasSpaceGroup,I-43m
-MCF-19-IIb,hasSpaceGroup,P-43n
-SDU-1,hasSpaceGroup,Fm3m
-BIF-82,hasSpaceGroup,P21/c
-ZJNU-62,hasSpaceGroup,C2/c
-catena-(tris(μ2-5-(4-pyridyl)dipyrrin)-cobalt(iii)-silver(i) hexafluorophosphate acetonitrile benzene solvate),hasSpaceGroup,Pbcn
-catena-(bis(μ4-Glutarato)-(μ2-glutarato)-diaqua-di-dysprosium tetrahydrate),hasSpaceGroup,C2/c
-DGIST-1,hasSpaceGroup,Cmcm
-ZJU-30,hasSpaceGroup,I-4m2
-MOF-3,hasSpaceGroup,Pba2
-"CoMOF-1 N,N-dimethylformamide methanol solvate dihydrate",hasSpaceGroup,P2/c
-BMM-10,hasSpaceGroup,R-3
-COB-DMF,hasSpaceGroup,F2dd
-COB-CO222,hasSpaceGroup,C2/c
-COB-CO210,hasSpaceGroup,C2/c
-COB-CO214,hasSpaceGroup,C2/c
-COB-CO218,hasSpaceGroup,C2/c
-COB0,hasSpaceGroup,Fddd
-COB-CO235,hasSpaceGroup,C2/c
-COB-CO230,hasSpaceGroup,C2/c
-PCN-164-inter,hasSpaceGroup,Fd-3m
-NJU-Bai25,hasSpaceGroup,Imma
-BIF-9-Cu,hasSpaceGroup,P432
-Fe-MPOF,hasSpaceGroup,P2/c
-JUC-57,hasSpaceGroup,P21/n
-MIL-88B-tpt,hasSpaceGroup,P63/mmc
-MIL-88B-tpt,hasSpaceGroup,P63/mmc
-MIL-88B-tpt,hasSpaceGroup,P63/mmc
-Co-WOC-1,hasSpaceGroup,C2/c
-JLU-Liu4,hasSpaceGroup,P43212
-Liu-4_cinnamic (close pore phase),hasSpaceGroup,C2221
-UPC-21,hasSpaceGroup,C2/c
-UPC-17,hasSpaceGroup,P-1
-CD-MOF-3,hasSpaceGroup,I432
-CD-MOF-1,hasSpaceGroup,I432
-CD-MOF-2,hasSpaceGroup,I432
-CD-MOF-1,hasSpaceGroup,R32
-"catena-[bis(μ-tris(4-(pyridin-4-yl)phenyl)amine)-(μ-1,4-benzenedicarboxylato)-bis(μ-chloro)-di-cobalt methanol solvate]",hasSpaceGroup,P21/n
-"catena-[bis(μ-4-(pyridin-4-yl)-N,N-bis(4-(pyridin-4-yl)phenyl)aniline)-(μ-2,5-dimethylterephthalato)-bis(μ-chloro)-di-cobalt methanol solvate]",hasSpaceGroup,P21/n
-"catena-[tris(μ-tris(4-(pyridin-4-yl)phenyl)amine)-tris(μ-2,3,5,6-tetramethyl-1,4-benzenedicarboxylato)-tri-cobalt unknown solvate]",hasSpaceGroup,Cc
-SHF-61-DMF,hasSpaceGroup,Fddd
-SHF-61-CHCl3,hasSpaceGroup,Fddd
-LIFM-26(Fe),hasSpaceGroup,P-3
-CZJ-10,hasSpaceGroup,Pn-3n
-MOF-505,hasSpaceGroup,R-3m
-DUT-58,hasSpaceGroup,C2/c
-ZJNU-73,hasSpaceGroup,R-3m
-CPO-27-Ni,hasSpaceGroup,R-3
-MOF-In1,hasSpaceGroup,C2/c
-PCN-81,hasSpaceGroup,Pa-3
-AUBM-1,hasSpaceGroup,P42/ncm
-CZJ-22,hasSpaceGroup,Cmca
-CZJ-22-Cu,hasSpaceGroup,Cmca
-Zn-CZJ-22,hasSpaceGroup,Cmca
-PCN-250'',hasSpaceGroup,R-3c
-MMPF-10,hasSpaceGroup,Immm
-MORF-1,hasSpaceGroup,Pnnm
-NU-1000,hasSpaceGroup,P6/mmm
-ZTOF-1,hasSpaceGroup,P21/c
-NKU-111,hasSpaceGroup,P-3c1
-FJU-101,hasSpaceGroup,P4212
-ZTOF-2,hasSpaceGroup,P63/m
-JUB-1,hasSpaceGroup,Pnnm
-NU-1500-Cr,hasSpaceGroup,P-6m2
-PCN-608-NH2-BDC,hasSpaceGroup,P6/mmm
-SION-105,hasSpaceGroup,C2/c
-PCM-75,hasSpaceGroup,Ibca
-MIL-68 (In),hasSpaceGroup,Cmcm
-MIL-68 (Ga),hasSpaceGroup,Cmcm
-FIR-51,hasSpaceGroup,Pa-3
-TMU-46,hasSpaceGroup,P21/n
-JUC155,hasSpaceGroup,I4cm
-HKUST-1,hasSpaceGroup,Fm-3m
-NNU-37,hasSpaceGroup,P21/c
-SNNU-150-In,hasSpaceGroup,Pca21
-TO-MOF,hasSpaceGroup,P1
-MIL-53 deuterium,hasSpaceGroup,Imcm
-MIL-53 deuterium,hasSpaceGroup,Imcm
-NOTT-116,hasSpaceGroup,Fm-3m
-ZJU-9,hasSpaceGroup,R-3m
-But-33,hasSpaceGroup,Pm-3m
-But-32,hasSpaceGroup,Im-3m
-PCN-46,hasSpaceGroup,R-3m
-"catena-((μ2-Iodo)-(μ2-2,11-dithia(3.3)paracyclophane-S,S')-copper(i) acetonitrile clathrate)",hasSpaceGroup,Pnma
-"catena-((μ2-Bromo)-(μ2-2,11-dithia(3.3)paracyclophane-S,S')-copper(i) acetonitrile clathrate)",hasSpaceGroup,Pnma
-FJU-31,hasSpaceGroup,P21/c
-catena-(oxonium pyrrolidinium bis(μ6-5-phosphonoisophthalato)-tri-zinc tetrahydrate),hasSpaceGroup,I-42d
-CAU-17,hasSpaceGroup,P-3
-"catena-[(μ-5-(4-(carboxylatomethyleneoxy)phenyl)-10,15,20-tris(4-(carboxymethyleneoxy)phenyl)porphyrin-21,23-diyl)-(N,N-dimethylformamide)-nickel-potassium N,N-dimethylformamide solvate hemihydrate]",hasSpaceGroup,P-1
-DUT-129,hasSpaceGroup,I4
-NENU-507,hasSpaceGroup,I41/acd
-NENU-506,hasSpaceGroup,Pbcn
-D-NTU-18,hasSpaceGroup,P43
-L-NTU-18,hasSpaceGroup,P41
-MOF-177-OMe,hasSpaceGroup,R-3
-ZJU-19,hasSpaceGroup,Fmmm
-NU-111,hasSpaceGroup,Fm3m
-PCN-600(Fe),hasSpaceGroup,P6/mmm
-PCN-600(Co),hasSpaceGroup,P6/mmm
-catena-(tetrakis(μ2-Urocanoato)-di-cadmium(ii) ethanol solvate trihydrate),hasSpaceGroup,I41/a
-α-Zn|MCF-51,hasSpaceGroup,R-3
-MIL-126,hasSpaceGroup,P43212
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-MOF-5,hasSpaceGroup,Fm-3m
-La-ThBTB,hasSpaceGroup,Cc
-La-PhBTTc,hasSpaceGroup,Cc
-TMOF-3,hasSpaceGroup,C2/c
-CAU-32,hasSpaceGroup,P21/n
-CAU-33,hasSpaceGroup,C2/c
-α-ZIF-65 unknown solvate,hasSpaceGroup,I-43m
-α-ZIF-65 unknown solvate,hasSpaceGroup,I-43m
-β-ZIF-65 unknown solvate,hasSpaceGroup,Ia-3
-β-ZIF-65 unknown solvate,hasSpaceGroup,Ia-3
-MIL-53as,hasSpaceGroup,Pnam
-MIL-53ht,hasSpaceGroup,Imma
-MIL-53ht,hasSpaceGroup,Imcm
-MIL-53,hasSpaceGroup,Imcm
-FJI-H15,hasSpaceGroup,F432
-NTU-25,hasSpaceGroup,R-3c
-NTU-23,hasSpaceGroup,R-3c
-NTU-24,hasSpaceGroup,R-3c
-JUC-105,hasSpaceGroup,P-62c
-CTGU-10a1,hasSpaceGroup,P-62c
-CPO-27-Co,hasSpaceGroup,R-3
-CPO-27-Mg,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-TMU-16,hasSpaceGroup,C2/c
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Cu,hasSpaceGroup,R-3
-CPO-27-Co carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Co carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Co carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Co carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Co carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Co carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Co carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
-"catena-[bis(N-Methylmethanaminium) bis(μ4-terephthalato-O,O',O'',O''')-(μ4-terephthalato-O,O,O',O')-(μ2-terephthalato-O,O')-tri-cobalt(ii) dimethylformamide solvate]",hasSpaceGroup,C2/c
-"catena-[bis(N-Methylmethanaminium) bis(μ4-terephthalato-O,O',O'',O''')-(μ4-terephthalato-O,O,O',O')-(μ2-terephthalato-O,O')-tri-cobalt(ii) dimethylformamide solvate]",hasSpaceGroup,C2/c
-MUT-1,hasSpaceGroup,R3c
-BIF-3-Cu,hasSpaceGroup,P-43n
-IPM-206,hasSpaceGroup,C2/c
-BUT-72,hasSpaceGroup,I41/amd
-BUT-74,hasSpaceGroup,Immm
-Co(II)-TMU-63,hasSpaceGroup,C2/c
-BIF-3-Li,hasSpaceGroup,P-43n
-PMOF-2(Zn),hasSpaceGroup,Fm-3m
-MOF-217,hasSpaceGroup,Pa-3
-MOF-217,hasSpaceGroup,Pa-3
-MOF-217,hasSpaceGroup,Pa-3
-JLU-Liu16,hasSpaceGroup,P63/m
-JLU-Liu17,hasSpaceGroup,P63/m
-MUF-15-F methanol solvate,hasSpaceGroup,Pna21
-MUF-15-CH3 methanol solvate,hasSpaceGroup,P21/n
-MUF-15-Br,hasSpaceGroup,P21/n
-InOF-12,hasSpaceGroup,P42/mmc
-InOF-13,hasSpaceGroup,P21212
-"catena-[bis(μ-d-camphorato)-hexakis(μ-5-methyl-tetrazolato)-tetra-zinc N,N-dimethylformamide solvate]|MOZ-51",hasSpaceGroup,P212121
-Mg-MOF-1,hasSpaceGroup,P6122
-γ-MUF-10,hasSpaceGroup,P212121
-UTSA-68,hasSpaceGroup,Cccm
-BIF-41,hasSpaceGroup,C2/c
-BIF-42,hasSpaceGroup,P21/n
-LIFM-38,hasSpaceGroup,Aba2
-NTU-140,hasSpaceGroup,P42212
-NTU-141,hasSpaceGroup,P42212
-catena-[tris(μ-glutarato)-triaqua-di-lanthanum(iii) pentahydrate],hasSpaceGroup,P-1
-amino-MIL53(Al) NP form,hasSpaceGroup,Cc
-"catena-(octakis(μ2-Urocanato-N3,O)-tetra-zinc(ii) heptadecahydrate)",hasSpaceGroup,I41/a
-activated COK-18,hasSpaceGroup,Immm
-NKU-112,hasSpaceGroup,Ia-3
-catena-(bis(μ3-Terephthalato)-(μ2-terephthalato)-hexa-aqua-di-erbium(iii) dihydrate),hasSpaceGroup,C2/c
-"catena-(bis((μ3-Nicotinato-N,O,O')-(μ2-nicotinato-N,O))-(μ2-aqua)-di-cobalt)",hasSpaceGroup,P21/c
-MFM-133(Hf),hasSpaceGroup,P4/mnc
-MFM-133(Hf),hasSpaceGroup,P4/mnc
-PCN-6'|Teaching Subset: MOFs,hasSpaceGroup,Fm-3m
-MOF-HTB|Teaching Subset: MOFs,hasSpaceGroup,R-3m
-MOF-HTB'|Teaching Subset: MOFs,hasSpaceGroup,Fm-3m
-ZIF-8-6.05Ar,hasSpaceGroup,I-43m
-ZIF-8 unknown solvate,hasSpaceGroup,I-43m
-ZIF-8 6.32Ar,hasSpaceGroup,I-43m
-ZIF-8 8.27methane,hasSpaceGroup,I-43m
-ZIF-8 9.76methane,hasSpaceGroup,I-43m
-ZIF-8 3.25methane,hasSpaceGroup,I-43m
-ZIF-8 4.22dinitrogen,hasSpaceGroup,I-43m
-ZIF-8 4.44dinitrogen,hasSpaceGroup,I-43m
-ZIF-8 5.63dinitrogen,hasSpaceGroup,I-43m
-ZIF-8 6.21dinitrogen,hasSpaceGroup,I-43m
-ZIF-8 5.9Ar,hasSpaceGroup,I-43m
-ZIF-8 6.23dinitrogen,hasSpaceGroup,I-43m
-ZIF-8 6.29dinitrogen,hasSpaceGroup,I-43m
-ZIF-8 5.5dinitrogen,hasSpaceGroup,I-43m
-ZIF-8 10.08methane,hasSpaceGroup,I-43m
-ZIF-8 6.06dioxygen,hasSpaceGroup,I-43m
-ZIF-8 6.18dioxygen,hasSpaceGroup,I-43m
-ZIF-8 8.16dioxygen,hasSpaceGroup,I-43m
-ZIF-8 8.40dioxygen,hasSpaceGroup,I-43m
-ZIF-8 8.25dinitrogen,hasSpaceGroup,I-43m
-ZIF-8 5.5methane,hasSpaceGroup,I-43m
-ZIF-8 4.08methane,hasSpaceGroup,I-43m
-PCN-609,hasSpaceGroup,Immm
-NHU-23,hasSpaceGroup,P-1
-HNU-24,hasSpaceGroup,P-1
-Zr-UiO-66-PZDC,hasSpaceGroup,Pa-3
-PUM210,hasSpaceGroup,C2/c
-IFMC-200,hasSpaceGroup,F-43c
-PCN-38,hasSpaceGroup,P-1
-MROF-12,hasSpaceGroup,P3
-MFM-300(Al)|NOTT-300(Al),hasSpaceGroup,I4122
-MFM-300(Al)|NOTT-300(Al),hasSpaceGroup,I4122
-MFM-300(Al)|NOTT-300(Al),hasSpaceGroup,I4122
-MIL-112,hasSpaceGroup,P21/c
-ZJNU-91,hasSpaceGroup,C2/c
-NTU-Z11,hasSpaceGroup,I4cm
-NTU-Z10,hasSpaceGroup,I23
-NTU-Z8,hasSpaceGroup,Fdd2
-"catena-[(μ-5,11,17,23-tetra-t-butylthiacalix[4]arene-25,26,27,28-tetrakis(pyridin-3-ylmethoxy))-dibromo-cadmium chloroform solvate]",hasSpaceGroup,C2/c
-SCNU-Z1-Cl*,hasSpaceGroup,P63/m
-CZJ-18(H),hasSpaceGroup,Pbam
-SNNU-51,hasSpaceGroup,P63/m
-SNNU-52,hasSpaceGroup,P63/m
-SNNU-54,hasSpaceGroup,P-6c2
-IRMOF-23terp,hasSpaceGroup,Fm-3m
-IRMOF-25terPh,hasSpaceGroup,Fm-3m
-IRMOF-pentane,hasSpaceGroup,Fmmm
-"catena-((μ8-2,5-Dioxyterephthalato)-di-nickel(ii) carbon dioxide)",hasSpaceGroup,R-3
-InOF-18-2,hasSpaceGroup,P61
-V105,hasSpaceGroup,Pbcn
-PCN-514-DMA complex,hasSpaceGroup,P-1
-PCN-518,hasSpaceGroup,C2/c
-Mg-CUK-1 nonahydrate,hasSpaceGroup,P21/n
-Mg-CUK-1,hasSpaceGroup,C2/c
-Mg-CUK-1,hasSpaceGroup,C2/c
-Mg-CUK-1 pyridine solvate,hasSpaceGroup,C2/c
-Mg-CUK-1 toluene solvate,hasSpaceGroup,C2/c
-Mg-CUK-1 p-xylene solvate,hasSpaceGroup,C2/c
-Mg-CUK-1 p-xylene solvate,hasSpaceGroup,C2/c
-Mg-CUK-1 p-divinylbenzene solvate,hasSpaceGroup,C2/c
-FCS-2,hasSpaceGroup,C2/c
-ZJNU-15,hasSpaceGroup,R-3c
-JXNU-6,hasSpaceGroup,P4122
-IRMOF-61,hasSpaceGroup,P42/ncm
-IRMOF-62,hasSpaceGroup,P3212
-COK-69cp,hasSpaceGroup,P3
-COK-69op,hasSpaceGroup,P3
-ZJU-12,hasSpaceGroup,R-3m
-MAC-6,hasSpaceGroup,C2/m
-PCN-514 (DMA),hasSpaceGroup,P-1
-PCN-516,hasSpaceGroup,P42/mmc
-PCN-513,hasSpaceGroup,P-1
-PCN-514,hasSpaceGroup,P-1
-BIPT-2,hasSpaceGroup,C2/c
-POMOF-1,hasSpaceGroup,I41/amd
-GR-MOF-2,hasSpaceGroup,C2/c
-GR-MOF-4,hasSpaceGroup,C2/c
-GR-MOF-5,hasSpaceGroup,C2/c
-ZIF-8,hasSpaceGroup,I-43m
-ZIF8,hasSpaceGroup,I-43m
-ZIF-8,hasSpaceGroup,I-43m
-MAF-4,hasSpaceGroup,I-43m
-ZIF-8,hasSpaceGroup,I-43m
-JUC-62,hasSpaceGroup,R-3
-JUC-63,hasSpaceGroup,Pna21
-Δ-Fe-HAF-1,hasSpaceGroup,F432
-Λ-Fe-HAF-1,hasSpaceGroup,F432
-NKU-102,hasSpaceGroup,R-3
-NKU-103,hasSpaceGroup,P3221
-UMCM-150N2,hasSpaceGroup,P63/mmc
-SBMOF-1 acetylene,hasSpaceGroup,P21/n
-SBMOF-1 ethylene,hasSpaceGroup,P21/n
-SBMOF-1 ethane,hasSpaceGroup,P21/n
-SBMOF-2 acetylene,hasSpaceGroup,P-1
-SBMOF-2 ethylene,hasSpaceGroup,P-1
-SBMOF-2 ethane,hasSpaceGroup,P-1
-CH4@DUT49cp,hasSpaceGroup,Pa-3
-CH4@DUT49ip,hasSpaceGroup,Pa-3
-UTSA-74a,hasSpaceGroup,R-3c
-NJU-Bai2,hasSpaceGroup,P21/c
-FJU-22,hasSpaceGroup,Pbcn
-FJU-21,hasSpaceGroup,P21/c
-HLJU-3,hasSpaceGroup,Fm-3m
-HLJU-2,hasSpaceGroup,Fm-3m
-TPMOF-1,hasSpaceGroup,P6/mcc
-TPMOF-2,hasSpaceGroup,P-3c1
-TPMOF-5,hasSpaceGroup,C2/m
-truMOF-2,hasSpaceGroup,I213
-UTSA-20,hasSpaceGroup,P63/mcm
-NU-GRH-1,hasSpaceGroup,P42/mnm
-NKB-1,hasSpaceGroup,I41/amd
-"catena-[(μ8-4,4'-(Hexafluoroisopropylidene)diphthalato)-aqua-di-cadmium(ii) hydrate]",hasSpaceGroup,R-3
-CAU-10-H Hydrated,hasSpaceGroup,I41
-CAU-10-H dry,hasSpaceGroup,I41/amd
-ZJNU-61(Ho),hasSpaceGroup,P21
-Zn-MOF-74,hasSpaceGroup,R-3
-Ni-MOF-74,hasSpaceGroup,R-3
-Co-MOF-74,hasSpaceGroup,R-3
-Mn-MOF-74,hasSpaceGroup,R-3
-MMPF-18,hasSpaceGroup,R-3c
-Δ-MOF-520 unknown solvate,hasSpaceGroup,P42212
-Λ-MOF-520 trimesate unknown solvate,hasSpaceGroup,P42212
-"Λ-MOF-520 3-(t-butoxycarbonylamino)propan-1,2-diolato unknown solvate",hasSpaceGroup,P42212
-Λ-MOF-520 unknown solvate,hasSpaceGroup,P42212
-Λ-MOF-520 methanolate unknown solvate,hasSpaceGroup,P43212
-NOTT-300 (In) Desolvated|MFM-300(In),hasSpaceGroup,I4122
-MFM-300(In),hasSpaceGroup,I4122
-Cd-PAA-1,hasSpaceGroup,Pnna
-Mn-FPAA-1,hasSpaceGroup,P21/c
-Mn-INA-1,hasSpaceGroup,P21
-JLU-31,hasSpaceGroup,Cmcm
-NOTT-300 (In) 1.09 CD4|MFM-300(In) 1.09CD4 per In,hasSpaceGroup,I4122
-catena-(bis(tetrabutylammonium) tris(μ2-chloranilato)-di-manganese(ii) methanol solvate),hasSpaceGroup,I-43d
-URJC-1,hasSpaceGroup,Pn21a
-Ubbp-3,hasSpaceGroup,P42/nmc
-"catena-[hexakis(μ4-Terephthalato-O,O',O'',O''')-tetrakis(μ3-hydroxo)-dodecakis(μ3-isonicotinato)-octa-nickel(ii)-tetra-nickel(iii) dimethylformamide solvate hexadecahydrate]",hasSpaceGroup,I-43m
-MIL-141(Cs),hasSpaceGroup,C2/c
-MIL-141(Rb),hasSpaceGroup,C2/c
-MIL-141(Na),hasSpaceGroup,C2/c
-MIL-141(Li),hasSpaceGroup,C2/c
-GWMOF-7,hasSpaceGroup,P21/c
-GWMOF-8,hasSpaceGroup,P21/c
-FIR-2,hasSpaceGroup,P-1
-IPM-MOF-110,hasSpaceGroup,C2/c
-MAF-23,hasSpaceGroup,P21/n
-SION-10,hasSpaceGroup,P-1
-HPU-1,hasSpaceGroup,P21/n
-MMCF-1,hasSpaceGroup,P21/c
-MTAF-3,hasSpaceGroup,C2/c
-PCN-111,hasSpaceGroup,Fm-3m
-Zn-Pd-2,hasSpaceGroup,Pna21
-BMOF-2-dioxole,hasSpaceGroup,P-1
-CAU-10-Br,hasSpaceGroup,I41/amd
-MIL-96,hasSpaceGroup,P63/mmc
-BMM-9,hasSpaceGroup,R-3
-MIL-160.4H2O,hasSpaceGroup,I41md
-MIL-160,hasSpaceGroup,I41/amd
-MIL-160.2.3N2,hasSpaceGroup,I41/amd
-"catena-[pentakis(μ-isonicotinato)-bis(μ-iodo)-tetrakis(N,N-dimethylformamide)-di-copper(i)-sodium(i)-di-strontium(ii)]",hasSpaceGroup,Pna21
-"catena-[tetrakis(μ-isonicotinato)-bis(μ-iodo)-(μ-nitrato)-tetrakis(N,N-dimethylformamide)-di-copper(i)-sodium(i)-di-strontium(ii) N,N-dimethylformamide solvate hemihydrate]",hasSpaceGroup,P-1
-"catena-((μ4-Muconato-O,O',O'',O''')-(μ2-muconato-O,O')-diaqua-tris(1,10-phenanthroline)-tri-copper(ii) bis(tetrafluoroborate) pentahydrate)",hasSpaceGroup,C2/c
-JUST-3|LMOF-311,hasSpaceGroup,Pbcn
-U-IHEP-4,hasSpaceGroup,Fm-3m
-FMOF-1,hasSpaceGroup,I-42d
-IRMOF-9,hasSpaceGroup,P21/n
-BUT-36,hasSpaceGroup,P21/n
-FJI-H22,hasSpaceGroup,P21/n
-FJI-H22-MeOH,hasSpaceGroup,P2/n
-FJI-H22(Recover),hasSpaceGroup,P21/n
-ZJNU-97,hasSpaceGroup,P42/mnm
-CMP-46,hasSpaceGroup,R32
-EHU-30,hasSpaceGroup,P63/mmc
-UNLPF-2,hasSpaceGroup,P42/mmc
-InOF-8,hasSpaceGroup,P6/mcc
-MUF-17,hasSpaceGroup,C2/c
-IMP-32-Zr,hasSpaceGroup,Ibam
-catena-(bis(oxonium)) bis(μ6-5-phosphonoisophthalato)-tri-zinc(ii)|catena-(bis(μ6-5-phosphonoisophthato)-tri-zinc(ii) bis(oxonium)),hasSpaceGroup,I-42d
-hemikis(Cobaltocene) MIL-47(V),hasSpaceGroup,Imma
-MesoMOF-2,hasSpaceGroup,Fm-3c
-FJI-C2,hasSpaceGroup,P-421c
-YZU-103,hasSpaceGroup,Fdd2
-MOF-545,hasSpaceGroup,P6/mmm
-"catena-((μ4-15,35,55,75-tetrakis(Pyrid-4-yl)-12,14,16,32,34,36,52,54,56,72,74,76-dodecamethyl-1,3,5,7-(1,3)benzenacyclo-octaphane-N,N',N'',N''')-di-silver bis(hexafluorophosphate) 1,2-dichlorobenzene solvate decahydrate)",hasSpaceGroup,I41/acd
-UTSA-85,hasSpaceGroup,P-1
-SNNU-35,hasSpaceGroup,R-3
-SNNU-36,hasSpaceGroup,I4/mmm
-NJU-Bai50,hasSpaceGroup,P-62m
-SCU-101-Re,hasSpaceGroup,P-1
-SCU101.TcO4,hasSpaceGroup,P-1
-HNU-25,hasSpaceGroup,R-3c
-AUBM-2(Ce),hasSpaceGroup,P-1
-Zn-DBDA,hasSpaceGroup,P21/c
-TIF-5Co,hasSpaceGroup,I41/a
-TIF-5Zn,hasSpaceGroup,I41/a
-PCN-167(In),hasSpaceGroup,P6/mcc
-PCN-167(In),hasSpaceGroup,P6/mcc
-PCN-167(In),hasSpaceGroup,P6/mcc
-PCN-167(In),hasSpaceGroup,P6/mcc
-PCN-167(In),hasSpaceGroup,P6/mcc
-PCN-168(Fe),hasSpaceGroup,P6/mcc
-PCN-168(Fe),hasSpaceGroup,P6/mcc
-PCN-168(Fe),hasSpaceGroup,P6/mcc
-PCN-168(Fe),hasSpaceGroup,P6/mcc
-PCN-168(Fe),hasSpaceGroup,P6/mcc
-PCN-168(Fe),hasSpaceGroup,P6/mcc
-ZIF-9,hasSpaceGroup,R-3
-ZIF-9,hasSpaceGroup,R-3
-ZIF-9,hasSpaceGroup,R-3
-Co-ZIF-9,hasSpaceGroup,R-3
-ZIF-9,hasSpaceGroup,R-3
-MOF-14,hasSpaceGroup,Im-3
-MOF-14,hasSpaceGroup,Im-3
-MOF-14,hasSpaceGroup,Im-3
-MOF-14,hasSpaceGroup,Im-3
-MOF-14,hasSpaceGroup,Im-3
-MOF-14,hasSpaceGroup,Im-3
-MOF-14,hasSpaceGroup,Im-3
-MOF-14,hasSpaceGroup,Im-3
-MOF-14,hasSpaceGroup,Im-3
-MOF-14,hasSpaceGroup,Im-3
-MOF-14,hasSpaceGroup,Im-3
--MOF-520-24,hasSpaceGroup,P42212
--MOF-520-25,hasSpaceGroup,P42212
--MOF-520-27,hasSpaceGroup,P42212
--MOF-520-28,hasSpaceGroup,P42212
--MOF-520-31-activated,hasSpaceGroup,P42212
--MOF-520-S-32,hasSpaceGroup,P42212
--MOF-520-22,hasSpaceGroup,P42212
--MOF-520-R-32,hasSpaceGroup,P42212
-Δ-MOF-520-17,hasSpaceGroup,P42212
-Δ-MOF-520-21,hasSpaceGroup,P42212
-"-MOF-520 N,N-dimethylformamide solvate",hasSpaceGroup,P42212
-Mg-CUK-1L Dehydrated,hasSpaceGroup,C2/c
-Mg-CUK-1L incl. o-Xylene,hasSpaceGroup,C2/c
-Mg-CUK-1L incl. AzB,hasSpaceGroup,P-1
-Mg-CUK-1L,hasSpaceGroup,C2/c
-SIFSIX-23-Cu-γ1,hasSpaceGroup,P21/c
-SIFSIX-23-Cu-γ2,hasSpaceGroup,P1
-DUT-159,hasSpaceGroup,R-3m
-DUT-7(LT),hasSpaceGroup,P6522
-DUT-7(RT),hasSpaceGroup,P6322
-NOTT-114,hasSpaceGroup,Fm-3m
-catena-((μ4-Squarato)-diaqua-cadmium(ii)),hasSpaceGroup,R-3
-IRMOF-74-II,hasSpaceGroup,R-3
-IRMOF-74-III,hasSpaceGroup,R-3
-IRMOF-74-IV,hasSpaceGroup,R3
-IRMOF-74-V-hex,hasSpaceGroup,R-3
-IRMOF-74-VI,hasSpaceGroup,R3
-IRMOF-74-VII,hasSpaceGroup,R3
-IRMOF-74-VI-oeg,hasSpaceGroup,R-3
-IRMOF-74-IX,hasSpaceGroup,R3
-IRMOF-74-XI,hasSpaceGroup,R3
-JUC-141,hasSpaceGroup,R-3m
-UTSA-16,hasSpaceGroup,I-42d
-Co6-MOF,hasSpaceGroup,P63/mcm
-SCU-100,hasSpaceGroup,P42/nbc
-FJI-Y1,hasSpaceGroup,P21/c
-FJI-Y2,hasSpaceGroup,P21/c
-NU-125,hasSpaceGroup,I4/m
-"catena-[bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii) tangeritin clathrate unknown solvate]",hasSpaceGroup,C2/c
-"catena-[bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii) hemikis(nobiletin) clathrate unknown solvate]",hasSpaceGroup,C2/c
-"catena-[octakis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-tetracosakis(iodo)-dodeca-zinc(ii) pentakis(santonin) clathrate cyclohexane unknown solvate]",hasSpaceGroup,P21
-"catena-[bis(bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii)) guaiazulene clathrate unknown solvate]",hasSpaceGroup,Cc
-"catena-[bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii) guaiazulene clathrate unknown solvate]",hasSpaceGroup,C2/c
-catena-(tris(μ4-Terephthalato)-(μ3-oxo)-triaqua-tri-chromium(iii) fluoride tetracosakis(methanol) clathrate)|MIL88B_Methanol,hasSpaceGroup,P63/mmc
-BUT-43,hasSpaceGroup,C2/c
-IFMC-26-Tb,hasSpaceGroup,Pnna
-IFMC-27-la,hasSpaceGroup,P-1
-"catena-[bis(μ-2-oxypropane-1,2,3-tricarboxylato)-bis(μ-pyridine-4-carbohydrazide)-germanium-di-copper(ii) unknown solvate tetrahydrate]",hasSpaceGroup,P21/n
-MOF-X1,hasSpaceGroup,P6522
-D-ZIF-7,hasSpaceGroup,R-3
-D-ZIF-7 CO2,hasSpaceGroup,R-3
-D-ZIF-7 CO2,hasSpaceGroup,R-3
-D-ZIF-7 CO2,hasSpaceGroup,R-3
-TMU-41,hasSpaceGroup,P21/n
-MOF-519,hasSpaceGroup,P42212
-JLU-MOF60,hasSpaceGroup,I41/amd
-α-NOTT-220,hasSpaceGroup,P2/c
-β-NOTT-220,hasSpaceGroup,P2/c
-InOF-22,hasSpaceGroup,I2/m
-CPM-72,hasSpaceGroup,P4132
-CPM-73,hasSpaceGroup,P4332
-LIFM-114-Methanol,hasSpaceGroup,Cmma
-LIFM-114-60C,hasSpaceGroup,Cmma
-HUST4,hasSpaceGroup,Pnnm
-HUST1,hasSpaceGroup,Pnnm
-CdAPP-1,hasSpaceGroup,P-1
-CdAPP-1,hasSpaceGroup,P-1
-CdAPP-1,hasSpaceGroup,P-1
-CdAPP-1,hasSpaceGroup,P-1
-CdAPP-1,hasSpaceGroup,P-1
-CPM-33a,hasSpaceGroup,P63/mmc
-PCN-700,hasSpaceGroup,P42/mmc
-UiO-66,hasSpaceGroup,Fm-3m
-"catena-(tetrakis(μ3-3-Sulfanyl-D-valine-N,O,S,S)-di-gold(i)-di-platinum(ii)-zinc(ii) nonahydrate)",hasSpaceGroup,P6422
-NNU-14,hasSpaceGroup,C2/m
-IRMOF-77,hasSpaceGroup,R-3c
-"catena-[(μ8-5,5'-Buta-1,3-diyne-1,4-diyldibenzene-1,3-dicarboxylato)-diaqua-di-copper(ii) dimethylformamide solvate trihydrate]|MOF-505",hasSpaceGroup,R-3m
-"catena-[(μ-5,11,17,23-Tetra-t-butyl-25,26,27,28-tetrakis((4-cyanophenyl)sulfanediyl)-2,8,14,20-tetrathiacalix(4)arene)-di-silver bis(hexafluorophosphate) methanol chloroform solvate]",hasSpaceGroup,P21/n
-SUMOF-7I,hasSpaceGroup,R32
-SUMOF-7I,hasSpaceGroup,R32
-SUMOF-7I,hasSpaceGroup,R32
-SUMOF-7I,hasSpaceGroup,R32
-SUMOF-7I,hasSpaceGroup,R32
-SUMOF-7I,hasSpaceGroup,R32
-SUMOF-7I(Ce),hasSpaceGroup,R32
-SUMOF-7III(Eu),hasSpaceGroup,R32
-CTGU-3,hasSpaceGroup,P-1
-CTGU-4,hasSpaceGroup,Pmn21
-MOF-5|Teaching Subset: MOFs,hasSpaceGroup,Fm-3m
-Teaching Subset: MOFs,hasSpaceGroup,Fm-3m
-534-MOF-Tb,hasSpaceGroup,C2/c
-LCU-101,hasSpaceGroup,P21/c
-Zr-CAU-28,hasSpaceGroup,P63/mmc
-Ce-CAU-28,hasSpaceGroup,P63/mmc
-Bio-MOF-100,hasSpaceGroup,Ia3d
-N2@DUT-8(Ni),hasSpaceGroup,P21/m
-CO2@DUT-8(Ni),hasSpaceGroup,P21/m
-C4H10@DUT-8(Ni),hasSpaceGroup,P21/m
-DUT-8(Ni) ip2,hasSpaceGroup,P1
-"catena-[(μ8-2,5-Dioxidobenzene-1,4-dicarboxylato)-cobalt(ii)]",hasSpaceGroup,R-3
-UPC-30,hasSpaceGroup,P21/c
-BUT-52,hasSpaceGroup,Pn-3m
-PCN-700-SA,hasSpaceGroup,P42/mmc
-PCN-700-SA2,hasSpaceGroup,P42/mmc
-FJI-Y3,hasSpaceGroup,I41/acd
-MIL-53(Fe) m-xylene clathrate,hasSpaceGroup,Cc
-MIL-53(Fe) o-xylene clathrate,hasSpaceGroup,Cc
-MIL-53(Fe) p-xylene clathrate,hasSpaceGroup,Cc
-CHD-1,hasSpaceGroup,P21/c
-CHD-2,hasSpaceGroup,P212121
-ocMOM-2-2,hasSpaceGroup,P212121
-TMU-6(RL1),hasSpaceGroup,C2/c
-FJI-Y8,hasSpaceGroup,C2/c
-Au-ACM-1,hasSpaceGroup,Pnna
-IOS-2(M),hasSpaceGroup,P3112
-IOS-2(P),hasSpaceGroup,P3212
-ZIF-4-Co,hasSpaceGroup,Pbca
-UMCM-151-F,hasSpaceGroup,Immm
-UMCM-151-Cl,hasSpaceGroup,Immm
-JUC-58,hasSpaceGroup,P6122
-"catena-[tris(μ3-Λ-tris(4-(4-Pyridyl)duryl)borane-N,N',N'')-(μ3-Δ-tris(4-(4-pyridyl)duryl)borane-N,N',N'')-octabromo-tetra-cadmium octahydrate]",hasSpaceGroup,R32
-"catena-[tetrakis(μ3-tris(4-(4-Pyridyl)duryl)borane-N,N',N'')-octa-iodo-tetra-cadmium octahydrate]",hasSpaceGroup,R32
-"catena-[tetrakis(μ3-tris(4-(4-Pyridyl)duryl)borane-N,N',N'')-octachloro-tetra-copper octahydrate]",hasSpaceGroup,R32
-"catena-[tetrakis(μ3-tris(4-(4-Pyridyl)duryl)borane-N,N',N'')-octachloro-tetra-cobalt methanol solvate tetrahydrate]",hasSpaceGroup,R32
-MAF-23 hemikis(propylene),hasSpaceGroup,P21/n
-MAF-23 hemikis(propane),hasSpaceGroup,P21/n
-MAF-23-O,hasSpaceGroup,P21/n
-MAF-23-O hemikis(propylene),hasSpaceGroup,P21/n
-MAF-23-O hemikis(propane),hasSpaceGroup,P21/n
-IPCE-1Ni,hasSpaceGroup,C2/c
-FDM-34,hasSpaceGroup,Pn-3
-ATF-2,hasSpaceGroup,P4322
-ATF-1P,hasSpaceGroup,P4122
-CAU-27-BDC,hasSpaceGroup,I4/mcm
-CAU-27-BPDC,hasSpaceGroup,I4/mcm
-ATF-1M,hasSpaceGroup,P4322
-ATF-1,hasSpaceGroup,P4122
-ATF-2P,hasSpaceGroup,P4122
-ZJU-28',hasSpaceGroup,P-1
-"catena-((μ12-Phosphato)-bis(μ4-1-(2,4-difluorophenyl)-1,1-bis((1H-1,2,4-triazol-1-yl)methyl)methanolato)-(μ3-oxo)-heptacosakis(μ2-oxo)-pentaaqua-octaoxo-copper(i)-tri-copper(ii)-di-molybdenum(v)-deca-molybdenum(vi) hexahydrate)",hasSpaceGroup,P21/n
-DUT-122(Zr),hasSpaceGroup,Pa-3
-IISERP-MOF27,hasSpaceGroup,Cc
-NICS-8,hasSpaceGroup,P-1
-PMOF-55,hasSpaceGroup,P4/ncc
-"catena-[(μ-2,8,14,20-tetramethylcalix[4]arene-4,5,6,10,11,12,16,17,18,22,23,24-dodecaolato)-(μ-formato)-(methanol)-penta-aqua-tetra-nickel unknown solvate]|catena-[(μ-2,8,14,20-tetramethylpyrogallo[4]arenato)-(μ-formato)-(methanol)-penta-aqua-tetra-nickel unknown solvate]",hasSpaceGroup,R-3
-Sc-CAU-9-H2TCPP,hasSpaceGroup,Cmmm
-AIST-1,hasSpaceGroup,P4322
-"catena-[(μ3-2,5-Dihydroxybenzene-1,4-dicarboxylato-O,O',O'')-(μ2-4,4'-bipyridine-N,N')-zinc(ii) N,N-dimethylformamide solvate]",hasSpaceGroup,P-421c
-JLU-Liu23P,hasSpaceGroup,P6122
-JLU-Liu23M,hasSpaceGroup,P6522
-CPM-202,hasSpaceGroup,C2
-CPM-203,hasSpaceGroup,R32
-CPM-205,hasSpaceGroup,C2/c
-CPM-201,hasSpaceGroup,P3c1
-MFM-300(Ga2),hasSpaceGroup,I4122
-MFM-300(Ga2) carbon dioxide,hasSpaceGroup,I4122
-"catena-[(μ3-5-Sulfonatoisophthalato)-(μ2-1,4-bis(pyridin-4-ylmethyl)piperazin-1-ium)-zinc(ii) tetrahydrate]",hasSpaceGroup,P21/n
-TMOF-2,hasSpaceGroup,P212121
-"catena-((μ-N',N'-bis[1-(pyrazine-2-yl)ethylidene]benzil dihydrazone)-di-silver(i) dinitrate acetonitrile monohydrate)",hasSpaceGroup,I41/acd
-MIL-156,hasSpaceGroup,Pccn
-TMU-31,hasSpaceGroup,P21/c
-ZJU-197,hasSpaceGroup,P-1
-FJI-Y7,hasSpaceGroup,C2/c
-"catena-(bis(μ-3,6-bis(1,2,4-triazolyl)-2,5-dioxy-1,4-benzoquinone)-di-manganese(ii) methanol solvate)",hasSpaceGroup,P21/c
-IFMC-6,hasSpaceGroup,P42/mnm
-IFMC-7,hasSpaceGroup,R-3
-IFMC-8,hasSpaceGroup,R-3c
-ρ-ZMOF,hasSpaceGroup,Im-3m
-NJU-Bai 41,hasSpaceGroup,R-3m
-ZJNU-78,hasSpaceGroup,P42/mnm
-"catena-[(μ-4,4'-azobispyridine)-(μ-methylsuccinato)-cadmium(ii) hydrate]",hasSpaceGroup,I2/a
-"catena-[(μ-4,4'-azobispyridine)-(μ-methylglutarato)-cadmium(ii) pentahydrate]",hasSpaceGroup,C2/c
-NTU-40,hasSpaceGroup,Pbcn
-NTU-41,hasSpaceGroup,P21/c
-"catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(ascorbic acid) clathrate acetonitrile solvate dodecahydrate]|catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(vitamin C) clathrate acetonitrile solvate dodecahydrate]",hasSpaceGroup,P63
-"catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(pyridoxine) clathrate acetonitrile solvate pentadecahydrate]|catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(vitamin B6) clathrate acetonitrile solvate pentadecahydrate]",hasSpaceGroup,P63
-"catena-[bupropion tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-calcium-hexa-copper(ii) clathrate docosahydrate]",hasSpaceGroup,P63
-"catena-[17-β-estradiol tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-tetrakis(μ-aqua)-bis(μ-hydroxo)-calcium-hexa-copper(ii) acetonitrile solvate hexahydrate]",hasSpaceGroup,P63
-MOF-591,hasSpaceGroup,P-1
-MOF-592,hasSpaceGroup,P-1
-MOF-590,hasSpaceGroup,P-1
-MFM-300V3-1.8C2D4,hasSpaceGroup,I4122
-MFM-300V3-1.0C2D4,hasSpaceGroup,I4122
-MFM-300V3-1.4CD4,hasSpaceGroup,I4122
-MFM-300V3-1.0CD4,hasSpaceGroup,I4122
-PCN-13,hasSpaceGroup,I-43d
-NU-1000-C8H7NO4S,hasSpaceGroup,P6/mmm
-NU-1000-C7H8O3S,hasSpaceGroup,P6/mmm
-HPU-14,hasSpaceGroup,Pbca
-CPO-27-Mg|MOF-74-Mg,hasSpaceGroup,R-3
-PCN-262,hasSpaceGroup,P21/c
-PCN-263,hasSpaceGroup,P21/c
-PCN-266,hasSpaceGroup,Pbcm
-PCN-280,hasSpaceGroup,R3m
-PCN-285,hasSpaceGroup,R3
-PCN-234,hasSpaceGroup,Pa-3
-PCN-235,hasSpaceGroup,Pa-3
-PCN-243,hasSpaceGroup,P63mc
-PCN-245,hasSpaceGroup,P43212
-PCN-247,hasSpaceGroup,P6322
-"Gd-RUM2 hemikis(1-methyl-2-pyrrolidone) clathrate N,N-dimethylformamide solvate",hasSpaceGroup,C2/c
-Ce-RUM3 caprolactam clathrate hydrate,hasSpaceGroup,C2/c
-ZSTU-1,hasSpaceGroup,P63/mcm
-ZSTU-2,hasSpaceGroup,P63/mcm
-ZSTU-3,hasSpaceGroup,P63/mcm
-ZIF-8,hasSpaceGroup,I-43m
-ZIF-8,hasSpaceGroup,I-43m
-ZIF-8,hasSpaceGroup,I-43m
-ZIF-8,hasSpaceGroup,I-43m
-ZIF-8,hasSpaceGroup,I-43m
-ZIF-8,hasSpaceGroup,I-43m
-ZIF-8,hasSpaceGroup,I-43m
-ZIF-8,hasSpaceGroup,I-43m
-FJI-9,hasSpaceGroup,P-3
-SNNU-50,hasSpaceGroup,I4132
-ZJNU-64,hasSpaceGroup,Pccn
-ZJNU-63,hasSpaceGroup,P21/c
-ZJNU-65,hasSpaceGroup,P-1
-CALA-self,hasSpaceGroup,P61
-JUC-103,hasSpaceGroup,R-3c
-JUC-104,hasSpaceGroup,C2/c
-MET-3,hasSpaceGroup,Fd-3m
-Tb-sph-MOF-2,hasSpaceGroup,Fd-3
-MOF-1004,hasSpaceGroup,Pm-3n
-"catena-((μ3-Hydroxo)-(μ2-pyridine-4-carboxylato-O,N)-copper(ii) monohydrate clathrate)",hasSpaceGroup,P21/n
-FJI-Y10,hasSpaceGroup,P-1
-BIF-33,hasSpaceGroup,R3c
-FJU-81,hasSpaceGroup,C2/c
-"catena-[[μ-tris(4-carboxylatophenyl)phosphine oxide]-(N,N-dimethylformamide)-europium(iii) N,N-dimethylformamide solvate sesquihydrate]",hasSpaceGroup,P-1
-"catena-[tetrakis(dimethylammonium) (μ-2,2',2'',2''',2'''',2''''',2'''''',2'''''''-((2,8,14,20-tetrakis(4-methylphenyl)pentacyclo[19.3.1.13,7.19,13.115,19]octacosa-1(25),3(28),4,6,9(27),10,12,15(26),16,18,21,23-dodecaene-4,6,10,12,16,18,22,24-octayl)octakis(oxy))octaacetato)-di-cadmium tetrahydrate unknown solvate]",hasSpaceGroup,C2/c
-"catena-[tetrakis(dimethylammonium) (μ-2,2',2'',2''',2'''',2''''',2'''''',2'''''''-((2,8,14,20-tetrakis(4-methylphenyl)pentacyclo[19.3.1.13,7.19,13.115,19]octacosa-1(25),3(28),4,6,9(27),10,12,15(26),16,18,21,23-dodecaene-4,6,10,12,16,18,22,24-octayl)octakis(oxy))octaacetato)-bis(N,N-dimethylformamide)-di-zinc(ii) N,N-dimethylformamide solvate hexahydrate]",hasSpaceGroup,P21/n
-"catena-[tetrakis(dimethylammonium) (μ-2,2',2'',2''',2'''',2''''',2'''''',2'''''''-((2,8,14,20-tetrakis(4-methylphenyl)pentacyclo[19.3.1.13,7.19,13.115,19]octacosa-1(25),3(28),4,6,9(27),10,12,15(26),16,18,21,23-dodecaene-4,6,10,12,16,18,22,24-octayl)octakis(oxy))octaacetato)-di-cobalt N,N-dimethylformamide solvate tetrahydrate]",hasSpaceGroup,P21/n
-FJI-6,hasSpaceGroup,I4cm
-FJI-H11-iPr,hasSpaceGroup,R-3m
-catena-((μ7-ranelato)-(μ2-aqua)-tetraaqua-di-strontium(ii) hydrate),hasSpaceGroup,P-1
-NU-1300,hasSpaceGroup,Fm-3m
-"catena-[(μ6-3,3',3''-(2,4,6-Trioxo-1,3,5-triazinane-1,3,5-triyl)tripropanoato)-aqua-erbium(iii) dimethylformamide solvate dihydrate]",hasSpaceGroup,P-1
-MFU-4l,hasSpaceGroup,Fm-3m
-InMOF-1,hasSpaceGroup,P-1
-DUT-122(Hf),hasSpaceGroup,Pa-3
-UNLPF-10_1,hasSpaceGroup,Pnnm
-UNLPF-10_2,hasSpaceGroup,Pnnm
-CFA-8,hasSpaceGroup,C2/c
-CFA-8,hasSpaceGroup,C2/c
-ZIF-204,hasSpaceGroup,P21/n
-MIL-117,hasSpaceGroup,Pnmm
-UTSA-15,hasSpaceGroup,Pbam
-UTSA-36,hasSpaceGroup,P21/c
-ZJU-198,hasSpaceGroup,Pbca
-ZIF-8 iodine solvate,hasSpaceGroup,I-43m
-ZIF-8 iodine solvate,hasSpaceGroup,I-43m
-SNU-30,hasSpaceGroup,Imma
-SNU-30SC,hasSpaceGroup,Imma
-"catena-[bis(μ3-6-Sulfinatonicotinato-N,O,O',O'',O''')-(4,4'-bipyridine-N,N')-di-copper(ii) methanol solvate dihydrate]",hasSpaceGroup,P21/n
-TCZ-002,hasSpaceGroup,C2/c
-CAU-10-HTATB,hasSpaceGroup,I41/a
-BUT-70B,hasSpaceGroup,P21/c
-BUT-70,hasSpaceGroup,P21/c
-MUF-84g,hasSpaceGroup,P21/c
-MUF-84c,hasSpaceGroup,Pnma
-VNU-11,hasSpaceGroup,Fd-3m
-ZIF-1,hasSpaceGroup,P21/n
-ZIF-2,hasSpaceGroup,Pbca
-ZIF-4-Zn,hasSpaceGroup,Pbca
-ZIF-5,hasSpaceGroup,Ia-3d
-ZIF-9,hasSpaceGroup,R-3
-ZIF-7,hasSpaceGroup,R-3
-Zr-CAU-30-act,hasSpaceGroup,I41cd
-SNNU-95,hasSpaceGroup,P21/c
-MIL-68(In),hasSpaceGroup,Cmcm
-MIL-68(In),hasSpaceGroup,Cmcm
-MIL-68(In),hasSpaceGroup,Cmcm
-MIL-68(In),hasSpaceGroup,Cmcm
-MIL-68(In),hasSpaceGroup,Cmcm
-MIL-68(In),hasSpaceGroup,Cmcm
-MFM-601,hasSpaceGroup,I41/amd
-SO2@MFM601,hasSpaceGroup,I41/amd
-"catena-[(μ6-tris(2-(Carboxylato)ethyl)isocyanurate)-aqua-terbium(iii) N,N-dimethylformamide solvate]",hasSpaceGroup,P-1
-CO2 SNU-9,hasSpaceGroup,C2/c
-NOTT-12,hasSpaceGroup,P21/c
-NJU-Bai 42,hasSpaceGroup,P21/c
-BUT-107,hasSpaceGroup,Pnna
-BUT-105,hasSpaceGroup,R-3c
-BUT-104,hasSpaceGroup,C2/m
-CPO-27-Mg,hasSpaceGroup,R-3
-IISERP-MOF25,hasSpaceGroup,C2/c
-MFM-520 0.92(N2O4),hasSpaceGroup,P42/mnm
-MFM-520 0.93(N2O4),hasSpaceGroup,P42/mnm
-MFM-520 0.89(N2O4),hasSpaceGroup,P42/mnm
-MFM-520 0.89(N2O4),hasSpaceGroup,P42/mnm
-MFM-520 0.57(N2O4),hasSpaceGroup,P42/mnm
-MFM-520 0.57(N2O4),hasSpaceGroup,P42/mnm
-PCN-60,hasSpaceGroup,Fm-3m
-PCN-61,hasSpaceGroup,Fm-3m
-JXNU-7(La),hasSpaceGroup,P21
-JXNU-7(Nd),hasSpaceGroup,P21
-JXNU-7(Sm),hasSpaceGroup,P21
-JXNU-7(Eu),hasSpaceGroup,P21
-"catena-[bis(μ2-2-thiobarbiturato-O,O')-(μ2-acetato-,O,O')-diaqua-neodymium(iii) dihydrate]",hasSpaceGroup,P21/n
-NENU-505,hasSpaceGroup,C2/c
-MOF-5,hasSpaceGroup,Fm-3m
-ZnGlyPyr-Desolvated (from Benzene),hasSpaceGroup,R3c
-ZnGlyPyr-Desolvated (from Acetone),hasSpaceGroup,R3c
-ZnAlaPyr-CO2 (low loading),hasSpaceGroup,R3
-ZnAlaPyr-Desolvated,hasSpaceGroup,R3
-ZnAlaPyr-Diethylformamide,hasSpaceGroup,R3
-ZnAlaPyr-p-Xylene,hasSpaceGroup,R3
-ZnAlaPyr-Desolvated (CO2 removed),hasSpaceGroup,R3
-ZnAlaPyr-Trifluoroethanol,hasSpaceGroup,R3
-ZnGlyPyr-CO2(high loading),hasSpaceGroup,R3c
-PCN-991,hasSpaceGroup,R-3
-MET-6,hasSpaceGroup,Fd-3m
-MET-4,hasSpaceGroup,Fd-3m
-MET-1,hasSpaceGroup,Fd-3m
-"catena-[(μ4-Benzene-1,4-dicarboxylato-O,O',O'',O''')-bis(μ2-2-oxidopyridinium-3-carboxylato-O,O,O',O'')-(μ2-benzene-1,4-dicarboxylato-O,O',O'',O''')-diaqua-di-neodymium(iii) tetrahydrate]",hasSpaceGroup,P21/c
-MCF-27,hasSpaceGroup,P41212
-MCF-27,hasSpaceGroup,P43212
-CPF-3,hasSpaceGroup,R-3c
-NKU-106,hasSpaceGroup,P21
-NKU-107,hasSpaceGroup,P-1
-NKU-108,hasSpaceGroup,R-3
-JUMP-1,hasSpaceGroup,Cmca
-CPM-26-Zn,hasSpaceGroup,I-4
-UTSA-61,hasSpaceGroup,I4/mmm
-NENU-601,hasSpaceGroup,Ibam
-MIL-96(Al)-HR,hasSpaceGroup,P63/mmc
-CPM-326-Trip,hasSpaceGroup,C2
-CPM-326-Phen,hasSpaceGroup,C2
-CPM-325-Phez,hasSpaceGroup,P1
-"catena-[tris(μ-bis(4-(4-carboxylatophenyl)-1H-3,5-dimethylpyrazolyl)methane)-aqua-tricarbonyl-tetra-manganese bromide ethanol solvate]",hasSpaceGroup,P21/m
-"catena-[tris(μ-bis(4-(4-carboxylatophenyl)-1H-3,5-dimethylpyrazolyl)methane)-azido-tricarbonyl-tetra-manganese toluene solvate]",hasSpaceGroup,P21/m
-C2H2@NKMOF-1-Cu,hasSpaceGroup,P-1
-ZJU-13,hasSpaceGroup,R-3m
-CPM-301,hasSpaceGroup,R3
-CPM-300,hasSpaceGroup,P63
-SXNU-J2,hasSpaceGroup,C2/c
-UNM-1,hasSpaceGroup,I-4
-JLNU-4,hasSpaceGroup,P21/c
-TMOF-4,hasSpaceGroup,R-3c
-UiO-67,hasSpaceGroup,Fm-3m
-UiO-67,hasSpaceGroup,Fm-3m
-UiO-67,hasSpaceGroup,Fm-3m
-UiO-67,hasSpaceGroup,Fm-3m
-UiO-67,hasSpaceGroup,Fm-3m
-UiO-67,hasSpaceGroup,Fm-3m
-UiO-67,hasSpaceGroup,Fm-3m
-UiO-67,hasSpaceGroup,Fm-3m
-UiO-67,hasSpaceGroup,Fm-3m
-UiO67,hasSpaceGroup,Fm-3m
-CPO-27-Zn,hasSpaceGroup,R-3
-CPM-519-RHO,hasSpaceGroup,Im-3m
-CPM-521-ABW,hasSpaceGroup,Pnma
-CPM-520-GIS,hasSpaceGroup,I41/amd
-SNNU-5-Al,hasSpaceGroup,R-3c
-SNNU-5-Ga,hasSpaceGroup,R-3c
-SNNU-5-In,hasSpaceGroup,R-3c
-Th6-Me2BPDC-8b,hasSpaceGroup,P42/mmc
-U6-Me2BPDC-8-H2O-1d,hasSpaceGroup,P42/mmc
-TMU-60,hasSpaceGroup,Ibca
-MUF-17,hasSpaceGroup,C2/c
-SIFSIX-3-Cu,hasSpaceGroup,P4/mmm
-PCN-416,hasSpaceGroup,I-42m
-"catena-[(μ4-Oxalato-O,O,O',O'',O'',O''')-tetrakis(μ3-3-pyridinecarboxylato-N,O,O')-(μ2-oxalato-O,O',O'',O''')-di-copper(i)-di-gadolinium(iii) tetrahydrate]",hasSpaceGroup,P21/c
-CPO-27-Fe methanol solvate,hasSpaceGroup,R-3
-CPO-27-Fe,hasSpaceGroup,R-3
-INT-IRMOF-8-C,hasSpaceGroup,P-1
-INT-IRMOF-8-B,hasSpaceGroup,P-1
-UTSA-60,hasSpaceGroup,Imma
-InPCF-1,hasSpaceGroup,P4/mnc
-"catena-[bis(μ-4,5,6-trihydroxytetrahydro-2H-pyran-3-olato)-calcium methanol solvate dihydrate]",hasSpaceGroup,P43212
-"catena-[(μ4-4,4'-Oxydibenzene-1,2-dicarboxylato-O,O',O'',O''')-bis(4,4'-bipyridine-N,N')-di-copper(ii)]",hasSpaceGroup,Fdd2
-STA-12(Cd),hasSpaceGroup,R-3
-TMU-56,hasSpaceGroup,P21/c
-HKUST-1 0.56(dideuteroacetylene),hasSpaceGroup,Fm-3m
-VNU-1-Zr,hasSpaceGroup,Fd-3m
-Cd-MOF2,hasSpaceGroup,P-1
-Cd-MOF8,hasSpaceGroup,P-1
-Tb@MOF,hasSpaceGroup,P-1
-Cd-MOF1,hasSpaceGroup,P-1
-Cd-MOF4,hasSpaceGroup,P-1
-DUT-10(Zn),hasSpaceGroup,Imma
-DUT-11,hasSpaceGroup,Cccm
-DUT-10(Co),hasSpaceGroup,Imma
-DUT-10(Cu),hasSpaceGroup,Imma
-DUT-12(Cu),hasSpaceGroup,P4/mnc
-TMU-11,hasSpaceGroup,C2/c
-FJU-53-Br,hasSpaceGroup,Imma
-FJU-53-Br,hasSpaceGroup,Imma
-FJU-53-Br,hasSpaceGroup,Imma
-FJU-53-Br,hasSpaceGroup,Imma
-MFM-300(V(iii))-CO2,hasSpaceGroup,I4122
-Im-MOF-2,hasSpaceGroup,P21/n
-FJI-4,hasSpaceGroup,I23
-FJI-5,hasSpaceGroup,I4cm
-MIL-47 styrene high loading,hasSpaceGroup,Pn21a
-VNU-18,hasSpaceGroup,P21/m
-MOF-1201,hasSpaceGroup,P21
-PTC-106,hasSpaceGroup,P213
-catena-((μ4-letrozole)-copper(i) tetrafluoroborate chloroform solvate),hasSpaceGroup,Pbca
-DUT-67,hasSpaceGroup,Fm-3m
-DUT-67,hasSpaceGroup,Fm-3m
-NUM-1,hasSpaceGroup,C2/c
-FJI-C5,hasSpaceGroup,Pnnm
-FJI-C3,hasSpaceGroup,P21/n
-MCIF-2,hasSpaceGroup,Pnna
-Co-PMOF,hasSpaceGroup,Fmmm
-CZJ-1-a,hasSpaceGroup,C2/m
-TJT-100,hasSpaceGroup,Pbca
-AHU-TW2,hasSpaceGroup,Fdd2
-MIL-59,hasSpaceGroup,Pa-3
-"catena-[(μ4-Oxalato-O,O,O',O'',O'',O''')-tetrakis(μ3-3-pyridinecarboxylato-N,O,O')-(μ2-oxalato-O,O',O'',O''')-di-copper(i)-di-lanthanum(iii) dihydrate]",hasSpaceGroup,P21/c
-BUT-302,hasSpaceGroup,P3221
-JLU-Liu3,hasSpaceGroup,C2221
-InOF-4,hasSpaceGroup,P-42c
-TMU-8,hasSpaceGroup,P-1
-"catena-(bis(μ2-4,4'-bipyridine)-bis(μ2-thiosulfato)-tetraaqua-di-cadmium tetrahydrate)",hasSpaceGroup,P21/n
-PCN-250,hasSpaceGroup,P-43n
-PCN-250,hasSpaceGroup,P-43n
-PFC-17,hasSpaceGroup,I4/m
-I2@MFM-300-V(IV),hasSpaceGroup,I4122
-DUT-71,hasSpaceGroup,P4/mnc
-DUT-73b,hasSpaceGroup,Pccn
-UNM-2,hasSpaceGroup,C2/c
-UNM-4,hasSpaceGroup,I2/a
-UNM-5,hasSpaceGroup,I2/a
-α-PCMOF21-Br,hasSpaceGroup,P-1
-"catena-(bis(μ-2,4,6-tris(4-pyridyl)-1,3,5-triazine)-hexachloro-tri-zinc hemkis(6-{[5-(2,5-dimethylphenoxy)-2,2-dimethylpentanoyl]oxy}-3,4,5-trihydroxyoxane-2-carboxylic acid) cyclohexane solvate)",hasSpaceGroup,C2/c
-MIL-53-muc,hasSpaceGroup,C2/m
-PCN-427,hasSpaceGroup,P42/mnm
-UPC-5,hasSpaceGroup,P-1
-JLU-Liu7,hasSpaceGroup,Cmmm
-CD-MOF-4,hasSpaceGroup,I4
-JLU-Liu37,hasSpaceGroup,Pnma
-JLU-Liu38,hasSpaceGroup,Pnma
-NTU-26,hasSpaceGroup,P-1
-MIL-88D,hasSpaceGroup,P-62c
-catena-[hexakis(μ-D-penicilliamine)-tetraaqua-di-cobalt(iii)-tri-copper(i)-tri-sodium(i) ethanol solvate pentahydrate],hasSpaceGroup,C2
-VPI-100(Ni),hasSpaceGroup,I4/m
-VPI-100(Cu),hasSpaceGroup,I4/m
-ZIF-65 methanol solvate,hasSpaceGroup,I-43m
-ZIF-65 methanol solvate,hasSpaceGroup,I-43m
-ZIF-65 methanol solvate,hasSpaceGroup,I-43m
-ZIF-65 methanol solvate,hasSpaceGroup,I-43m
-ZIF-65 methanol solvate,hasSpaceGroup,I-43m
-ZIF-65 methanol solvate,hasSpaceGroup,I-43m
-ZIF-65 methanol solvate,hasSpaceGroup,I-43m
-ZIF-65 methanol solvate,hasSpaceGroup,I-43m
-ZIF-65 methanol solvate,hasSpaceGroup,I-43m
-FJU-16,hasSpaceGroup,Pcca
-FJU-17,hasSpaceGroup,C2/c
-CALF-25,hasSpaceGroup,C2/c
-PCN-58,hasSpaceGroup,Fm-3m
-MFM-300(Al)(NO2)2(N2O4)2,hasSpaceGroup,I4122
-"catena-((μ4-3,3',5,5'-Tetramethyl-4,4'-bipyrazolato)-di-silver(i))",hasSpaceGroup,I-43d
-SCU-16,hasSpaceGroup,P21/c
-BUT-29,hasSpaceGroup,C2/c
-CPM-311-RR,hasSpaceGroup,P6122
-MFM-127,hasSpaceGroup,R-3c
-MFM-127 1.2 CO2,hasSpaceGroup,R-3c
-MFM-127,hasSpaceGroup,R-3c
-FJI-Y9,hasSpaceGroup,Pca21
-VNU-21,hasSpaceGroup,Pbcn
-MAC-6-Co2,hasSpaceGroup,C2/m
-PMOF-4,hasSpaceGroup,Pm-3m
-QUST-81,hasSpaceGroup,Fm-3m
-CAU-16,hasSpaceGroup,C2/c
-JUC-124,hasSpaceGroup,R-3
-HPU-12,hasSpaceGroup,P-1
-UoC-1,hasSpaceGroup,R-3
-UoC-2,hasSpaceGroup,P-1
-MAF-X5,hasSpaceGroup,R-3c
-reo-MOF-1,hasSpaceGroup,Pm-3
-pentaMOF-2,hasSpaceGroup,C2/c
-NAT-MOF-2,hasSpaceGroup,P21/c
-TMU-21,hasSpaceGroup,C2/c
-PCN-21,hasSpaceGroup,Im-3m
-ZJNU-10,hasSpaceGroup,Cmmm
-bio-MOF-11,hasSpaceGroup,I41/a
-NUIG1,hasSpaceGroup,C2/c
-PCN-226(Cu),hasSpaceGroup,Ibam
-PCN-226(Co),hasSpaceGroup,Ibam
-MAF-49 hemihydrate,hasSpaceGroup,P3121
-MAF-49,hasSpaceGroup,P3121
-MAF-49 ethane,hasSpaceGroup,P3121
-MAF-49 ethene,hasSpaceGroup,P3121
-MAF-49 (carbon dioxide),hasSpaceGroup,P3121
-CPL-1 bis(dioxygen),hasSpaceGroup,P21/c
-UPJS-6,hasSpaceGroup,Pca21
-UPJS-9,hasSpaceGroup,C2/c
-H2O@MIL-161,hasSpaceGroup,I-42d
-DMF@MIL-161,hasSpaceGroup,I-42d
-MAF-23-C4H6,hasSpaceGroup,P21/n
-MAF-23-n-C4H8,hasSpaceGroup,P21/n
-MAF-23-C4H10,hasSpaceGroup,P21/n
-MAF-23-i-C4H8,hasSpaceGroup,P21/n
-NNU-15(Ce),hasSpaceGroup,P-1
-NNU-15(Dy),hasSpaceGroup,P-1
-NNU-15(Tb),hasSpaceGroup,P-1
-MFM-300(Fe),hasSpaceGroup,I4122
-JUC-199a,hasSpaceGroup,P21/c
-CAU-8,hasSpaceGroup,I41/a
-catena-(bis(μ4-hexakis(4-cyanophenyl)[3]radialene)-di-copper(i) bis(hexafluorophosphate) nitromethane solvate),hasSpaceGroup,Pbca
-catena-(bis(μ4-hexakis(4-cyanophenyl)[3]radialene)-di-copper(i) bis(tetrafluoroborate) nitromethane solvate),hasSpaceGroup,Pbca
-catena-(bis(μ6-hexakis(4-cyanophenyl)[3]radialene)-hexa-silver(i) hexaperchlorate nitromethane solvate),hasSpaceGroup,Pnna
-VNU-20,hasSpaceGroup,P21/c
-JUC-99,hasSpaceGroup,Cccm
-IFMC-16,hasSpaceGroup,P41
-JLU-MOF52,hasSpaceGroup,Fddd
-ZJNU-87,hasSpaceGroup,P63/mmc
-Cd-TTPBA-4,hasSpaceGroup,Pnma
-IMP-23,hasSpaceGroup,I41/a
-WUF-16,hasSpaceGroup,Cc
-LIFM-100-pentanol,hasSpaceGroup,P21/c
-LIFM-100,hasSpaceGroup,P21/c
-"catena-[(μ-5,5-(4,5-bis(4-(tetrazolato-5-yl)phenyl)-[1,1:2,1-terphenyl]-4,4-diyl)bis(tetrazolato))-tetra-copper(i)]",hasSpaceGroup,P-1
-DUT-67_D2O_loading1,hasSpaceGroup,Fm-3m
-DUT-67_D2O_loading2,hasSpaceGroup,Fm-3m
-DUT-67-loading3,hasSpaceGroup,Fm-3m
-CAU-23,hasSpaceGroup,P21212
-HBU-18,hasSpaceGroup,I41/amd
-POST-66(Y),hasSpaceGroup,Fm-3c
-ZnBTCA-T,hasSpaceGroup,P-1
-CAU-21,hasSpaceGroup,I422
-ZU-36-Ni,hasSpaceGroup,P4/mmm
+,SubjectEntity,Relation,ObjectEntity
+0,MROF-1,hasSpaceGroup,P6/mcc
+1,MOF-CJ3,hasSpaceGroup,I4cm
+2,"catena-(octakis(μ6-4,4',4''-s-Triazine-2,4,6-triyltribenzoato)-dodeca-aqua-dodeca-copper dimethylsulfoxide solvate hydrate)|PCN-6|Teaching Subset: MOFs",hasSpaceGroup,R-3m
+3,Spirof-MOF,hasSpaceGroup,Cccm
+4,NJU-Bai9,hasSpaceGroup,Fd-3c
+5,MOF-1,hasSpaceGroup,Pn-3
+6,MOF-2,hasSpaceGroup,Im-3m
+7,TCM-9-Ho,hasSpaceGroup,Ima2
+8,"catena-[bis(μ4-(2RS,3RS)-2,3-Dihydroxybutanedioato-O,O',O'',O''',O'''',O''''')-(μ2-oxalato-O,O',O'',O''')-diaqua-di-lanthanum(iii) tetrahydrate]",hasSpaceGroup,P21/c
+9,"catena-[(μ8-4,4'-(Hexafluoroisopropylidene)diphthalato)-aqua-di-cadmium(ii) hemihydrate]",hasSpaceGroup,R-3
+10,"catena-[bis(μ4-Hydrogen zoledronato)-bis(μ2-1,2-bis(4-pyridyl)ethene)-tri-nickel unknown solvate tetrahydrate]",hasSpaceGroup,P-1
+11,SNU-50,hasSpaceGroup,R-3m
+12,URMOF-4,hasSpaceGroup,P3121
+13,URMOF-1,hasSpaceGroup,I4/m
+14,URMOF-2,hasSpaceGroup,I4/m
+15,UMCM-151,hasSpaceGroup,Immm
+16,UMCM-152,hasSpaceGroup,R3m
+17,UMCM-153,hasSpaceGroup,Fddd
+18,UMCM-154,hasSpaceGroup,C2/c
+19,NTU-5,hasSpaceGroup,C2/c
+20,NTU-6,hasSpaceGroup,C2/c
+21,NTU-7,hasSpaceGroup,C2/c
+22,NTU-8,hasSpaceGroup,C2/c
+23,NTU-9,hasSpaceGroup,C2/c
+24,NTU-10,hasSpaceGroup,I2/a
+25,BIF-80,hasSpaceGroup,P-1
+26,BUT-21,hasSpaceGroup,P212121
+27,DUT-63,hasSpaceGroup,F432
+28,DUT-64,hasSpaceGroup,Pm-3n
+29,DUT-77,hasSpaceGroup,Pm-3n
+30,JUC-199,hasSpaceGroup,P21/c
+31,MOF-76(Ho),hasSpaceGroup,P43
+32,MOF-76(Tm),hasSpaceGroup,P4122
+33,FJI-H12,hasSpaceGroup,I41/a
+34,TMU-22,hasSpaceGroup,P21/n
+35,TMU-23,hasSpaceGroup,P21/c
+36,CALF-33-Et2H,hasSpaceGroup,P-1
+37,DUT-28(LT),hasSpaceGroup,C2/c
+38,ZJU-199,hasSpaceGroup,R-3c
+39,"catena-((μ3-Pyridine-4-carboxylato-O,O',N)-(μ2-pyridine-4-carboxylato-O,N)-copper(ii) dihydrate clathrate)",hasSpaceGroup,Cc
+40,"catena-[bis((μ-hydroxo)-(μ-4,4'-[1,3-phenylenebis(methylene)]bis(4H-1,2,4-triazole))-(μ-2,2'-(1,4-phenylene)diacetato)-di-copper) dichromate hexahydrate]",hasSpaceGroup,P21/c
+41,SZ-2,hasSpaceGroup,I4/m
+42,SZ-3,hasSpaceGroup,P21/n
+43,UTSA-222,hasSpaceGroup,R32
+44,SNNU-61,hasSpaceGroup,P-43n
+45,NNU-36,hasSpaceGroup,P21/c
+46,"catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diazanidediyl]dipropanoato)--(μ-aqua)-bis(μ-hydroxy)-calcium(ii)-hexa-copper(ii) hydrate]",hasSpaceGroup,P63
+47,FJU-40-H,hasSpaceGroup,Pnma
+48,UCY-11,hasSpaceGroup,C2/c
+49,UCY-10,hasSpaceGroup,C2/c
+50,UCY-8,hasSpaceGroup,C2/c
+51,UCY-6,hasSpaceGroup,C2/c
+52,UCY-5,hasSpaceGroup,C2/c
+53,UCY-4,hasSpaceGroup,C2/c
+54,FJI-H17,hasSpaceGroup,C2/c
+55,FJI-H18,hasSpaceGroup,P-1
+56,bio-MOF-12,hasSpaceGroup,I41/a
+57,UTSA-62,hasSpaceGroup,P-62c
+58,FJI-H15,hasSpaceGroup,F432
+59,MOZIF-1,hasSpaceGroup,I-42m
+60,UPC-35,hasSpaceGroup,I4/m
+61,UTSA-28-Cu,hasSpaceGroup,Pn-3n
+62,UTSA-28-Zn,hasSpaceGroup,Pn-3n
+63,Cu-PCN-224,hasSpaceGroup,Im-3m
+64,MMPF-9,hasSpaceGroup,P63/mmc
+65,HV-MOF-1,hasSpaceGroup,P-1
+66,"catena-(tris(μ2-Quinato-O,O',O')-triaqua-aluminium(iii)-potassium hydroxide monohydrate)",hasSpaceGroup,P213
+67,FIR-54,hasSpaceGroup,Pnna
+68,"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecakis(methanol)-dodeca-cadmium(ii) hexahydrate)",hasSpaceGroup,Fm-3c
+69,"catena-(Lead(ii) tetrakis(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecaaqua-dodeca-lead(ii) hexahydrate)",hasSpaceGroup,Fm-3c
+70,"catena-(Sesqui-lead(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodeca-lead(ii) hexahydrate)",hasSpaceGroup,Fm-3c
+71,"catena-(octakis(μ6-5,5,10,10,15,15-Hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-hydroxo)-dodecakis(methanol)-dodeca-dysprosium(iii) nonanitrate methanol solvate monohydrate)",hasSpaceGroup,Fm-3c
+72,"catena-(Di-cadmium(ii) bis(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecakis(methanol)-dodeca-cadmium(ii) tetrahydrate)",hasSpaceGroup,Fm-3c
+73,"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecaaqua-dodeca-cadmium(ii) hexahydrate)",hasSpaceGroup,Fm-3c
+74,"catena-(Sesqui-cadmium(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodeca-cadmium(ii) hexahydrate)",hasSpaceGroup,Fm-3c
+77,"catena-(Sesqui-lead(ii) tris(oxonium) octakis(μ6-5,5,10,10,15,15-hexaethyltruxene-2,7,12-tricarboxylato)-tris(μ4-oxo)-dodecaaqua-dodeca-lead(ii) hexahydrate)",hasSpaceGroup,Fm-3c
+78,UiO-66(Ce)-Fumarate,hasSpaceGroup,Pn3
+79,MIL-120,hasSpaceGroup,C2/m
+80,CPL-2,hasSpaceGroup,P21/c
+104,CPO-54-Mn,hasSpaceGroup,R-3
+106,UTSA-38,hasSpaceGroup,P-1
+107,IMP-14,hasSpaceGroup,P21/c
+108,SION-1@H2O,hasSpaceGroup,P21/n
+109,FIR-1,hasSpaceGroup,Pcca
+110,CAU-3-BDC,hasSpaceGroup,R-3m
+111,DUT-42,hasSpaceGroup,P6522
+112,MET-5,hasSpaceGroup,Fd-3m
+113,CPM-132,hasSpaceGroup,I4/m
+114,CPM-133,hasSpaceGroup,R-3
+115,she-MOF-1,hasSpaceGroup,Im-3m
+116,she-MOF-2,hasSpaceGroup,Im-3m
+117,she-MOF-3,hasSpaceGroup,Im-3m
+118,AITCS-2,hasSpaceGroup,P3121
+119,FIR-5,hasSpaceGroup,P-1
+120,FIR-4,hasSpaceGroup,Pna21
+121,"catena-((μ4-Pentaerythritol tetrakis(4-pyridinecarboxylate)-N,N',N'',N''')-bis(isothiocyanato)-cobalt)",hasSpaceGroup,P42/n
+122,NTOU-2,hasSpaceGroup,Iba2
+123,NTOU-3,hasSpaceGroup,Pccn
+124,FIR-47,hasSpaceGroup,P21/c
+125,"catena-[hexakis(diethylammonium)  nile blue A octakis(μ-1,3,5-benzenetribenzoato)-hexa-indium(iii) unknown solvate]",hasSpaceGroup,R-3
+126,NOF-1,hasSpaceGroup,I-43m
+127,"catena-[tris(μ-5-(4-pyridin-3-yl-benzoylamino)-isophthalato)-tris(aqua)-di-lanthanum(iii) N,N-dimethylformamide solvate trihydrate]",hasSpaceGroup,P-1
+128,"catena-[tris(μ-5-(4-pyridin-3-yl-benzoylamino)-isophthalato)-tris(aqua)-di-neodymium(iii) N,N-dimethylformamide solvate trihydrate]",hasSpaceGroup,P-1
+129,"catena-[tris(μ-5-(4-pyridin-3-yl-benzoylamino)-isophthalato)-tris(aqua)-di-samarium(iii) N,N-dimethylformamide solvate trihydrate]",hasSpaceGroup,P-1
+130,PCM-4,hasSpaceGroup,Pa-3
+131,HENU-1,hasSpaceGroup,P-1
+132,LMOF-202,hasSpaceGroup,C2/c
+134,CPO-27-Cu,hasSpaceGroup,R-3
+137,CPO-27-Mn,hasSpaceGroup,R-3
+140,MMPF-7,hasSpaceGroup,C2/c
+141,MMPF-8,hasSpaceGroup,Cc
+142,JLU-Liu10,hasSpaceGroup,Pa-3
+143,JLU-Liu8,hasSpaceGroup,R3c
+144,"catena-(bis(μ3-4,4'-Biphenyldicarboxylato-O,O',O'')-(μ2-1,2-bipyridylethene)-di-zinc(ii) bis(dimethylformamide) clathrate)|catena-(bis(μ3-Biphenyl-4,4'-dicarboxylato)-(μ2-1,2-bis(4-pyridyl)ethene)-di-zinc dimethylformamide clathrate)",hasSpaceGroup,C2/c
+145,MAF-42,hasSpaceGroup,C2/c
+146,Medi-MOF-1,hasSpaceGroup,P3221
+147,ZJNU-17,hasSpaceGroup,P61
+148,"catena-[dodecakis(μ-cyano)-tris(μ-tris(isonicotinoyl)cyclotriguaiacyclene)-octa-copper(i)-tri-copper(ii) bis(cyanide) N,N-dimethylformamide solvate]",hasSpaceGroup,R-3
+149,FJU-6,hasSpaceGroup,P-4n2
+150,FJU-6-PTB,hasSpaceGroup,P-4n2
+151,FJU-6-Me-INA,hasSpaceGroup,P-4n2
+152,FJU-6-TATB,hasSpaceGroup,P-4n2
+153,FJU-6-Ni,hasSpaceGroup,P-4n2
+154,CTH-6,hasSpaceGroup,P21/n
+155,TMU-10,hasSpaceGroup,C2/c
+156,TMU-12,hasSpaceGroup,P21/c
+157,Teaching Subset: MOFs,hasSpaceGroup,Pnna
+158,"catena-[bis(Oxonium) (μ-3,3 ,5,5 -azobenzentetracarboxylato)-bis(1,3-dimethylimidazolidin-2-one)-magnesium]",hasSpaceGroup,C2/c
+159,FIR-35,hasSpaceGroup,P-1
+160,CPM-143,hasSpaceGroup,P63/mmc
+161,CPM-153,hasSpaceGroup,P63/mmc
+162,FJI-8,hasSpaceGroup,R-3
+163,CAU-8-ODB,hasSpaceGroup,I41/a
+164,CAU-21-BPDC,hasSpaceGroup,I422
+165,BIF-22,hasSpaceGroup,I222
+166,BIF-23,hasSpaceGroup,P21/c
+167,ZJU-136-Tb,hasSpaceGroup,P-1
+168,NBU-18,hasSpaceGroup,C2/c
+169,AuCl-PCM-101,hasSpaceGroup,Pnnm
+170,JCM-1,hasSpaceGroup,I41/amd
+171,MOF-818,hasSpaceGroup,Fd-3m
+172,SNU-151,hasSpaceGroup,P-1
+173,SNU-150',hasSpaceGroup,Pa-3
+174,"catena-[bis(μ-2,4,6-tri(pyridin-4-yl)-1,3,5-triazine)-hexachloro-tri-zinc tetrakis(piperonyl methyl ketone)]",hasSpaceGroup,C2/c
+175,MFM-305-CH3.0.71CO2,hasSpaceGroup,I41/amd
+176,FJI-H21,hasSpaceGroup,Pnna
+177,"catena-[(μ4-Oxalato-O,O,O',O'',O'',O''')-tetrakis(μ3-3-pyridinecarboxylato-N,O,O')-(μ2-oxalato-O,O',O'',O''')-di-copper(i)-di-europium(iii) tetrahydrate]",hasSpaceGroup,P21/c
+178,"catena-[(μ-2,8,14,20-tetramethyl-4,6,10,12,16,18,22,24-octakis(carboxylatomethoxy)calix(4)arene)-octaaqua-bis(N,N-dimethylformamide)-tetra-cobalt pentahydrate]",hasSpaceGroup,P3121
+179,"catena-[(μ-2,8,14,20-tetramethyl-4,6,10,12,16,18,22,24-octakis(carboxylatomethoxy)calix(4)arene)-octaaqua-bis(N,N-dimethylformamide)-tetra-nickel hexahydrate]",hasSpaceGroup,P3121
+180,"catena-[dimethylammonium (μ-2,8,14,20-tetramethyl-4,6,10,12,16,18,22-heptakis(carboxylatomethoxy)-24-(carboxymethoxy)calix(4)arene)-hexaaqua-(N,N-dimethylformamide)-tri-manganese octahydrate]",hasSpaceGroup,P-1
+181,CPM-107as,hasSpaceGroup,P212121
+182,ZJU-70,hasSpaceGroup,Cmc21
+183,HKUST-1,hasSpaceGroup,Fm-3m
+184,MIL-53(Al)-FA|BasoliteA520,hasSpaceGroup,P21/c
+185,AUBM-3(La),hasSpaceGroup,P-1
+186,FJU-12,hasSpaceGroup,Cccm
+187,JUC-135,hasSpaceGroup,R3c
+188,LCU-107,hasSpaceGroup,P21/c
+189,FJI-H26,hasSpaceGroup,P6222
+190,the activated NJU-Bai62,hasSpaceGroup,Cc
+191,NJU-Bai62,hasSpaceGroup,P1
+192,NJU-Bai63,hasSpaceGroup,P21/c
+193,SU-101,hasSpaceGroup,P42/n
+194,UWDM-1(22),hasSpaceGroup,R3
+195,"catena-(diaqua-bis(μ6-s-heptazine-2,5,8-tris(4-benzoato))-tri-zinc N,N-dimethylformamide solvate pentahydrate)",hasSpaceGroup,P4332
+196,Teaching Subset: MOFs,hasSpaceGroup,Fm-3m
+197,"catena-(octakis(μ4-Benzene-1,4-dicarboxylato)-dodecakis(μ2-hydroxo)-octa-iron ibuprofen)",hasSpaceGroup,P1
+198,SNU-200,hasSpaceGroup,P-421c
+199,MIL-53as p-xylene,hasSpaceGroup,Pnma
+200,NKU-521,hasSpaceGroup,P63/m
+201,catena-[hexakis(dimethylammonium) tris(μ-meso-tetra(4-carboxylatophenyl)porphyrinato)-bis(aqua)-bis(μ-adenine)-bis(μ-oxido)-nona-zinc(ii) unknown solvate],hasSpaceGroup,P-1
+202,"catena-[tetrakis(dimethylammonium) tris(μ-meso-tetra(4-carboxylatophenyl)porphyrinato)-dodecakis(μ-2H-1,2,3-triazolyl)-dodecakis(aqua)-trideca-zinc(ii) unknown solvate]",hasSpaceGroup,P-1
+203,DUT-13,hasSpaceGroup,R-3c
+204,ZJU-68,hasSpaceGroup,P-3
+205,SLUG-23,hasSpaceGroup,P-1
+206,NJU-Bai20,hasSpaceGroup,Im-3m
+207,SIFSIX-1-Cu-C2D2,hasSpaceGroup,P4/mcc
+208,SCIF-9,hasSpaceGroup,Pbca
+209,GaMOF-1,hasSpaceGroup,I-43d
+210,BUT-20,hasSpaceGroup,R3m
+211,TMOF-2a,hasSpaceGroup,P21/c
+212,PCM-11,hasSpaceGroup,P21/c
+213,MAF-X27-Cl,hasSpaceGroup,R-3m
+214,ROD-1,hasSpaceGroup,I41/a
+215,np-CFA-9,hasSpaceGroup,P21212
+216,NOTT-400,hasSpaceGroup,I4122
+217,TMOF-1,hasSpaceGroup,C2
+218,WUF-1,hasSpaceGroup,C2/m
+219,"catena-[(μ5-5-(Pyridin-3-ylethynyl)benzene-1,3-dicarboxylato-N,O,O',O'',O''')-copper(ii) dimethylformamide solvate hydrate]",hasSpaceGroup,R-3c
+220,"catena-[(μ5-5-(Pyridin-3-ylethynyl)benzene-1,3-dicarboxylato-N,O,O',O'',O''')-copper(ii)]",hasSpaceGroup,R-3c
+221,catena-[(μ-tetrakis(4-cyanophenyl)adamantane)-silver tetrafluoroborate nitromethane solvate],hasSpaceGroup,P65
+222,catena-[(μ-tetrakis(4-cyanophenyl)adamantane)-silver trifluoroacetate nitromethane solvate],hasSpaceGroup,P61
+223,catena-[(μ-tetrakis(4-cyanophenyl)adamantane)-silver tetrafluoroborate nitromethane solvate],hasSpaceGroup,P21
+224,MFM-188a desolvated,hasSpaceGroup,P4/mnc
+225,MFM-188,hasSpaceGroup,P4/mnc
+228,"catena-[(μ5-5-Aminoisophthalato)-(μ2-5-aminoisophthalato)-(2,2'-bipyridine)-di-cobalt(ii) dihydrate]",hasSpaceGroup,P21/c
+229,MFM-300V(iii),hasSpaceGroup,I4122
+231,MFM-300V(iv),hasSpaceGroup,I4122
+232,FJI-C4,hasSpaceGroup,Pbcn
+233,"catena-[bis(μ4-5-Hydroxyisophthalato-O,O,O',O'',O'',O''')-(μ4-5-hydroxyisophthalato-O,O',O'',O''')-diaqua-di-praseodymium(iii)]",hasSpaceGroup,I41
+234,MIL-88,hasSpaceGroup,P-62c
+235,DMOF-1,hasSpaceGroup,C2/c
+236,DMOF-2,hasSpaceGroup,C2/c
+237,DMOF-3,hasSpaceGroup,P-1
+238,DMOF-4,hasSpaceGroup,C2/c
+239,DMOF-5,hasSpaceGroup,C2/c
+240,DMOF-6,hasSpaceGroup,C2/c
+241,DMOF-9,hasSpaceGroup,C2/c
+242,DMOF-11,hasSpaceGroup,C2/c
+243,CMOF-2,hasSpaceGroup,I4122
+244,Mn-ZIF-8,hasSpaceGroup,I-43m
+245,catena-[tetrakis(μ-isonicotinato)-di-manganese(ii) methanol solvate],hasSpaceGroup,P21/c
+246,catena-[(μ-hydrogen gallato)-iron(ii) hydrate],hasSpaceGroup,P3121
+247,catena-[tris(μ-gallato)-tri-iron(iii) hydrate],hasSpaceGroup,P32
+248,catena-[(μ-gallato)-bis(μ-hydrogen gallato)-tri-iron hydrate],hasSpaceGroup,P32
+249,GWMOF-3,hasSpaceGroup,P-1
+250,CPM-4,hasSpaceGroup,P-62c
+251,CPM-30,hasSpaceGroup,P-31c
+252,CPM-31,hasSpaceGroup,P-31c
+253,"catena-[(μ4-Carnosinato)-zinc(ii) N,N-dimethylformamide solvate]",hasSpaceGroup,P21
+254,catena-[(μ4-Carnosinato)-zinc(ii)],hasSpaceGroup,P21
+255,catena-[(μ4-Carnosinato)-zinc(ii) methanol solvate],hasSpaceGroup,P21
+256,catena-[bis(μ4-Carnosinato)-di-zinc(ii) hexahydrate],hasSpaceGroup,P21
+257,HKUST-1|Teaching Subset: MOFs,hasSpaceGroup,Fm-3m
+258,PCP-2,hasSpaceGroup,P-3c1
+259,Hf-CAU-39,hasSpaceGroup,Pn-3
+260,TMU-42,hasSpaceGroup,P-1
+261,MIL-53(In)_(OH)2_lp_DMF,hasSpaceGroup,Cmca
+262,PCN-777,hasSpaceGroup,F-43m
+263,BUT-173,hasSpaceGroup,P21/n
+264,HKUST-1 (as synthesised),hasSpaceGroup,Fm-3m
+265,MFM-300(V(iii)).(NO2)1.67,hasSpaceGroup,I4122
+266,Co6-MOF-1,hasSpaceGroup,P63/mcm
+267,Ce-MIL-140-BDC,hasSpaceGroup,P-1
+268,In-MOF 1,hasSpaceGroup,Fddd
+269,FJU-66.S,hasSpaceGroup,I-4
+270,FJU-66.[EVIm]OH,hasSpaceGroup,I-4
+271,MMPF-1,hasSpaceGroup,I4/m
+272,493-MOF-BA,hasSpaceGroup,I-42d
+273,"catena-[bis(μ6-4,4'-(Hexafluoroisopropylidene)diphthalato)-(μ5-4,4'-(hexafluoroisopropylidene)diphthalato)-nona-aqua-tetra-terbium(iii) heptahydrate]",hasSpaceGroup,P-1
+274,catena-[(μ4-Mucicato)-bis(μ2-mucicato)-diaqua-di-terbium(iii) tetrahydrate],hasSpaceGroup,P-1
+275,NENU-519,hasSpaceGroup,P-4n2
+276,BUT-14,hasSpaceGroup,I41/amd
+277,BUT-15,hasSpaceGroup,I41/amd
+278,DUT-98 close pore,hasSpaceGroup,P-1
+279,NUM-3,hasSpaceGroup,R-3
+280,catena-((μ4-Gallato)-manganese(ii) dihydrate),hasSpaceGroup,P3221
+281,catena-[bis(μ4-Gallato)-di-manganese(ii) tetrahydrate],hasSpaceGroup,P3121
+282,catena-[(μ4-Gallato)-manganese(ii) dihydrate],hasSpaceGroup,P3221
+283,catena-((μ4-Gallato)-nickel(ii) dihydrate),hasSpaceGroup,P3121
+284,catena-[bis(μ4-Gallato)-di-nickel(ii) tetrahydrate],hasSpaceGroup,P3121
+285,PCM-16,hasSpaceGroup,P2/c
+286,PCN-605-H,hasSpaceGroup,Fmmm
+287,SEC-1,hasSpaceGroup,P2
+288,UPC-22,hasSpaceGroup,C2/c
+289,HPU-13,hasSpaceGroup,P-3c1
+290,YZ-7,hasSpaceGroup,C2/c
+291,YZ-8,hasSpaceGroup,P2/c
+292,FJU-36,hasSpaceGroup,Pbcn
+293,MCOF-89,hasSpaceGroup,Pm-3m
+294,UTSA-32,hasSpaceGroup,P21
+295,BUT-62Y,hasSpaceGroup,Immm
+296,BUT-62Y-H2O,hasSpaceGroup,Immm
+297,BUT-63W,hasSpaceGroup,Immm
+298,Toluene@BUT-62,hasSpaceGroup,Immm
+299,Ni-IRMOF-74-II,hasSpaceGroup,R-3
+300,Ni-IRMOF-74-III,hasSpaceGroup,R-3
+301,Ni-IRMOF-74-IV,hasSpaceGroup,R3
+302,Ni-IRMOF-74-V,hasSpaceGroup,R3
+303,BUT-62,hasSpaceGroup,Immm
+304,BIT-101,hasSpaceGroup,P213
+305,BIT-103,hasSpaceGroup,Pm-3m
+306,ZIF-65-SOD,hasSpaceGroup,I-43m
+307,ZIF-71-RHO,hasSpaceGroup,Pm-3m
+308,ZIF-74-GIS,hasSpaceGroup,I41/a
+309,catena-(tris(μ2-5-(4-pyridyl)dipyrrin)-gallium(iii)-silver(i) hexafluorophosphate acetonitrile benzene unknown solvate),hasSpaceGroup,Pbcn
+310,catena-(tris(μ2-5-(4-pyridyl)dipyrrin)-gallium(iii)-silver(i) hexafluorophosphate acetonitrile benzene solvate),hasSpaceGroup,C2/c
+311,PCN-136,hasSpaceGroup,Fd-3m
+312,"catena-[bis(μ4-3,4-Dioxocyclobut-1-ene-1,2-dithiolato-S,S,S,S',S')-bis(μ4-3,4-dioxocyclobut-1-ene-1,2-dithiolato-O,S,S,S')-tetrakis(N-methylethylenediamine-N,N')-tetra-copper(i)-di-copper(ii) dihydrate]",hasSpaceGroup,P-1
+313,RPF-4,hasSpaceGroup,Pnan
+314,NJU-Bai49,hasSpaceGroup,R-3
+315,CPM-74,hasSpaceGroup,P6122
+316,CPM-75,hasSpaceGroup,Fddd
+317,Ce-HHU-1,hasSpaceGroup,Fm-3m
+318,SCNU-1,hasSpaceGroup,Ia-3d
+319,catena-[(μ-benzenehexacarboxylato)-decaaqua-tri-barium tetrahydrate],hasSpaceGroup,I2/a
+320,Al-CAU-42,hasSpaceGroup,F23
+321,NENU-522,hasSpaceGroup,R-3
+322,BMM-12,hasSpaceGroup,Fdd2
+323,CSMCRI-5,hasSpaceGroup,P2/c
+324,TMU-71,hasSpaceGroup,C2/c
+325,MIL-118B,hasSpaceGroup,Pbam
+326,MIL-118C,hasSpaceGroup,Pnam
+327,MIL-53lt,hasSpaceGroup,C2/c
+328,MFU-5,hasSpaceGroup,P6/mcc
+329,NTOU-2S,hasSpaceGroup,Pccn
+330,MIL-60,hasSpaceGroup,P-1
+331,MCF-26,hasSpaceGroup,P6522
+332,PCN-610,hasSpaceGroup,Fm-3m
+333,"catena-[(μ4-tetrakis(Imidazol-1-yl)borate-N3,N3',N3'',N3''')-(μ2-terephthalato-O,O')-(μ2-imidazolyl-N1,N3)-di-zinc(ii) N,N'-dimethylpropyleneurea solvate]|MC-BIF-1S",hasSpaceGroup,P43212
+334,MC-BIF-3H,hasSpaceGroup,P21/c
+335,LMOF-261,hasSpaceGroup,I41/a
+336,MFM-136,hasSpaceGroup,R32
+337,"catena-[bis(μ2-2-Aminoisonicotinato-N:O,O')-cadmium(ii) unknown solvate]",hasSpaceGroup,Fddd
+338,"catena-[bis(μ2-2-Aminoisonicotinato-N:O,O')-cobalt(ii) unknown solvate]",hasSpaceGroup,Fddd
+339,CPM-500,hasSpaceGroup,P63/mmc
+340,CPM-550,hasSpaceGroup,P-62c
+341,CPM-560,hasSpaceGroup,P-62c
+342,"catena-[(μ5-5-(Isonicotinamido)isophthalato-N,O,O',O'',O''')-zinc(ii) dimethylformamide solvate]",hasSpaceGroup,P21/c
+343,JUC-188,hasSpaceGroup,P-1
+344,CPM-15-Cd,hasSpaceGroup,Fd-3m
+345,UTSA-34,hasSpaceGroup,Pnma
+346,catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasSpaceGroup,C2/c
+348,catena-[tris(μ4-Terephthalato)-di-scandium(iii)],hasSpaceGroup,Fddd
+355,FIR-45,hasSpaceGroup,C2/c
+356,MET-2,hasSpaceGroup,Fd-3m
+357,CAU-7-TATB,hasSpaceGroup,Pb21a
+358,CAU-35,hasSpaceGroup,Pna21
+359,PCN-605-H-Br,hasSpaceGroup,Fmmm
+360,PCN-605-H-Dry,hasSpaceGroup,Fmmm
+361,PCN-606-NH2 (fresh),hasSpaceGroup,Cmmm
+362,PCN-608-OH,hasSpaceGroup,P6/mmm
+363,PCN-606-OMe (fresh),hasSpaceGroup,Pbam
+364,PCN-700-Br,hasSpaceGroup,P42/mmc
+365,MUV-2,hasSpaceGroup,P-62m
+366,NTU-20,hasSpaceGroup,P43212
+367,NPF-300(Hf),hasSpaceGroup,Cmmm
+368,NPF-300,hasSpaceGroup,Cmmm
+369,NPF-300-LT,hasSpaceGroup,Cmmm
+370,HPU-3,hasSpaceGroup,Pa-3
+371,Mn-CFA-6-DMAc,hasSpaceGroup,C2/m
+372,ZJNU-81,hasSpaceGroup,Cmc21
+373,Zr-PCN-221(Cu),hasSpaceGroup,Pm-3m
+374,"catena-[tris(μ-(S,S)-serimox)-bis(μ-hydroxo)-(μ-aqua)-calcium(ii)-hexa-copper(ii) Auramine O clathrate acetonitrile solvate pentadecahydrate]",hasSpaceGroup,P63
+375,Co-CAU-36,hasSpaceGroup,P-4c2
+385,UPC-102-Zr,hasSpaceGroup,P6/mmm
+386,VNU 22,hasSpaceGroup,Pbcn
+387,UPC-99,hasSpaceGroup,Cmca
+388,ZJU-158-Tb,hasSpaceGroup,P21/c
+389,PCN-12',hasSpaceGroup,P63/mmc
+390,"catena-[bis(μ4-1,5-pentanedioato-O,O',O'',O''')-(μ2-N,N'-bis(4-pyridyl)piperazine-N,N')-di-copper(ii) tetrahydrate]",hasSpaceGroup,P21/c
+391,UWDM-3,hasSpaceGroup,C2
+392,α-IRMOF-3-AMPh,hasSpaceGroup,Pa-3
+393,BUT-2,hasSpaceGroup,Fm-3m
+394,BUT-48,hasSpaceGroup,R-3
+395,BUT-49,hasSpaceGroup,R-3
+396,ZTIF-14,hasSpaceGroup,I41/a
+397,ZTIF-15,hasSpaceGroup,I41/a
+398,JUC-65,hasSpaceGroup,Pbcn
+399,JUC-66,hasSpaceGroup,P21212
+400,JUC-67,hasSpaceGroup,Pbca
+401,JUC-70,hasSpaceGroup,P21/c
+402,"catena-((μ3-Homophthalato-O,O',O'')-(μ3-oxo)-tetramethyl-di-tin(iv) hydrate)",hasSpaceGroup,R-3
+403,rtl-MOF-2,hasSpaceGroup,P21/c
+404,"catena-[(μ4-Oxalato-O,O,O',O'',O'',O''')-tetrakis(μ3-3-pyridinecarboxylato-N,O,O')-(μ2-oxalato-O,O',O'',O''')-di-samarium(iii)-di-silver(i) tetrahydrate]",hasSpaceGroup,P21/c
+405,FJI-H8,hasSpaceGroup,P42/nnm
+406,MCF-56,hasSpaceGroup,I2/a
+407,MCF-57,hasSpaceGroup,I2/a
+408,UPC-15,hasSpaceGroup,P432
+409,CAU-46,hasSpaceGroup,C2/c
+412,SNU-81,hasSpaceGroup,C2/c
+413,SNU-82,hasSpaceGroup,C2/c
+414,SNU-84,hasSpaceGroup,C2/c
+415,SNU-85,hasSpaceGroup,C2/c
+416,SNU-86,hasSpaceGroup,C2/c
+417,SNNU-21,hasSpaceGroup,Ibca
+418,SNNU-23,hasSpaceGroup,Imma
+419,ECUT-30,hasSpaceGroup,C2/c
+420,SCIF-11,hasSpaceGroup,Pbca
+421,SCIF-12,hasSpaceGroup,Pnnn
+422,MIL-47(V),hasSpaceGroup,P1
+427,NJU-Bai7,hasSpaceGroup,P21/c
+428,NJU-Bai8,hasSpaceGroup,P21/c
+429,P11-Cu,hasSpaceGroup,P-1
+430,Hf-MOF-808 selenate unknown solvate,hasSpaceGroup,Fd-3m
+431,Hf-MOF-808 selenite unknown solvate,hasSpaceGroup,Fd-3m
+432,Zr-bcu-26ndc,hasSpaceGroup,I4/mmm
+433,Zr-bcu-tmuc,hasSpaceGroup,I4/mmm
+434,Zr-bcu-22bipy44dc,hasSpaceGroup,I4/mmm
+435,MOF-F,hasSpaceGroup,Fm-3m
+436,NU-1401-AS-DMF,hasSpaceGroup,Ibam
+437,MFU-4,hasSpaceGroup,Fm-3m
+438,MAF-6,hasSpaceGroup,Pm-3m
+439,FIR-28,hasSpaceGroup,F432
+440,JXNU-2(Sm),hasSpaceGroup,R3c
+441,JXNU-2(Eu),hasSpaceGroup,R3c
+442,JXNU-2(Pr),hasSpaceGroup,R3c
+443,catena-(tris(μ4-Mucato)-di-lanthanum(iii) octahydrate),hasSpaceGroup,P-3
+444,catena-(tris(μ4-Mucato)-di-cerium(iii) octahydrate),hasSpaceGroup,P-3
+445,catena-(tris(μ4-Mucato)-di-praseodymium(iii) octahydrate),hasSpaceGroup,P-3
+446,catena-(tris(μ4-Mucato)-di-neodymium(iii) octahydrate),hasSpaceGroup,P-3
+447,catena-((μ4-Tetramethyltetra-azacalix(4)pyrimidine)-tetrakis(μ3-bromo)-tetra-copper unknown solvate),hasSpaceGroup,I-4
+448,catena-((μ4-Tetramethyltetra-azacalix(4)pyrimidine)-tetrakis(μ3-iodo)-tetra-copper unknown solvate),hasSpaceGroup,I-4
+449,CPM-5',hasSpaceGroup,I-42m
+450,IFP-5,hasSpaceGroup,R-3
+451,PCP-31,hasSpaceGroup,R-3m
+452,PCP-32,hasSpaceGroup,Cmc21
+453,PCN-48,hasSpaceGroup,P-1
+454,PCN-49,hasSpaceGroup,P-1
+455,NOTT-212 dimethylformamide solvate tetrahydrate,hasSpaceGroup,I41/acd
+456,MIL-91(Al),hasSpaceGroup,P-1
+457,ZJU-64-CH3,hasSpaceGroup,Pban
+458,polyMOP-NH2,hasSpaceGroup,I4/mmm
+459,PCN-700-c,hasSpaceGroup,P42/ncm
+460,PCN-700-(CF3)2,hasSpaceGroup,P42/mmc
+461,PCN-700-Me4-c,hasSpaceGroup,P42/ncm
+462,"catena-[bis(μ-2,4,6-tris(pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc cis-asarone unknown solvate]",hasSpaceGroup,C2/c
+463,"catena-[bis(μ-2,4,6-tris(pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc trans-asarone unknown solvate]",hasSpaceGroup,C2/c
+464,JUC-165,hasSpaceGroup,Cmcm
+465,CPM-11,hasSpaceGroup,Pnma
+466,CPM-12,hasSpaceGroup,P-3
+467,NTU-17,hasSpaceGroup,P21/c
+468,Ce-MOF-808,hasSpaceGroup,Fd-3m
+469,Teaching Subset: MOFs,hasSpaceGroup,I-4m2
+470,SNNU-72,hasSpaceGroup,P212121
+471,SNNU-71,hasSpaceGroup,P61
+472,SNNU-74,hasSpaceGroup,R3c
+473,MIT-20,hasSpaceGroup,R-3m
+474,ST-1,hasSpaceGroup,P63
+475,ST-3,hasSpaceGroup,P-42c
+476,"catena-(tris(propane-1,2-diammonium) hexakis(μ3-hydrogen arsenato)-bis(μ3-arsenato)-tris(μ2-oxalato)-hexa-iron)",hasSpaceGroup,P-3c1
+477,V101,hasSpaceGroup,P-1
+478,MOF-CJ2,hasSpaceGroup,C2/c
+479,FJI-Y4,hasSpaceGroup,P21/c
+480,FJI-Y5,hasSpaceGroup,P21/c
+481,Mg-110,hasSpaceGroup,C2/c
+482,LIFM-13(Co),hasSpaceGroup,I41
+483,LIFM-13(Mg),hasSpaceGroup,I41/a
+484,UJN-1,hasSpaceGroup,I-43d
+485,UPG-1,hasSpaceGroup,R-3
+486,BUT-17,hasSpaceGroup,P63/mmc
+487,CCNU-11,hasSpaceGroup,P2/c
+488,LCU-105,hasSpaceGroup,P2/c
+489,CZJ-6,hasSpaceGroup,P42/mmc
+490,"catena-[oxonium [μ-tris(4-carboxylatophenyl)phosphine oxide]-europium(iii)-zinc(ii) N,N-dimethylformamide solvate sesquihydrate]",hasSpaceGroup,P-1
+491,"catena-[oxonium [μ-tris(4-carboxylatophenyl)phosphine oxide]-terbium(iii)-zinc(ii) N,N-dimethylformamide solvate hexahydrate]",hasSpaceGroup,P-1
+492,"catena-[[μ-tris(4-carboxylatophenyl)phosphine oxide]-terbium(iii) N,N-dimethylformamide solvate dihydrate]",hasSpaceGroup,P-1
+493,FJ-25,hasSpaceGroup,P6322
+494,MUF-22,hasSpaceGroup,R-3c
+495,ZIF-8 dinitrogen,hasSpaceGroup,I-43m
+496,MCF-19-Ia,hasSpaceGroup,I-43m
+497,MCF-19-IIb,hasSpaceGroup,P-43n
+498,SDU-1,hasSpaceGroup,Fm3m
+499,BIF-82,hasSpaceGroup,P21/c
+500,ZJNU-62,hasSpaceGroup,C2/c
+501,catena-(tris(μ2-5-(4-pyridyl)dipyrrin)-cobalt(iii)-silver(i) hexafluorophosphate acetonitrile benzene solvate),hasSpaceGroup,Pbcn
+502,catena-(bis(μ4-Glutarato)-(μ2-glutarato)-diaqua-di-dysprosium tetrahydrate),hasSpaceGroup,C2/c
+503,DGIST-1,hasSpaceGroup,Cmcm
+504,ZJU-30,hasSpaceGroup,I-4m2
+505,MOF-3,hasSpaceGroup,Pba2
+506,"CoMOF-1 N,N-dimethylformamide methanol solvate dihydrate",hasSpaceGroup,P2/c
+507,BMM-10,hasSpaceGroup,R-3
+508,COB-DMF,hasSpaceGroup,F2dd
+509,COB-CO222,hasSpaceGroup,C2/c
+510,COB-CO210,hasSpaceGroup,C2/c
+511,COB-CO214,hasSpaceGroup,C2/c
+512,COB-CO218,hasSpaceGroup,C2/c
+513,COB0,hasSpaceGroup,Fddd
+514,COB-CO235,hasSpaceGroup,C2/c
+515,COB-CO230,hasSpaceGroup,C2/c
+516,PCN-164-inter,hasSpaceGroup,Fd-3m
+517,NJU-Bai25,hasSpaceGroup,Imma
+518,BIF-9-Cu,hasSpaceGroup,P432
+519,Fe-MPOF,hasSpaceGroup,P2/c
+520,JUC-57,hasSpaceGroup,P21/n
+521,MIL-88B-tpt,hasSpaceGroup,P63/mmc
+524,Co-WOC-1,hasSpaceGroup,C2/c
+525,JLU-Liu4,hasSpaceGroup,P43212
+526,Liu-4_cinnamic (close pore phase),hasSpaceGroup,C2221
+527,UPC-21,hasSpaceGroup,C2/c
+528,UPC-17,hasSpaceGroup,P-1
+529,CD-MOF-3,hasSpaceGroup,I432
+530,CD-MOF-1,hasSpaceGroup,I432
+531,CD-MOF-2,hasSpaceGroup,I432
+532,CD-MOF-1,hasSpaceGroup,R32
+533,"catena-[bis(μ-tris(4-(pyridin-4-yl)phenyl)amine)-(μ-1,4-benzenedicarboxylato)-bis(μ-chloro)-di-cobalt methanol solvate]",hasSpaceGroup,P21/n
+534,"catena-[bis(μ-4-(pyridin-4-yl)-N,N-bis(4-(pyridin-4-yl)phenyl)aniline)-(μ-2,5-dimethylterephthalato)-bis(μ-chloro)-di-cobalt methanol solvate]",hasSpaceGroup,P21/n
+535,"catena-[tris(μ-tris(4-(pyridin-4-yl)phenyl)amine)-tris(μ-2,3,5,6-tetramethyl-1,4-benzenedicarboxylato)-tri-cobalt unknown solvate]",hasSpaceGroup,Cc
+536,SHF-61-DMF,hasSpaceGroup,Fddd
+537,SHF-61-CHCl3,hasSpaceGroup,Fddd
+538,LIFM-26(Fe),hasSpaceGroup,P-3
+539,CZJ-10,hasSpaceGroup,Pn-3n
+540,MOF-505,hasSpaceGroup,R-3m
+541,DUT-58,hasSpaceGroup,C2/c
+542,ZJNU-73,hasSpaceGroup,R-3m
+543,CPO-27-Ni,hasSpaceGroup,R-3
+544,MOF-In1,hasSpaceGroup,C2/c
+545,PCN-81,hasSpaceGroup,Pa-3
+546,AUBM-1,hasSpaceGroup,P42/ncm
+547,CZJ-22,hasSpaceGroup,Cmca
+548,CZJ-22-Cu,hasSpaceGroup,Cmca
+549,Zn-CZJ-22,hasSpaceGroup,Cmca
+550,PCN-250'',hasSpaceGroup,R-3c
+551,MMPF-10,hasSpaceGroup,Immm
+552,MORF-1,hasSpaceGroup,Pnnm
+553,NU-1000,hasSpaceGroup,P6/mmm
+554,ZTOF-1,hasSpaceGroup,P21/c
+555,NKU-111,hasSpaceGroup,P-3c1
+556,FJU-101,hasSpaceGroup,P4212
+557,ZTOF-2,hasSpaceGroup,P63/m
+558,JUB-1,hasSpaceGroup,Pnnm
+559,NU-1500-Cr,hasSpaceGroup,P-6m2
+560,PCN-608-NH2-BDC,hasSpaceGroup,P6/mmm
+561,SION-105,hasSpaceGroup,C2/c
+562,PCM-75,hasSpaceGroup,Ibca
+563,MIL-68 (In),hasSpaceGroup,Cmcm
+564,MIL-68 (Ga),hasSpaceGroup,Cmcm
+565,FIR-51,hasSpaceGroup,Pa-3
+566,TMU-46,hasSpaceGroup,P21/n
+567,JUC155,hasSpaceGroup,I4cm
+569,NNU-37,hasSpaceGroup,P21/c
+570,SNNU-150-In,hasSpaceGroup,Pca21
+571,TO-MOF,hasSpaceGroup,P1
+572,MIL-53 deuterium,hasSpaceGroup,Imcm
+574,NOTT-116,hasSpaceGroup,Fm-3m
+575,ZJU-9,hasSpaceGroup,R-3m
+576,But-33,hasSpaceGroup,Pm-3m
+577,But-32,hasSpaceGroup,Im-3m
+578,PCN-46,hasSpaceGroup,R-3m
+579,"catena-((μ2-Iodo)-(μ2-2,11-dithia(3.3)paracyclophane-S,S')-copper(i) acetonitrile clathrate)",hasSpaceGroup,Pnma
+580,"catena-((μ2-Bromo)-(μ2-2,11-dithia(3.3)paracyclophane-S,S')-copper(i) acetonitrile clathrate)",hasSpaceGroup,Pnma
+581,FJU-31,hasSpaceGroup,P21/c
+582,catena-(oxonium pyrrolidinium bis(μ6-5-phosphonoisophthalato)-tri-zinc tetrahydrate),hasSpaceGroup,I-42d
+583,CAU-17,hasSpaceGroup,P-3
+584,"catena-[(μ-5-(4-(carboxylatomethyleneoxy)phenyl)-10,15,20-tris(4-(carboxymethyleneoxy)phenyl)porphyrin-21,23-diyl)-(N,N-dimethylformamide)-nickel-potassium N,N-dimethylformamide solvate hemihydrate]",hasSpaceGroup,P-1
+585,DUT-129,hasSpaceGroup,I4
+586,NENU-507,hasSpaceGroup,I41/acd
+587,NENU-506,hasSpaceGroup,Pbcn
+588,D-NTU-18,hasSpaceGroup,P43
+589,L-NTU-18,hasSpaceGroup,P41
+590,MOF-177-OMe,hasSpaceGroup,R-3
+591,ZJU-19,hasSpaceGroup,Fmmm
+592,NU-111,hasSpaceGroup,Fm3m
+593,PCN-600(Fe),hasSpaceGroup,P6/mmm
+594,PCN-600(Co),hasSpaceGroup,P6/mmm
+595,catena-(tetrakis(μ2-Urocanoato)-di-cadmium(ii) ethanol solvate trihydrate),hasSpaceGroup,I41/a
+596,α-Zn|MCF-51,hasSpaceGroup,R-3
+597,MIL-126,hasSpaceGroup,P43212
+598,MOF-5,hasSpaceGroup,Fm-3m
+619,La-ThBTB,hasSpaceGroup,Cc
+620,La-PhBTTc,hasSpaceGroup,Cc
+621,TMOF-3,hasSpaceGroup,C2/c
+622,CAU-32,hasSpaceGroup,P21/n
+623,CAU-33,hasSpaceGroup,C2/c
+624,α-ZIF-65 unknown solvate,hasSpaceGroup,I-43m
+626,β-ZIF-65 unknown solvate,hasSpaceGroup,Ia-3
+628,MIL-53as,hasSpaceGroup,Pnam
+629,MIL-53ht,hasSpaceGroup,Imma
+630,MIL-53ht,hasSpaceGroup,Imcm
+631,MIL-53,hasSpaceGroup,Imcm
+633,NTU-25,hasSpaceGroup,R-3c
+634,NTU-23,hasSpaceGroup,R-3c
+635,NTU-24,hasSpaceGroup,R-3c
+636,JUC-105,hasSpaceGroup,P-62c
+637,CTGU-10a1,hasSpaceGroup,P-62c
+638,CPO-27-Co,hasSpaceGroup,R-3
+639,CPO-27-Mg,hasSpaceGroup,R-3
+640,CPO-27-Cu carbon dioxide,hasSpaceGroup,R-3
+775,TMU-16,hasSpaceGroup,C2/c
+993,CPO-27-Co carbon dioxide,hasSpaceGroup,R-3
+1000,CPO-27-Ni carbon dioxide,hasSpaceGroup,R-3
+1014,"catena-[bis(N-Methylmethanaminium) bis(μ4-terephthalato-O,O',O'',O''')-(μ4-terephthalato-O,O,O',O')-(μ2-terephthalato-O,O')-tri-cobalt(ii) dimethylformamide solvate]",hasSpaceGroup,C2/c
+1016,MUT-1,hasSpaceGroup,R3c
+1017,BIF-3-Cu,hasSpaceGroup,P-43n
+1018,IPM-206,hasSpaceGroup,C2/c
+1019,BUT-72,hasSpaceGroup,I41/amd
+1020,BUT-74,hasSpaceGroup,Immm
+1021,Co(II)-TMU-63,hasSpaceGroup,C2/c
+1022,BIF-3-Li,hasSpaceGroup,P-43n
+1023,PMOF-2(Zn),hasSpaceGroup,Fm-3m
+1024,MOF-217,hasSpaceGroup,Pa-3
+1027,JLU-Liu16,hasSpaceGroup,P63/m
+1028,JLU-Liu17,hasSpaceGroup,P63/m
+1029,MUF-15-F methanol solvate,hasSpaceGroup,Pna21
+1030,MUF-15-CH3 methanol solvate,hasSpaceGroup,P21/n
+1031,MUF-15-Br,hasSpaceGroup,P21/n
+1032,InOF-12,hasSpaceGroup,P42/mmc
+1033,InOF-13,hasSpaceGroup,P21212
+1034,"catena-[bis(μ-d-camphorato)-hexakis(μ-5-methyl-tetrazolato)-tetra-zinc N,N-dimethylformamide solvate]|MOZ-51",hasSpaceGroup,P212121
+1035,Mg-MOF-1,hasSpaceGroup,P6122
+1036,γ-MUF-10,hasSpaceGroup,P212121
+1037,UTSA-68,hasSpaceGroup,Cccm
+1038,BIF-41,hasSpaceGroup,C2/c
+1039,BIF-42,hasSpaceGroup,P21/n
+1040,LIFM-38,hasSpaceGroup,Aba2
+1041,NTU-140,hasSpaceGroup,P42212
+1042,NTU-141,hasSpaceGroup,P42212
+1043,catena-[tris(μ-glutarato)-triaqua-di-lanthanum(iii) pentahydrate],hasSpaceGroup,P-1
+1044,amino-MIL53(Al) NP form,hasSpaceGroup,Cc
+1045,"catena-(octakis(μ2-Urocanato-N3,O)-tetra-zinc(ii) heptadecahydrate)",hasSpaceGroup,I41/a
+1046,activated COK-18,hasSpaceGroup,Immm
+1047,NKU-112,hasSpaceGroup,Ia-3
+1048,catena-(bis(μ3-Terephthalato)-(μ2-terephthalato)-hexa-aqua-di-erbium(iii) dihydrate),hasSpaceGroup,C2/c
+1049,"catena-(bis((μ3-Nicotinato-N,O,O')-(μ2-nicotinato-N,O))-(μ2-aqua)-di-cobalt)",hasSpaceGroup,P21/c
+1050,MFM-133(Hf),hasSpaceGroup,P4/mnc
+1052,PCN-6'|Teaching Subset: MOFs,hasSpaceGroup,Fm-3m
+1053,MOF-HTB|Teaching Subset: MOFs,hasSpaceGroup,R-3m
+1054,MOF-HTB'|Teaching Subset: MOFs,hasSpaceGroup,Fm-3m
+1055,ZIF-8-6.05Ar,hasSpaceGroup,I-43m
+1056,ZIF-8 unknown solvate,hasSpaceGroup,I-43m
+1057,ZIF-8 6.32Ar,hasSpaceGroup,I-43m
+1058,ZIF-8 8.27methane,hasSpaceGroup,I-43m
+1059,ZIF-8 9.76methane,hasSpaceGroup,I-43m
+1060,ZIF-8 3.25methane,hasSpaceGroup,I-43m
+1061,ZIF-8 4.22dinitrogen,hasSpaceGroup,I-43m
+1062,ZIF-8 4.44dinitrogen,hasSpaceGroup,I-43m
+1063,ZIF-8 5.63dinitrogen,hasSpaceGroup,I-43m
+1064,ZIF-8 6.21dinitrogen,hasSpaceGroup,I-43m
+1065,ZIF-8 5.9Ar,hasSpaceGroup,I-43m
+1066,ZIF-8 6.23dinitrogen,hasSpaceGroup,I-43m
+1067,ZIF-8 6.29dinitrogen,hasSpaceGroup,I-43m
+1068,ZIF-8 5.5dinitrogen,hasSpaceGroup,I-43m
+1069,ZIF-8 10.08methane,hasSpaceGroup,I-43m
+1070,ZIF-8 6.06dioxygen,hasSpaceGroup,I-43m
+1071,ZIF-8 6.18dioxygen,hasSpaceGroup,I-43m
+1072,ZIF-8 8.16dioxygen,hasSpaceGroup,I-43m
+1073,ZIF-8 8.40dioxygen,hasSpaceGroup,I-43m
+1074,ZIF-8 8.25dinitrogen,hasSpaceGroup,I-43m
+1075,ZIF-8 5.5methane,hasSpaceGroup,I-43m
+1076,ZIF-8 4.08methane,hasSpaceGroup,I-43m
+1077,PCN-609,hasSpaceGroup,Immm
+1078,NHU-23,hasSpaceGroup,P-1
+1079,HNU-24,hasSpaceGroup,P-1
+1080,Zr-UiO-66-PZDC,hasSpaceGroup,Pa-3
+1081,PUM210,hasSpaceGroup,C2/c
+1082,IFMC-200,hasSpaceGroup,F-43c
+1083,PCN-38,hasSpaceGroup,P-1
+1084,MROF-12,hasSpaceGroup,P3
+1085,MFM-300(Al)|NOTT-300(Al),hasSpaceGroup,I4122
+1088,MIL-112,hasSpaceGroup,P21/c
+1089,ZJNU-91,hasSpaceGroup,C2/c
+1090,NTU-Z11,hasSpaceGroup,I4cm
+1091,NTU-Z10,hasSpaceGroup,I23
+1092,NTU-Z8,hasSpaceGroup,Fdd2
+1093,"catena-[(μ-5,11,17,23-tetra-t-butylthiacalix[4]arene-25,26,27,28-tetrakis(pyridin-3-ylmethoxy))-dibromo-cadmium chloroform solvate]",hasSpaceGroup,C2/c
+1094,SCNU-Z1-Cl*,hasSpaceGroup,P63/m
+1095,CZJ-18(H),hasSpaceGroup,Pbam
+1096,SNNU-51,hasSpaceGroup,P63/m
+1097,SNNU-52,hasSpaceGroup,P63/m
+1098,SNNU-54,hasSpaceGroup,P-6c2
+1099,IRMOF-23terp,hasSpaceGroup,Fm-3m
+1100,IRMOF-25terPh,hasSpaceGroup,Fm-3m
+1101,IRMOF-pentane,hasSpaceGroup,Fmmm
+1102,"catena-((μ8-2,5-Dioxyterephthalato)-di-nickel(ii) carbon dioxide)",hasSpaceGroup,R-3
+1103,InOF-18-2,hasSpaceGroup,P61
+1104,V105,hasSpaceGroup,Pbcn
+1105,PCN-514-DMA complex,hasSpaceGroup,P-1
+1106,PCN-518,hasSpaceGroup,C2/c
+1107,Mg-CUK-1 nonahydrate,hasSpaceGroup,P21/n
+1108,Mg-CUK-1,hasSpaceGroup,C2/c
+1110,Mg-CUK-1 pyridine solvate,hasSpaceGroup,C2/c
+1111,Mg-CUK-1 toluene solvate,hasSpaceGroup,C2/c
+1112,Mg-CUK-1 p-xylene solvate,hasSpaceGroup,C2/c
+1114,Mg-CUK-1 p-divinylbenzene solvate,hasSpaceGroup,C2/c
+1115,FCS-2,hasSpaceGroup,C2/c
+1116,ZJNU-15,hasSpaceGroup,R-3c
+1117,JXNU-6,hasSpaceGroup,P4122
+1118,IRMOF-61,hasSpaceGroup,P42/ncm
+1119,IRMOF-62,hasSpaceGroup,P3212
+1120,COK-69cp,hasSpaceGroup,P3
+1121,COK-69op,hasSpaceGroup,P3
+1122,ZJU-12,hasSpaceGroup,R-3m
+1123,MAC-6,hasSpaceGroup,C2/m
+1124,PCN-514 (DMA),hasSpaceGroup,P-1
+1125,PCN-516,hasSpaceGroup,P42/mmc
+1126,PCN-513,hasSpaceGroup,P-1
+1127,PCN-514,hasSpaceGroup,P-1
+1128,BIPT-2,hasSpaceGroup,C2/c
+1129,POMOF-1,hasSpaceGroup,I41/amd
+1130,GR-MOF-2,hasSpaceGroup,C2/c
+1131,GR-MOF-4,hasSpaceGroup,C2/c
+1132,GR-MOF-5,hasSpaceGroup,C2/c
+1133,ZIF-8,hasSpaceGroup,I-43m
+1134,ZIF8,hasSpaceGroup,I-43m
+1136,MAF-4,hasSpaceGroup,I-43m
+1138,JUC-62,hasSpaceGroup,R-3
+1139,JUC-63,hasSpaceGroup,Pna21
+1140,Δ-Fe-HAF-1,hasSpaceGroup,F432
+1141,Λ-Fe-HAF-1,hasSpaceGroup,F432
+1142,NKU-102,hasSpaceGroup,R-3
+1143,NKU-103,hasSpaceGroup,P3221
+1144,UMCM-150N2,hasSpaceGroup,P63/mmc
+1145,SBMOF-1 acetylene,hasSpaceGroup,P21/n
+1146,SBMOF-1 ethylene,hasSpaceGroup,P21/n
+1147,SBMOF-1 ethane,hasSpaceGroup,P21/n
+1148,SBMOF-2 acetylene,hasSpaceGroup,P-1
+1149,SBMOF-2 ethylene,hasSpaceGroup,P-1
+1150,SBMOF-2 ethane,hasSpaceGroup,P-1
+1151,CH4@DUT49cp,hasSpaceGroup,Pa-3
+1152,CH4@DUT49ip,hasSpaceGroup,Pa-3
+1153,UTSA-74a,hasSpaceGroup,R-3c
+1154,NJU-Bai2,hasSpaceGroup,P21/c
+1155,FJU-22,hasSpaceGroup,Pbcn
+1156,FJU-21,hasSpaceGroup,P21/c
+1157,HLJU-3,hasSpaceGroup,Fm-3m
+1158,HLJU-2,hasSpaceGroup,Fm-3m
+1159,TPMOF-1,hasSpaceGroup,P6/mcc
+1160,TPMOF-2,hasSpaceGroup,P-3c1
+1161,TPMOF-5,hasSpaceGroup,C2/m
+1162,truMOF-2,hasSpaceGroup,I213
+1163,UTSA-20,hasSpaceGroup,P63/mcm
+1164,NU-GRH-1,hasSpaceGroup,P42/mnm
+1165,NKB-1,hasSpaceGroup,I41/amd
+1166,"catena-[(μ8-4,4'-(Hexafluoroisopropylidene)diphthalato)-aqua-di-cadmium(ii) hydrate]",hasSpaceGroup,R-3
+1167,CAU-10-H Hydrated,hasSpaceGroup,I41
+1168,CAU-10-H dry,hasSpaceGroup,I41/amd
+1169,ZJNU-61(Ho),hasSpaceGroup,P21
+1170,Zn-MOF-74,hasSpaceGroup,R-3
+1171,Ni-MOF-74,hasSpaceGroup,R-3
+1172,Co-MOF-74,hasSpaceGroup,R-3
+1173,Mn-MOF-74,hasSpaceGroup,R-3
+1174,MMPF-18,hasSpaceGroup,R-3c
+1175,Δ-MOF-520 unknown solvate,hasSpaceGroup,P42212
+1176,Λ-MOF-520 trimesate unknown solvate,hasSpaceGroup,P42212
+1177,"Λ-MOF-520 3-(t-butoxycarbonylamino)propan-1,2-diolato unknown solvate",hasSpaceGroup,P42212
+1178,Λ-MOF-520 unknown solvate,hasSpaceGroup,P42212
+1179,Λ-MOF-520 methanolate unknown solvate,hasSpaceGroup,P43212
+1180,NOTT-300 (In) Desolvated|MFM-300(In),hasSpaceGroup,I4122
+1181,MFM-300(In),hasSpaceGroup,I4122
+1182,Cd-PAA-1,hasSpaceGroup,Pnna
+1183,Mn-FPAA-1,hasSpaceGroup,P21/c
+1184,Mn-INA-1,hasSpaceGroup,P21
+1185,JLU-31,hasSpaceGroup,Cmcm
+1186,NOTT-300 (In) 1.09 CD4|MFM-300(In) 1.09CD4 per In,hasSpaceGroup,I4122
+1187,catena-(bis(tetrabutylammonium) tris(μ2-chloranilato)-di-manganese(ii) methanol solvate),hasSpaceGroup,I-43d
+1188,URJC-1,hasSpaceGroup,Pn21a
+1189,Ubbp-3,hasSpaceGroup,P42/nmc
+1190,"catena-[hexakis(μ4-Terephthalato-O,O',O'',O''')-tetrakis(μ3-hydroxo)-dodecakis(μ3-isonicotinato)-octa-nickel(ii)-tetra-nickel(iii) dimethylformamide solvate hexadecahydrate]",hasSpaceGroup,I-43m
+1191,MIL-141(Cs),hasSpaceGroup,C2/c
+1192,MIL-141(Rb),hasSpaceGroup,C2/c
+1193,MIL-141(Na),hasSpaceGroup,C2/c
+1194,MIL-141(Li),hasSpaceGroup,C2/c
+1195,GWMOF-7,hasSpaceGroup,P21/c
+1196,GWMOF-8,hasSpaceGroup,P21/c
+1197,FIR-2,hasSpaceGroup,P-1
+1198,IPM-MOF-110,hasSpaceGroup,C2/c
+1199,MAF-23,hasSpaceGroup,P21/n
+1200,SION-10,hasSpaceGroup,P-1
+1201,HPU-1,hasSpaceGroup,P21/n
+1202,MMCF-1,hasSpaceGroup,P21/c
+1203,MTAF-3,hasSpaceGroup,C2/c
+1204,PCN-111,hasSpaceGroup,Fm-3m
+1205,Zn-Pd-2,hasSpaceGroup,Pna21
+1206,BMOF-2-dioxole,hasSpaceGroup,P-1
+1207,CAU-10-Br,hasSpaceGroup,I41/amd
+1208,MIL-96,hasSpaceGroup,P63/mmc
+1209,BMM-9,hasSpaceGroup,R-3
+1210,MIL-160.4H2O,hasSpaceGroup,I41md
+1211,MIL-160,hasSpaceGroup,I41/amd
+1212,MIL-160.2.3N2,hasSpaceGroup,I41/amd
+1213,"catena-[pentakis(μ-isonicotinato)-bis(μ-iodo)-tetrakis(N,N-dimethylformamide)-di-copper(i)-sodium(i)-di-strontium(ii)]",hasSpaceGroup,Pna21
+1214,"catena-[tetrakis(μ-isonicotinato)-bis(μ-iodo)-(μ-nitrato)-tetrakis(N,N-dimethylformamide)-di-copper(i)-sodium(i)-di-strontium(ii) N,N-dimethylformamide solvate hemihydrate]",hasSpaceGroup,P-1
+1215,"catena-((μ4-Muconato-O,O',O'',O''')-(μ2-muconato-O,O')-diaqua-tris(1,10-phenanthroline)-tri-copper(ii) bis(tetrafluoroborate) pentahydrate)",hasSpaceGroup,C2/c
+1216,JUST-3|LMOF-311,hasSpaceGroup,Pbcn
+1217,U-IHEP-4,hasSpaceGroup,Fm-3m
+1218,FMOF-1,hasSpaceGroup,I-42d
+1219,IRMOF-9,hasSpaceGroup,P21/n
+1220,BUT-36,hasSpaceGroup,P21/n
+1221,FJI-H22,hasSpaceGroup,P21/n
+1222,FJI-H22-MeOH,hasSpaceGroup,P2/n
+1223,FJI-H22(Recover),hasSpaceGroup,P21/n
+1224,ZJNU-97,hasSpaceGroup,P42/mnm
+1225,CMP-46,hasSpaceGroup,R32
+1226,EHU-30,hasSpaceGroup,P63/mmc
+1227,UNLPF-2,hasSpaceGroup,P42/mmc
+1228,InOF-8,hasSpaceGroup,P6/mcc
+1229,MUF-17,hasSpaceGroup,C2/c
+1230,IMP-32-Zr,hasSpaceGroup,Ibam
+1231,catena-(bis(oxonium)) bis(μ6-5-phosphonoisophthalato)-tri-zinc(ii)|catena-(bis(μ6-5-phosphonoisophthato)-tri-zinc(ii) bis(oxonium)),hasSpaceGroup,I-42d
+1232,hemikis(Cobaltocene) MIL-47(V),hasSpaceGroup,Imma
+1233,MesoMOF-2,hasSpaceGroup,Fm-3c
+1234,FJI-C2,hasSpaceGroup,P-421c
+1235,YZU-103,hasSpaceGroup,Fdd2
+1236,MOF-545,hasSpaceGroup,P6/mmm
+1237,"catena-((μ4-15,35,55,75-tetrakis(Pyrid-4-yl)-12,14,16,32,34,36,52,54,56,72,74,76-dodecamethyl-1,3,5,7-(1,3)benzenacyclo-octaphane-N,N',N'',N''')-di-silver bis(hexafluorophosphate) 1,2-dichlorobenzene solvate decahydrate)",hasSpaceGroup,I41/acd
+1238,UTSA-85,hasSpaceGroup,P-1
+1239,SNNU-35,hasSpaceGroup,R-3
+1240,SNNU-36,hasSpaceGroup,I4/mmm
+1241,NJU-Bai50,hasSpaceGroup,P-62m
+1242,SCU-101-Re,hasSpaceGroup,P-1
+1243,SCU101.TcO4,hasSpaceGroup,P-1
+1244,HNU-25,hasSpaceGroup,R-3c
+1245,AUBM-2(Ce),hasSpaceGroup,P-1
+1246,Zn-DBDA,hasSpaceGroup,P21/c
+1247,TIF-5Co,hasSpaceGroup,I41/a
+1248,TIF-5Zn,hasSpaceGroup,I41/a
+1249,PCN-167(In),hasSpaceGroup,P6/mcc
+1254,PCN-168(Fe),hasSpaceGroup,P6/mcc
+1260,ZIF-9,hasSpaceGroup,R-3
+1263,Co-ZIF-9,hasSpaceGroup,R-3
+1265,MOF-14,hasSpaceGroup,Im-3
+1276,#NAME?,hasSpaceGroup,P42212
+1283,-MOF-520-R-32,hasSpaceGroup,P42212
+1284,Δ-MOF-520-17,hasSpaceGroup,P42212
+1285,Δ-MOF-520-21,hasSpaceGroup,P42212
+1286,"-MOF-520 N,N-dimethylformamide solvate",hasSpaceGroup,P42212
+1287,Mg-CUK-1L Dehydrated,hasSpaceGroup,C2/c
+1288,Mg-CUK-1L incl. o-Xylene,hasSpaceGroup,C2/c
+1289,Mg-CUK-1L incl. AzB,hasSpaceGroup,P-1
+1290,Mg-CUK-1L,hasSpaceGroup,C2/c
+1291,SIFSIX-23-Cu-γ1,hasSpaceGroup,P21/c
+1292,SIFSIX-23-Cu-γ2,hasSpaceGroup,P1
+1293,DUT-159,hasSpaceGroup,R-3m
+1294,DUT-7(LT),hasSpaceGroup,P6522
+1295,DUT-7(RT),hasSpaceGroup,P6322
+1296,NOTT-114,hasSpaceGroup,Fm-3m
+1297,catena-((μ4-Squarato)-diaqua-cadmium(ii)),hasSpaceGroup,R-3
+1298,IRMOF-74-II,hasSpaceGroup,R-3
+1299,IRMOF-74-III,hasSpaceGroup,R-3
+1300,IRMOF-74-IV,hasSpaceGroup,R3
+1301,IRMOF-74-V-hex,hasSpaceGroup,R-3
+1302,IRMOF-74-VI,hasSpaceGroup,R3
+1303,IRMOF-74-VII,hasSpaceGroup,R3
+1304,IRMOF-74-VI-oeg,hasSpaceGroup,R-3
+1305,IRMOF-74-IX,hasSpaceGroup,R3
+1306,IRMOF-74-XI,hasSpaceGroup,R3
+1307,JUC-141,hasSpaceGroup,R-3m
+1308,UTSA-16,hasSpaceGroup,I-42d
+1309,Co6-MOF,hasSpaceGroup,P63/mcm
+1310,SCU-100,hasSpaceGroup,P42/nbc
+1311,FJI-Y1,hasSpaceGroup,P21/c
+1312,FJI-Y2,hasSpaceGroup,P21/c
+1313,NU-125,hasSpaceGroup,I4/m
+1314,"catena-[bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii) tangeritin clathrate unknown solvate]",hasSpaceGroup,C2/c
+1315,"catena-[bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii) hemikis(nobiletin) clathrate unknown solvate]",hasSpaceGroup,C2/c
+1316,"catena-[octakis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-tetracosakis(iodo)-dodeca-zinc(ii) pentakis(santonin) clathrate cyclohexane unknown solvate]",hasSpaceGroup,P21
+1317,"catena-[bis(bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii)) guaiazulene clathrate unknown solvate]",hasSpaceGroup,Cc
+1318,"catena-[bis(μ3-2,4,6-tris(Pyridin-4-yl)-1,3,5-triazine)-hexakis(iodo)-tri-zinc(ii) guaiazulene clathrate unknown solvate]",hasSpaceGroup,C2/c
+1319,catena-(tris(μ4-Terephthalato)-(μ3-oxo)-triaqua-tri-chromium(iii) fluoride tetracosakis(methanol) clathrate)|MIL88B_Methanol,hasSpaceGroup,P63/mmc
+1320,BUT-43,hasSpaceGroup,C2/c
+1321,IFMC-26-Tb,hasSpaceGroup,Pnna
+1322,IFMC-27-la,hasSpaceGroup,P-1
+1323,"catena-[bis(μ-2-oxypropane-1,2,3-tricarboxylato)-bis(μ-pyridine-4-carbohydrazide)-germanium-di-copper(ii) unknown solvate tetrahydrate]",hasSpaceGroup,P21/n
+1324,MOF-X1,hasSpaceGroup,P6522
+1325,D-ZIF-7,hasSpaceGroup,R-3
+1326,D-ZIF-7 CO2,hasSpaceGroup,R-3
+1329,TMU-41,hasSpaceGroup,P21/n
+1330,MOF-519,hasSpaceGroup,P42212
+1331,JLU-MOF60,hasSpaceGroup,I41/amd
+1332,α-NOTT-220,hasSpaceGroup,P2/c
+1333,β-NOTT-220,hasSpaceGroup,P2/c
+1334,InOF-22,hasSpaceGroup,I2/m
+1335,CPM-72,hasSpaceGroup,P4132
+1336,CPM-73,hasSpaceGroup,P4332
+1337,LIFM-114-Methanol,hasSpaceGroup,Cmma
+1338,LIFM-114-60C,hasSpaceGroup,Cmma
+1339,HUST4,hasSpaceGroup,Pnnm
+1340,HUST1,hasSpaceGroup,Pnnm
+1341,CdAPP-1,hasSpaceGroup,P-1
+1346,CPM-33a,hasSpaceGroup,P63/mmc
+1347,PCN-700,hasSpaceGroup,P42/mmc
+1348,UiO-66,hasSpaceGroup,Fm-3m
+1349,"catena-(tetrakis(μ3-3-Sulfanyl-D-valine-N,O,S,S)-di-gold(i)-di-platinum(ii)-zinc(ii) nonahydrate)",hasSpaceGroup,P6422
+1350,NNU-14,hasSpaceGroup,C2/m
+1351,IRMOF-77,hasSpaceGroup,R-3c
+1352,"catena-[(μ8-5,5'-Buta-1,3-diyne-1,4-diyldibenzene-1,3-dicarboxylato)-diaqua-di-copper(ii) dimethylformamide solvate trihydrate]|MOF-505",hasSpaceGroup,R-3m
+1353,"catena-[(μ-5,11,17,23-Tetra-t-butyl-25,26,27,28-tetrakis((4-cyanophenyl)sulfanediyl)-2,8,14,20-tetrathiacalix(4)arene)-di-silver bis(hexafluorophosphate) methanol chloroform solvate]",hasSpaceGroup,P21/n
+1354,SUMOF-7I,hasSpaceGroup,R32
+1360,SUMOF-7I(Ce),hasSpaceGroup,R32
+1361,SUMOF-7III(Eu),hasSpaceGroup,R32
+1362,CTGU-3,hasSpaceGroup,P-1
+1363,CTGU-4,hasSpaceGroup,Pmn21
+1364,MOF-5|Teaching Subset: MOFs,hasSpaceGroup,Fm-3m
+1366,534-MOF-Tb,hasSpaceGroup,C2/c
+1367,LCU-101,hasSpaceGroup,P21/c
+1368,Zr-CAU-28,hasSpaceGroup,P63/mmc
+1369,Ce-CAU-28,hasSpaceGroup,P63/mmc
+1370,Bio-MOF-100,hasSpaceGroup,Ia3d
+1371,N2@DUT-8(Ni),hasSpaceGroup,P21/m
+1372,CO2@DUT-8(Ni),hasSpaceGroup,P21/m
+1373,C4H10@DUT-8(Ni),hasSpaceGroup,P21/m
+1374,DUT-8(Ni) ip2,hasSpaceGroup,P1
+1375,"catena-[(μ8-2,5-Dioxidobenzene-1,4-dicarboxylato)-cobalt(ii)]",hasSpaceGroup,R-3
+1376,UPC-30,hasSpaceGroup,P21/c
+1377,BUT-52,hasSpaceGroup,Pn-3m
+1378,PCN-700-SA,hasSpaceGroup,P42/mmc
+1379,PCN-700-SA2,hasSpaceGroup,P42/mmc
+1380,FJI-Y3,hasSpaceGroup,I41/acd
+1381,MIL-53(Fe) m-xylene clathrate,hasSpaceGroup,Cc
+1382,MIL-53(Fe) o-xylene clathrate,hasSpaceGroup,Cc
+1383,MIL-53(Fe) p-xylene clathrate,hasSpaceGroup,Cc
+1384,CHD-1,hasSpaceGroup,P21/c
+1385,CHD-2,hasSpaceGroup,P212121
+1386,ocMOM-2-2,hasSpaceGroup,P212121
+1387,TMU-6(RL1),hasSpaceGroup,C2/c
+1388,FJI-Y8,hasSpaceGroup,C2/c
+1389,Au-ACM-1,hasSpaceGroup,Pnna
+1390,IOS-2(M),hasSpaceGroup,P3112
+1391,IOS-2(P),hasSpaceGroup,P3212
+1392,ZIF-4-Co,hasSpaceGroup,Pbca
+1393,UMCM-151-F,hasSpaceGroup,Immm
+1394,UMCM-151-Cl,hasSpaceGroup,Immm
+1395,JUC-58,hasSpaceGroup,P6122
+1396,"catena-[tris(μ3-Λ-tris(4-(4-Pyridyl)duryl)borane-N,N',N'')-(μ3-Δ-tris(4-(4-pyridyl)duryl)borane-N,N',N'')-octabromo-tetra-cadmium octahydrate]",hasSpaceGroup,R32
+1397,"catena-[tetrakis(μ3-tris(4-(4-Pyridyl)duryl)borane-N,N',N'')-octa-iodo-tetra-cadmium octahydrate]",hasSpaceGroup,R32
+1398,"catena-[tetrakis(μ3-tris(4-(4-Pyridyl)duryl)borane-N,N',N'')-octachloro-tetra-copper octahydrate]",hasSpaceGroup,R32
+1399,"catena-[tetrakis(μ3-tris(4-(4-Pyridyl)duryl)borane-N,N',N'')-octachloro-tetra-cobalt methanol solvate tetrahydrate]",hasSpaceGroup,R32
+1400,MAF-23 hemikis(propylene),hasSpaceGroup,P21/n
+1401,MAF-23 hemikis(propane),hasSpaceGroup,P21/n
+1402,MAF-23-O,hasSpaceGroup,P21/n
+1403,MAF-23-O hemikis(propylene),hasSpaceGroup,P21/n
+1404,MAF-23-O hemikis(propane),hasSpaceGroup,P21/n
+1405,IPCE-1Ni,hasSpaceGroup,C2/c
+1406,FDM-34,hasSpaceGroup,Pn-3
+1407,ATF-2,hasSpaceGroup,P4322
+1408,ATF-1P,hasSpaceGroup,P4122
+1409,CAU-27-BDC,hasSpaceGroup,I4/mcm
+1410,CAU-27-BPDC,hasSpaceGroup,I4/mcm
+1411,ATF-1M,hasSpaceGroup,P4322
+1412,ATF-1,hasSpaceGroup,P4122
+1413,ATF-2P,hasSpaceGroup,P4122
+1414,ZJU-28',hasSpaceGroup,P-1
+1415,"catena-((μ12-Phosphato)-bis(μ4-1-(2,4-difluorophenyl)-1,1-bis((1H-1,2,4-triazol-1-yl)methyl)methanolato)-(μ3-oxo)-heptacosakis(μ2-oxo)-pentaaqua-octaoxo-copper(i)-tri-copper(ii)-di-molybdenum(v)-deca-molybdenum(vi) hexahydrate)",hasSpaceGroup,P21/n
+1416,DUT-122(Zr),hasSpaceGroup,Pa-3
+1417,IISERP-MOF27,hasSpaceGroup,Cc
+1418,NICS-8,hasSpaceGroup,P-1
+1419,PMOF-55,hasSpaceGroup,P4/ncc
+1420,"catena-[(μ-2,8,14,20-tetramethylcalix[4]arene-4,5,6,10,11,12,16,17,18,22,23,24-dodecaolato)-(μ-formato)-(methanol)-penta-aqua-tetra-nickel unknown solvate]|catena-[(μ-2,8,14,20-tetramethylpyrogallo[4]arenato)-(μ-formato)-(methanol)-penta-aqua-tetra-nickel unknown solvate]",hasSpaceGroup,R-3
+1421,Sc-CAU-9-H2TCPP,hasSpaceGroup,Cmmm
+1422,AIST-1,hasSpaceGroup,P4322
+1423,"catena-[(μ3-2,5-Dihydroxybenzene-1,4-dicarboxylato-O,O',O'')-(μ2-4,4'-bipyridine-N,N')-zinc(ii) N,N-dimethylformamide solvate]",hasSpaceGroup,P-421c
+1424,JLU-Liu23P,hasSpaceGroup,P6122
+1425,JLU-Liu23M,hasSpaceGroup,P6522
+1426,CPM-202,hasSpaceGroup,C2
+1427,CPM-203,hasSpaceGroup,R32
+1428,CPM-205,hasSpaceGroup,C2/c
+1429,CPM-201,hasSpaceGroup,P3c1
+1430,MFM-300(Ga2),hasSpaceGroup,I4122
+1431,MFM-300(Ga2) carbon dioxide,hasSpaceGroup,I4122
+1432,"catena-[(μ3-5-Sulfonatoisophthalato)-(μ2-1,4-bis(pyridin-4-ylmethyl)piperazin-1-ium)-zinc(ii) tetrahydrate]",hasSpaceGroup,P21/n
+1433,TMOF-2,hasSpaceGroup,P212121
+1434,"catena-((μ-N',N'-bis[1-(pyrazine-2-yl)ethylidene]benzil dihydrazone)-di-silver(i) dinitrate acetonitrile monohydrate)",hasSpaceGroup,I41/acd
+1435,MIL-156,hasSpaceGroup,Pccn
+1436,TMU-31,hasSpaceGroup,P21/c
+1437,ZJU-197,hasSpaceGroup,P-1
+1438,FJI-Y7,hasSpaceGroup,C2/c
+1439,"catena-(bis(μ-3,6-bis(1,2,4-triazolyl)-2,5-dioxy-1,4-benzoquinone)-di-manganese(ii) methanol solvate)",hasSpaceGroup,P21/c
+1440,IFMC-6,hasSpaceGroup,P42/mnm
+1441,IFMC-7,hasSpaceGroup,R-3
+1442,IFMC-8,hasSpaceGroup,R-3c
+1443,ρ-ZMOF,hasSpaceGroup,Im-3m
+1444,NJU-Bai 41,hasSpaceGroup,R-3m
+1445,ZJNU-78,hasSpaceGroup,P42/mnm
+1446,"catena-[(μ-4,4'-azobispyridine)-(μ-methylsuccinato)-cadmium(ii) hydrate]",hasSpaceGroup,I2/a
+1447,"catena-[(μ-4,4'-azobispyridine)-(μ-methylglutarato)-cadmium(ii) pentahydrate]",hasSpaceGroup,C2/c
+1448,NTU-40,hasSpaceGroup,Pbcn
+1449,NTU-41,hasSpaceGroup,P21/c
+1450,"catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(ascorbic acid) clathrate acetonitrile solvate dodecahydrate]|catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(vitamin C) clathrate acetonitrile solvate dodecahydrate]",hasSpaceGroup,P63
+1451,"catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(pyridoxine) clathrate acetonitrile solvate pentadecahydrate]|catena-[tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-triaqua-calcium-hexa-copper(ii) bis(vitamin B6) clathrate acetonitrile solvate pentadecahydrate]",hasSpaceGroup,P63
+1452,"catena-[bupropion tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-bis(μ-hydroxo)-(μ-aqua)-calcium-hexa-copper(ii) clathrate docosahydrate]",hasSpaceGroup,P63
+1453,"catena-[17-β-estradiol tris(μ-2,2'-[(1,2-dioxoethane-1,2-diyl)diimino]bis(3-hydroxypropanoato))-tetrakis(μ-aqua)-bis(μ-hydroxo)-calcium-hexa-copper(ii) acetonitrile solvate hexahydrate]",hasSpaceGroup,P63
+1454,MOF-591,hasSpaceGroup,P-1
+1455,MOF-592,hasSpaceGroup,P-1
+1456,MOF-590,hasSpaceGroup,P-1
+1457,MFM-300V3-1.8C2D4,hasSpaceGroup,I4122
+1458,MFM-300V3-1.0C2D4,hasSpaceGroup,I4122
+1459,MFM-300V3-1.4CD4,hasSpaceGroup,I4122
+1460,MFM-300V3-1.0CD4,hasSpaceGroup,I4122
+1461,PCN-13,hasSpaceGroup,I-43d
+1462,NU-1000-C8H7NO4S,hasSpaceGroup,P6/mmm
+1463,NU-1000-C7H8O3S,hasSpaceGroup,P6/mmm
+1464,HPU-14,hasSpaceGroup,Pbca
+1465,CPO-27-Mg|MOF-74-Mg,hasSpaceGroup,R-3
+1466,PCN-262,hasSpaceGroup,P21/c
+1467,PCN-263,hasSpaceGroup,P21/c
+1468,PCN-266,hasSpaceGroup,Pbcm
+1469,PCN-280,hasSpaceGroup,R3m
+1470,PCN-285,hasSpaceGroup,R3
+1471,PCN-234,hasSpaceGroup,Pa-3
+1472,PCN-235,hasSpaceGroup,Pa-3
+1473,PCN-243,hasSpaceGroup,P63mc
+1474,PCN-245,hasSpaceGroup,P43212
+1475,PCN-247,hasSpaceGroup,P6322
+1476,"Gd-RUM2 hemikis(1-methyl-2-pyrrolidone) clathrate N,N-dimethylformamide solvate",hasSpaceGroup,C2/c
+1477,Ce-RUM3 caprolactam clathrate hydrate,hasSpaceGroup,C2/c
+1478,ZSTU-1,hasSpaceGroup,P63/mcm
+1479,ZSTU-2,hasSpaceGroup,P63/mcm
+1480,ZSTU-3,hasSpaceGroup,P63/mcm
+1489,FJI-9,hasSpaceGroup,P-3
+1490,SNNU-50,hasSpaceGroup,I4132
+1491,ZJNU-64,hasSpaceGroup,Pccn
+1492,ZJNU-63,hasSpaceGroup,P21/c
+1493,ZJNU-65,hasSpaceGroup,P-1
+1494,CALA-self,hasSpaceGroup,P61
+1495,JUC-103,hasSpaceGroup,R-3c
+1496,JUC-104,hasSpaceGroup,C2/c
+1497,MET-3,hasSpaceGroup,Fd-3m
+1498,Tb-sph-MOF-2,hasSpaceGroup,Fd-3
+1499,MOF-1004,hasSpaceGroup,Pm-3n
+1500,"catena-((μ3-Hydroxo)-(μ2-pyridine-4-carboxylato-O,N)-copper(ii) monohydrate clathrate)",hasSpaceGroup,P21/n
+1501,FJI-Y10,hasSpaceGroup,P-1
+1502,BIF-33,hasSpaceGroup,R3c
+1503,FJU-81,hasSpaceGroup,C2/c
+1504,"catena-[[μ-tris(4-carboxylatophenyl)phosphine oxide]-(N,N-dimethylformamide)-europium(iii) N,N-dimethylformamide solvate sesquihydrate]",hasSpaceGroup,P-1
+1505,"catena-[tetrakis(dimethylammonium) (μ-2,2',2'',2''',2'''',2''''',2'''''',2'''''''-((2,8,14,20-tetrakis(4-methylphenyl)pentacyclo[19.3.1.13,7.19,13.115,19]octacosa-1(25),3(28),4,6,9(27),10,12,15(26),16,18,21,23-dodecaene-4,6,10,12,16,18,22,24-octayl)octakis(oxy))octaacetato)-di-cadmium tetrahydrate unknown solvate]",hasSpaceGroup,C2/c
+1506,"catena-[tetrakis(dimethylammonium) (μ-2,2',2'',2''',2'''',2''''',2'''''',2'''''''-((2,8,14,20-tetrakis(4-methylphenyl)pentacyclo[19.3.1.13,7.19,13.115,19]octacosa-1(25),3(28),4,6,9(27),10,12,15(26),16,18,21,23-dodecaene-4,6,10,12,16,18,22,24-octayl)octakis(oxy))octaacetato)-bis(N,N-dimethylformamide)-di-zinc(ii) N,N-dimethylformamide solvate hexahydrate]",hasSpaceGroup,P21/n
+1507,"catena-[tetrakis(dimethylammonium) (μ-2,2',2'',2''',2'''',2''''',2'''''',2'''''''-((2,8,14,20-tetrakis(4-methylphenyl)pentacyclo[19.3.1.13,7.19,13.115,19]octacosa-1(25),3(28),4,6,9(27),10,12,15(26),16,18,21,23-dodecaene-4,6,10,12,16,18,22,24-octayl)octakis(oxy))octaacetato)-di-cobalt N,N-dimethylformamide solvate tetrahydrate]",hasSpaceGroup,P21/n
+1508,FJI-6,hasSpaceGroup,I4cm
+1509,FJI-H11-iPr,hasSpaceGroup,R-3m
+1510,catena-((μ7-ranelato)-(μ2-aqua)-tetraaqua-di-strontium(ii) hydrate),hasSpaceGroup,P-1
+1511,NU-1300,hasSpaceGroup,Fm-3m
+1512,"catena-[(μ6-3,3',3''-(2,4,6-Trioxo-1,3,5-triazinane-1,3,5-triyl)tripropanoato)-aqua-erbium(iii) dimethylformamide solvate dihydrate]",hasSpaceGroup,P-1
+1513,MFU-4l,hasSpaceGroup,Fm-3m
+1514,InMOF-1,hasSpaceGroup,P-1
+1515,DUT-122(Hf),hasSpaceGroup,Pa-3
+1516,UNLPF-10_1,hasSpaceGroup,Pnnm
+1517,UNLPF-10_2,hasSpaceGroup,Pnnm
+1518,CFA-8,hasSpaceGroup,C2/c
+1520,ZIF-204,hasSpaceGroup,P21/n
+1521,MIL-117,hasSpaceGroup,Pnmm
+1522,UTSA-15,hasSpaceGroup,Pbam
+1523,UTSA-36,hasSpaceGroup,P21/c
+1524,ZJU-198,hasSpaceGroup,Pbca
+1525,ZIF-8 iodine solvate,hasSpaceGroup,I-43m
+1527,SNU-30,hasSpaceGroup,Imma
+1528,SNU-30SC,hasSpaceGroup,Imma
+1529,"catena-[bis(μ3-6-Sulfinatonicotinato-N,O,O',O'',O''')-(4,4'-bipyridine-N,N')-di-copper(ii) methanol solvate dihydrate]",hasSpaceGroup,P21/n
+1530,TCZ-002,hasSpaceGroup,C2/c
+1531,CAU-10-HTATB,hasSpaceGroup,I41/a
+1532,BUT-70B,hasSpaceGroup,P21/c
+1533,BUT-70,hasSpaceGroup,P21/c
+1534,MUF-84g,hasSpaceGroup,P21/c
+1535,MUF-84c,hasSpaceGroup,Pnma
+1536,VNU-11,hasSpaceGroup,Fd-3m
+1537,ZIF-1,hasSpaceGroup,P21/n
+1538,ZIF-2,hasSpaceGroup,Pbca
+1539,ZIF-4-Zn,hasSpaceGroup,Pbca
+1540,ZIF-5,hasSpaceGroup,Ia-3d
+1542,ZIF-7,hasSpaceGroup,R-3
+1543,Zr-CAU-30-act,hasSpaceGroup,I41cd
+1544,SNNU-95,hasSpaceGroup,P21/c
+1545,MIL-68(In),hasSpaceGroup,Cmcm
+1551,MFM-601,hasSpaceGroup,I41/amd
+1552,SO2@MFM601,hasSpaceGroup,I41/amd
+1553,"catena-[(μ6-tris(2-(Carboxylato)ethyl)isocyanurate)-aqua-terbium(iii) N,N-dimethylformamide solvate]",hasSpaceGroup,P-1
+1554,CO2 SNU-9,hasSpaceGroup,C2/c
+1555,NOTT-12,hasSpaceGroup,P21/c
+1556,NJU-Bai 42,hasSpaceGroup,P21/c
+1557,BUT-107,hasSpaceGroup,Pnna
+1558,BUT-105,hasSpaceGroup,R-3c
+1559,BUT-104,hasSpaceGroup,C2/m
+1561,IISERP-MOF25,hasSpaceGroup,C2/c
+1562,MFM-520 0.92(N2O4),hasSpaceGroup,P42/mnm
+1563,MFM-520 0.93(N2O4),hasSpaceGroup,P42/mnm
+1564,MFM-520 0.89(N2O4),hasSpaceGroup,P42/mnm
+1566,MFM-520 0.57(N2O4),hasSpaceGroup,P42/mnm
+1568,PCN-60,hasSpaceGroup,Fm-3m
+1569,PCN-61,hasSpaceGroup,Fm-3m
+1570,JXNU-7(La),hasSpaceGroup,P21
+1571,JXNU-7(Nd),hasSpaceGroup,P21
+1572,JXNU-7(Sm),hasSpaceGroup,P21
+1573,JXNU-7(Eu),hasSpaceGroup,P21
+1574,"catena-[bis(μ2-2-thiobarbiturato-O,O')-(μ2-acetato-,O,O')-diaqua-neodymium(iii) dihydrate]",hasSpaceGroup,P21/n
+1575,NENU-505,hasSpaceGroup,C2/c
+1577,ZnGlyPyr-Desolvated (from Benzene),hasSpaceGroup,R3c
+1578,ZnGlyPyr-Desolvated (from Acetone),hasSpaceGroup,R3c
+1579,ZnAlaPyr-CO2 (low loading),hasSpaceGroup,R3
+1580,ZnAlaPyr-Desolvated,hasSpaceGroup,R3
+1581,ZnAlaPyr-Diethylformamide,hasSpaceGroup,R3
+1582,ZnAlaPyr-p-Xylene,hasSpaceGroup,R3
+1583,ZnAlaPyr-Desolvated (CO2 removed),hasSpaceGroup,R3
+1584,ZnAlaPyr-Trifluoroethanol,hasSpaceGroup,R3
+1585,ZnGlyPyr-CO2(high loading),hasSpaceGroup,R3c
+1586,PCN-991,hasSpaceGroup,R-3
+1587,MET-6,hasSpaceGroup,Fd-3m
+1588,MET-4,hasSpaceGroup,Fd-3m
+1589,MET-1,hasSpaceGroup,Fd-3m
+1590,"catena-[(μ4-Benzene-1,4-dicarboxylato-O,O',O'',O''')-bis(μ2-2-oxidopyridinium-3-carboxylato-O,O,O',O'')-(μ2-benzene-1,4-dicarboxylato-O,O',O'',O''')-diaqua-di-neodymium(iii) tetrahydrate]",hasSpaceGroup,P21/c
+1591,MCF-27,hasSpaceGroup,P41212
+1592,MCF-27,hasSpaceGroup,P43212
+1593,CPF-3,hasSpaceGroup,R-3c
+1594,NKU-106,hasSpaceGroup,P21
+1595,NKU-107,hasSpaceGroup,P-1
+1596,NKU-108,hasSpaceGroup,R-3
+1597,JUMP-1,hasSpaceGroup,Cmca
+1598,CPM-26-Zn,hasSpaceGroup,I-4
+1599,UTSA-61,hasSpaceGroup,I4/mmm
+1600,NENU-601,hasSpaceGroup,Ibam
+1601,MIL-96(Al)-HR,hasSpaceGroup,P63/mmc
+1602,CPM-326-Trip,hasSpaceGroup,C2
+1603,CPM-326-Phen,hasSpaceGroup,C2
+1604,CPM-325-Phez,hasSpaceGroup,P1
+1605,"catena-[tris(μ-bis(4-(4-carboxylatophenyl)-1H-3,5-dimethylpyrazolyl)methane)-aqua-tricarbonyl-tetra-manganese bromide ethanol solvate]",hasSpaceGroup,P21/m
+1606,"catena-[tris(μ-bis(4-(4-carboxylatophenyl)-1H-3,5-dimethylpyrazolyl)methane)-azido-tricarbonyl-tetra-manganese toluene solvate]",hasSpaceGroup,P21/m
+1607,C2H2@NKMOF-1-Cu,hasSpaceGroup,P-1
+1608,ZJU-13,hasSpaceGroup,R-3m
+1609,CPM-301,hasSpaceGroup,R3
+1610,CPM-300,hasSpaceGroup,P63
+1611,SXNU-J2,hasSpaceGroup,C2/c
+1612,UNM-1,hasSpaceGroup,I-4
+1613,JLNU-4,hasSpaceGroup,P21/c
+1614,TMOF-4,hasSpaceGroup,R-3c
+1615,UiO-67,hasSpaceGroup,Fm-3m
+1624,UiO67,hasSpaceGroup,Fm-3m
+1625,CPO-27-Zn,hasSpaceGroup,R-3
+1626,CPM-519-RHO,hasSpaceGroup,Im-3m
+1627,CPM-521-ABW,hasSpaceGroup,Pnma
+1628,CPM-520-GIS,hasSpaceGroup,I41/amd
+1629,SNNU-5-Al,hasSpaceGroup,R-3c
+1630,SNNU-5-Ga,hasSpaceGroup,R-3c
+1631,SNNU-5-In,hasSpaceGroup,R-3c
+1632,Th6-Me2BPDC-8b,hasSpaceGroup,P42/mmc
+1633,U6-Me2BPDC-8-H2O-1d,hasSpaceGroup,P42/mmc
+1634,TMU-60,hasSpaceGroup,Ibca
+1636,SIFSIX-3-Cu,hasSpaceGroup,P4/mmm
+1637,PCN-416,hasSpaceGroup,I-42m
+1638,"catena-[(μ4-Oxalato-O,O,O',O'',O'',O''')-tetrakis(μ3-3-pyridinecarboxylato-N,O,O')-(μ2-oxalato-O,O',O'',O''')-di-copper(i)-di-gadolinium(iii) tetrahydrate]",hasSpaceGroup,P21/c
+1639,CPO-27-Fe methanol solvate,hasSpaceGroup,R-3
+1640,CPO-27-Fe,hasSpaceGroup,R-3
+1641,INT-IRMOF-8-C,hasSpaceGroup,P-1
+1642,INT-IRMOF-8-B,hasSpaceGroup,P-1
+1643,UTSA-60,hasSpaceGroup,Imma
+1644,InPCF-1,hasSpaceGroup,P4/mnc
+1645,"catena-[bis(μ-4,5,6-trihydroxytetrahydro-2H-pyran-3-olato)-calcium methanol solvate dihydrate]",hasSpaceGroup,P43212
+1646,"catena-[(μ4-4,4'-Oxydibenzene-1,2-dicarboxylato-O,O',O'',O''')-bis(4,4'-bipyridine-N,N')-di-copper(ii)]",hasSpaceGroup,Fdd2
+1647,STA-12(Cd),hasSpaceGroup,R-3
+1648,TMU-56,hasSpaceGroup,P21/c
+1649,HKUST-1 0.56(dideuteroacetylene),hasSpaceGroup,Fm-3m
+1650,VNU-1-Zr,hasSpaceGroup,Fd-3m
+1651,Cd-MOF2,hasSpaceGroup,P-1
+1652,Cd-MOF8,hasSpaceGroup,P-1
+1653,Tb@MOF,hasSpaceGroup,P-1
+1654,Cd-MOF1,hasSpaceGroup,P-1
+1655,Cd-MOF4,hasSpaceGroup,P-1
+1656,DUT-10(Zn),hasSpaceGroup,Imma
+1657,DUT-11,hasSpaceGroup,Cccm
+1658,DUT-10(Co),hasSpaceGroup,Imma
+1659,DUT-10(Cu),hasSpaceGroup,Imma
+1660,DUT-12(Cu),hasSpaceGroup,P4/mnc
+1661,TMU-11,hasSpaceGroup,C2/c
+1662,FJU-53-Br,hasSpaceGroup,Imma
+1666,MFM-300(V(iii))-CO2,hasSpaceGroup,I4122
+1667,Im-MOF-2,hasSpaceGroup,P21/n
+1668,FJI-4,hasSpaceGroup,I23
+1669,FJI-5,hasSpaceGroup,I4cm
+1670,MIL-47 styrene high loading,hasSpaceGroup,Pn21a
+1671,VNU-18,hasSpaceGroup,P21/m
+1672,MOF-1201,hasSpaceGroup,P21
+1673,PTC-106,hasSpaceGroup,P213
+1674,catena-((μ4-letrozole)-copper(i) tetrafluoroborate chloroform solvate),hasSpaceGroup,Pbca
+1675,DUT-67,hasSpaceGroup,Fm-3m
+1677,NUM-1,hasSpaceGroup,C2/c
+1678,FJI-C5,hasSpaceGroup,Pnnm
+1679,FJI-C3,hasSpaceGroup,P21/n
+1680,MCIF-2,hasSpaceGroup,Pnna
+1681,Co-PMOF,hasSpaceGroup,Fmmm
+1682,CZJ-1-a,hasSpaceGroup,C2/m
+1683,TJT-100,hasSpaceGroup,Pbca
+1684,AHU-TW2,hasSpaceGroup,Fdd2
+1685,MIL-59,hasSpaceGroup,Pa-3
+1686,"catena-[(μ4-Oxalato-O,O,O',O'',O'',O''')-tetrakis(μ3-3-pyridinecarboxylato-N,O,O')-(μ2-oxalato-O,O',O'',O''')-di-copper(i)-di-lanthanum(iii) dihydrate]",hasSpaceGroup,P21/c
+1687,BUT-302,hasSpaceGroup,P3221
+1688,JLU-Liu3,hasSpaceGroup,C2221
+1689,InOF-4,hasSpaceGroup,P-42c
+1690,TMU-8,hasSpaceGroup,P-1
+1691,"catena-(bis(μ2-4,4'-bipyridine)-bis(μ2-thiosulfato)-tetraaqua-di-cadmium tetrahydrate)",hasSpaceGroup,P21/n
+1692,PCN-250,hasSpaceGroup,P-43n
+1694,PFC-17,hasSpaceGroup,I4/m
+1695,I2@MFM-300-V(IV),hasSpaceGroup,I4122
+1696,DUT-71,hasSpaceGroup,P4/mnc
+1697,DUT-73b,hasSpaceGroup,Pccn
+1698,UNM-2,hasSpaceGroup,C2/c
+1699,UNM-4,hasSpaceGroup,I2/a
+1700,UNM-5,hasSpaceGroup,I2/a
+1701,α-PCMOF21-Br,hasSpaceGroup,P-1
+1702,"catena-(bis(μ-2,4,6-tris(4-pyridyl)-1,3,5-triazine)-hexachloro-tri-zinc hemkis(6-{[5-(2,5-dimethylphenoxy)-2,2-dimethylpentanoyl]oxy}-3,4,5-trihydroxyoxane-2-carboxylic acid) cyclohexane solvate)",hasSpaceGroup,C2/c
+1703,MIL-53-muc,hasSpaceGroup,C2/m
+1704,PCN-427,hasSpaceGroup,P42/mnm
+1705,UPC-5,hasSpaceGroup,P-1
+1706,JLU-Liu7,hasSpaceGroup,Cmmm
+1707,CD-MOF-4,hasSpaceGroup,I4
+1708,JLU-Liu37,hasSpaceGroup,Pnma
+1709,JLU-Liu38,hasSpaceGroup,Pnma
+1710,NTU-26,hasSpaceGroup,P-1
+1711,MIL-88D,hasSpaceGroup,P-62c
+1712,catena-[hexakis(μ-D-penicilliamine)-tetraaqua-di-cobalt(iii)-tri-copper(i)-tri-sodium(i) ethanol solvate pentahydrate],hasSpaceGroup,C2
+1713,VPI-100(Ni),hasSpaceGroup,I4/m
+1714,VPI-100(Cu),hasSpaceGroup,I4/m
+1715,ZIF-65 methanol solvate,hasSpaceGroup,I-43m
+1724,FJU-16,hasSpaceGroup,Pcca
+1725,FJU-17,hasSpaceGroup,C2/c
+1726,CALF-25,hasSpaceGroup,C2/c
+1727,PCN-58,hasSpaceGroup,Fm-3m
+1728,MFM-300(Al)(NO2)2(N2O4)2,hasSpaceGroup,I4122
+1729,"catena-((μ4-3,3',5,5'-Tetramethyl-4,4'-bipyrazolato)-di-silver(i))",hasSpaceGroup,I-43d
+1730,SCU-16,hasSpaceGroup,P21/c
+1731,BUT-29,hasSpaceGroup,C2/c
+1732,CPM-311-RR,hasSpaceGroup,P6122
+1733,MFM-127,hasSpaceGroup,R-3c
+1734,MFM-127 1.2 CO2,hasSpaceGroup,R-3c
+1736,FJI-Y9,hasSpaceGroup,Pca21
+1737,VNU-21,hasSpaceGroup,Pbcn
+1738,MAC-6-Co2,hasSpaceGroup,C2/m
+1739,PMOF-4,hasSpaceGroup,Pm-3m
+1740,QUST-81,hasSpaceGroup,Fm-3m
+1741,CAU-16,hasSpaceGroup,C2/c
+1742,JUC-124,hasSpaceGroup,R-3
+1743,HPU-12,hasSpaceGroup,P-1
+1744,UoC-1,hasSpaceGroup,R-3
+1745,UoC-2,hasSpaceGroup,P-1
+1746,MAF-X5,hasSpaceGroup,R-3c
+1747,reo-MOF-1,hasSpaceGroup,Pm-3
+1748,pentaMOF-2,hasSpaceGroup,C2/c
+1749,NAT-MOF-2,hasSpaceGroup,P21/c
+1750,TMU-21,hasSpaceGroup,C2/c
+1751,PCN-21,hasSpaceGroup,Im-3m
+1752,ZJNU-10,hasSpaceGroup,Cmmm
+1753,bio-MOF-11,hasSpaceGroup,I41/a
+1754,NUIG1,hasSpaceGroup,C2/c
+1755,PCN-226(Cu),hasSpaceGroup,Ibam
+1756,PCN-226(Co),hasSpaceGroup,Ibam
+1757,MAF-49 hemihydrate,hasSpaceGroup,P3121
+1758,MAF-49,hasSpaceGroup,P3121
+1759,MAF-49 ethane,hasSpaceGroup,P3121
+1760,MAF-49 ethene,hasSpaceGroup,P3121
+1761,MAF-49 (carbon dioxide),hasSpaceGroup,P3121
+1762,CPL-1 bis(dioxygen),hasSpaceGroup,P21/c
+1763,UPJS-6,hasSpaceGroup,Pca21
+1764,UPJS-9,hasSpaceGroup,C2/c
+1765,H2O@MIL-161,hasSpaceGroup,I-42d
+1766,DMF@MIL-161,hasSpaceGroup,I-42d
+1767,MAF-23-C4H6,hasSpaceGroup,P21/n
+1768,MAF-23-n-C4H8,hasSpaceGroup,P21/n
+1769,MAF-23-C4H10,hasSpaceGroup,P21/n
+1770,MAF-23-i-C4H8,hasSpaceGroup,P21/n
+1771,NNU-15(Ce),hasSpaceGroup,P-1
+1772,NNU-15(Dy),hasSpaceGroup,P-1
+1773,NNU-15(Tb),hasSpaceGroup,P-1
+1774,MFM-300(Fe),hasSpaceGroup,I4122
+1775,JUC-199a,hasSpaceGroup,P21/c
+1776,CAU-8,hasSpaceGroup,I41/a
+1777,catena-(bis(μ4-hexakis(4-cyanophenyl)[3]radialene)-di-copper(i) bis(hexafluorophosphate) nitromethane solvate),hasSpaceGroup,Pbca
+1778,catena-(bis(μ4-hexakis(4-cyanophenyl)[3]radialene)-di-copper(i) bis(tetrafluoroborate) nitromethane solvate),hasSpaceGroup,Pbca
+1779,catena-(bis(μ6-hexakis(4-cyanophenyl)[3]radialene)-hexa-silver(i) hexaperchlorate nitromethane solvate),hasSpaceGroup,Pnna
+1780,VNU-20,hasSpaceGroup,P21/c
+1781,JUC-99,hasSpaceGroup,Cccm
+1782,IFMC-16,hasSpaceGroup,P41
+1783,JLU-MOF52,hasSpaceGroup,Fddd
+1784,ZJNU-87,hasSpaceGroup,P63/mmc
+1785,Cd-TTPBA-4,hasSpaceGroup,Pnma
+1786,IMP-23,hasSpaceGroup,I41/a
+1787,WUF-16,hasSpaceGroup,Cc
+1788,LIFM-100-pentanol,hasSpaceGroup,P21/c
+1789,LIFM-100,hasSpaceGroup,P21/c
+1790,"catena-[(μ-5,5-(4,5-bis(4-(tetrazolato-5-yl)phenyl)-[1,1:2,1-terphenyl]-4,4-diyl)bis(tetrazolato))-tetra-copper(i)]",hasSpaceGroup,P-1
+1791,DUT-67_D2O_loading1,hasSpaceGroup,Fm-3m
+1792,DUT-67_D2O_loading2,hasSpaceGroup,Fm-3m
+1793,DUT-67-loading3,hasSpaceGroup,Fm-3m
+1794,CAU-23,hasSpaceGroup,P21212
+1795,HBU-18,hasSpaceGroup,I41/amd
+1796,POST-66(Y),hasSpaceGroup,Fm-3c
+1797,ZnBTCA-T,hasSpaceGroup,P-1
+1798,CAU-21,hasSpaceGroup,I422
+1799,ZU-36-Ni,hasSpaceGroup,P4/mmm
