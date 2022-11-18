@@ -1,6 +1,6 @@
 # Exploring Pre-Trained Language Models to Build Knowledge Graph for Metal-Organic Frameworks (MOFs)
 Data and Jupyter notebooks of the paper: "Exploring Pre-Trained Language Models to Build
-Knowledge Graph for Metal-Organic Frameworks (MOFs)." Accepted in the Second Workshop on Knowledge Graphs and Big Data In Conjunction with IEEE Big Data 2022.
+Knowledge Graph for Metal-Organic Frameworks (MOFs)," accepted in the Second Workshop on Knowledge Graphs and Big Data In Conjunction with IEEE Big Data 2022.
 
 ## Introduction
 Building knowledge graph is a time-consuming and expensive process which often applies complex natural language processing (NLP) methods for extracting knowledge graph triples from text corpora. Pre-trained large language models (PLM) have emerged as a crucial type of approach that provides readily available knowledge for a range of AI applications. However, it is unclear whether it is feasible to construct domain-specific knowledge graphs from PLMs. Motivated by  building knowledge graphs to empower data-driven materials discovery, we explored a set of state-of-the-art pre-trained general-purpose and domain-specific language models to extract knowledge triples for metal-organic frameworks (MOFs). This repository contains the benchmark data and experimental notebooks.
